@@ -1,0 +1,4093 @@
+
+--- Fim da Página 1 ---
+
+
+--- Fim da Página 2 ---
+
+P O C K E T
+NOTEBOOK
+Pocket
+MEDICINE
+Fourth Edition
+Edited by
+MARC S. SABATINE, M.D., M.P.H.
+ASSOCIATE PROFESSOR OF MEDICINE
+HARVARD MEDICAL SCHOOL
+The Massachusetts General Hospital
+Handbook of Internal Medicine
+
+--- Fim da Página 3 ---
+
+Acquisitions Editor: Sonya Seigafuse
+Product Manager: Kerry Barrett
+Production Manager: Bridgett Dougherty
+Senior Manufacturing Manager: Benjamin Rivera
+Marketing Manager: Kim Schonberger
+Design Coordinator: Doug Smock
+Production Service: Aptara
+© 2011 by LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER
+business
+Two Commerce Square
+2001 Market Street
+Philadelphia, PA 19103 USA
+LWW.com
+All rights reserved.This book is protected by copyright. No part of this book may 
+be reproduced in any form by any means, including photocopying, or utilized by any
+information storage and retrieval system without written permission from the copyright
+owner, except for brief quotations embodied in critical articles and reviews. Materials
+appearing in this book prepared by individuals as part of their official duties as U.S.
+government employees are not covered by the above-mentioned copyright.
+Printed in China
+Library of Congress Cataloging-in-Publication Data
+Pocket medicine / edited by Marc S. Sabatine.–4th ed.
+p. ; cm.
+“The Massachusetts General Hospital Handbook of Internal Medicine.”
+Includes bibliographical references and index.
+ISBN-13: 978-1-60831-905-3 (domestic : alk. paper)
+ISBN-10: 1-60831-905-9 (domestic : alk. paper)
+ISBN-13: 978-1-4511-0335-9 (international : alk. paper)
+ISBN-10: 1-4511-0335-2 (international : alk. paper)
+1. Internal medicine–Handbooks, manuals, etc. I. Sabatine, Marc S.
+II. Massachusetts General Hospital.
+[DNLM: 1. Internal Medicine–Handbooks. 2. Clinical
+Medicine–Handbooks.
+WB 39 P7394 2011]
+RC55.P63 2011
+616–dc22
+2010024523
+DISCLAIMER Care has been taken to confirm the accuracy of the information presented
+and to describe generally accepted practices. However, the authors, editors, and publisher
+are not responsible for errors or omissions or for any consequences from application of the
+information in this book and make no warranty, expressed or implied, with respect to
+the currency, completeness, or accuracy of the contents of the publication. Application
+of the information in a particular situation remains the professional responsibility of the
+practitioner.
+The authors, editors, and publisher have exerted every effort to ensure that drug
+selection and dosage set forth in this text are in accordance with current recommenda-
+tions and practice at the time of publication.However,in view of ongoing research,changes
+in government regulations, and the constant flow of information relating to drug therapy
+and drug reactions, the reader is urged to check the package insert for each drug for any
+change in indications and dosage and for added warnings and precautions.This is particu-
+larly important when the recommended agent is a new or infrequently employed drug.
+Some drugs and medical devices presented in the publication have Food and Drug
+Administration (FDA) clearance for limited use in restricted research settings. It is the
+responsibility of the health care provider to ascertain the FDA status of each drug or
+device planned for use in their clinical practice.
+To purchase additional copies of this book, call our customer service department at
+(800) 638-3030 or fax orders to (301) 223-2320. International customers should call
+(301) 223-2300.
+Visit Lippincott Williams & Wilkins on the Internet: at LWW.com. Lippincott Williams
+& Wilkins customer service representatives are available from 8:30 am to 6 pm, EST.
+10 9 8 7 6 5 4 3 2 1
+
+--- Fim da Página 4 ---
+
+CONTENTS
+Contributing Authors
+vi
+Foreword
+ix
+Preface
+x
+CARDIOLOGY
+Rajat Gupta,Viviany R.Taqueti, David M. Dudzinski, Rory B.Weiner,
+Michelle O’Donoghue, Marc S. Sabatine
+Electrocardiography
+1-1
+Chest Pain
+1-3
+Noninvasive Evaluation of CAD
+1-4
+Coronary Angiography and Revascularization
+1-5
+Acute Coronary Syndromes
+1-6
+PA Catheter and Tailored Therapy
+1-12
+Heart Failure
+1-14
+Cardiomyopathies
+1-17
+Valvular Heart Disease
+1-20
+Pericardial Disease
+1-25
+Hypertension
+1-28
+Aortic Aneurysm
+1-30
+Acute Aortic Syndromes
+1-31
+Arrhythmias
+1-32
+Atrial Fibrillation
+1-35
+Syncope
+1-37
+Intracardiac Devices
+1-39
+Cardiac Risk Assessment for Noncardiac Surgery
+1-40
+PULMONARY
+Mary Berlik Rice, Kathryn A. Hibbert,Atul Malhotra
+Dyspnea
+2-1
+Pulmonary Function Tests (PFTs)
+2-1
+Asthma
+2-2
+Chronic Obstructive Pulmonary Disease
+2-5
+Hemoptysis
+2-7
+Solitary Pulmonary Nodule
+2-7
+Obstructive Sleep Apnea (OSA)
+2-8
+Interstitial Lung Disease
+2-9
+Pleural Effusion
+2-11
+Venous Thromboembolism (VTE)
+2-13
+Pulmonary Hypertension (PHT)
+2-16
+Respiratory Failure
+2-18
+Mechanical Ventilation
+2-19
+Acute Respiratory Distress Syndrome
+2-22
+Sepsis
+2-23
+GASTROENTEROLOGY
+Louis J. Cohen,Andrew S. de Lemos, Lawrence S. Friedman
+Esophageal and Gastric Disorders
+3-1
+Gastrointestinal Bleeding
+3-3
+Diarrhea, Constipation, and Ileus
+3-5
+Diverticular Disease
+3-9
+Inflammatory Bowel Disease
+3-10
+
+--- Fim da Página 5 ---
+
+Intestinal Ischemia
+3-12
+Pancreatitis
+3-13
+Abnormal Liver Tests
+3-15
+Hepatitis
+3-17
+Acute Liver Failure
+3-20
+Cirrhosis
+3-21
+Hepatic Vascular Disease
+3-25
+Ascites
+3-26
+Biliary Tract Disease
+3-27
+NEPHROLOGY
+Andrew L. Lundquist, Eugene P. Rhee, Hasan Bazari
+Acid-Base Disturbances
+4-1
+Sodium and Water Homeostasis
+4-6
+Potassium Homeostasis
+4-10
+Renal Failure
+4-12
+Glomerular Disease
+4-16
+Urinalysis
+4-18
+Nephrolithiasis
+4-19
+HEMATOLOGY-ONCOLOGY
+Andrew J. Aguirre, Franklin W. Huang, David B. Sykes, David T. Ting,
+Daniel J. DeAngelo, David P. Ryan
+Anemia
+5-1
+Disorders of Hemostasis
+5-6
+Platelet Disorders
+5-7
+Coagulopathies
+5-10
+Hypercoagulable States
+5-11
+Disorders of Leukocytes
+5-12
+Transfusion Therapy
+5-13
+Myelodysplastic Syndromes (MDS)
+5-14
+Myeloproliferative Neoplasms (MPN)
+5-15
+Leukemia
+5-17
+Lymphoma
+5-21
+Plasma Cell Dyscrasias
+5-24
+Hematopoietic Stem Cell Transplantation (HSCT)
+5-26
+Lung Cancer
+5-28
+Breast Cancer
+5-30
+Prostate Cancer
+5-32
+Colorectal Cancer (CRC)
+5-33
+Pancreatic Tumors
+5-35
+Oncologic Emergencies
+5-36
+Cancer of Unknown Primary Site
+5-37
+INFECTIOUS DISEASES
+Roby P. Bhattacharyya, Rachel P. Simmons, Nesli Basgoz
+Pneumonia
+6-1
+Fungal Infections
+6-3
+Infections in Susceptible Hosts
+6-4
+Urinary Tract Infections (UTI)
+6-5
+Soft Tissue and Bone Infections
+6-6
+Infections of the Nervous System
+6-9
+Bacterial Endocarditis
+6-12
+Tuberculosis
+6-15
+
+--- Fim da Página 6 ---
+
+HIV/AIDS
+6-17
+Tick-Borne Diseases
+6-21
+Fever of Unknown Origin (FUO)
+6-23
+ENDOCRINOLOGY
+Alaka Ray, Geoffrey A.Walford, Michael Mannstadt
+Pituitary Disorders
+7-1
+Disorders of Multiple Endocrine Systems
+7-2
+Thyroid Disorders
+7-3
+Adrenal Disorders
+7-7
+Calcium Disorders
+7-11
+Diabetes Mellitus
+7-13
+Lipid Disorders
+7-16
+RHEUMATOLOGY
+Gwen C. Crevensten, Katherine P. Liao, Robert P. Friday
+Arthritis—Overview
+8-1
+Rheumatoid Arthritis (RA)
+8-3
+Relapsing Polychondritis
+8-4
+Crystal Deposition Arthritides
+8-5
+Seronegative Spondyloarthritis
+8-7
+Infectious Arthritis & Bursitis
+8-9
+Connective Tissue Diseases
+8-11
+Systemic Lupus Erythematosus (SLE)
+8-15
+Vasculitis
+8-17
+Cryoglobulinemia
+8-21
+Amyloidosis
+8-22
+NEUROLOGY
+David Y. Hwang,Atul Maheshwari, Mikael L. Rinne, David M. Greer
+Change in Mental Status
+9-1
+Seizures
+9-3
+Alcohol Withdrawal
+9-5
+Stroke
+9-6
+Weakness & Neuromuscular Dysfunction
+9-8
+Headache
+9-10
+Back and Spinal Cord Disease
+9-11
+APPENDIX
+ACLS Algorithms
+10-1
+ICU Medications
+10-4
+Antibiotics
+10-6
+Formulae and Quick Reference
+10-7
+ABBREVIATIONS
+11-1
+INDEX
+I-1
+PHOTO INSERTS
+Radiology
+P-1
+Echocardiography
+P-9
+Coronary Angiography
+P-13
+Peripheral Blood Smears
+P-13
+Leukemias
+P-14
+Urinalysis
+P-15
+
+--- Fim da Página 7 ---
+
+CONTRIBUTING AUTHORS
+Andrew J. Aguirre, MD, PhD
+Internal Medicine Resident, Massachusetts General Hospital
+Nesli Basgoz, MD
+Associate Chief and Clinical Director, Infectious Disease Division,
+Massachusetts General Hospital
+Associate Professor of Medicine, Harvard Medical School
+Hasan Bazari, MD
+Attending Physician, Nephrology Unit, Massachusetts General Hospital
+Program Director, Internal Medicine Residency, Massachusetts 
+General Hospital
+Associate Professor of Medicine, Harvard Medical School
+Roby P. Bhattacharyya, MD, PhD
+Internal Medicine Resident, Massachusetts General Hospital
+Louis J. Cohen, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Gwen C. Crevensten, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Andrew S. de Lemos, MD
+Gastroenterology Fellow, Massachusetts General Hospital
+Daniel J. DeAngelo, MD, PhD
+Clinical Director, Adult Leukemia Program, Dana-Farber Cancer
+Institute & Brigham and Women’s Hospital
+Associate Professor of Medicine, Harvard Medical School
+David M. Dudzinski, MD, JD
+Cardiology Fellow, Massachusetts General Hospital
+Robert P. Friday, MD, PhD
+Attending Physician, Rheumatology Unit, Massachusetts General Hospital
+Associate Director, Rheumatology Fellowship Program, Massachusetts
+General Hospital
+Instructor in Medicine, Harvard Medical School
+Lawrence S. Friedman, MD
+Chair, Department of Medicine, Newton-Wellesley Hospital
+Assistant Chief of Medicine, Massachusetts General Hospital
+Professor of Medicine, Harvard Medical School
+Professor of Medicine,Tufts University School of Medicine
+David M. Greer, MD, MA
+Director, Neurological Consultation Service, Massachusetts General
+Hospital
+Program Director, Partners Neurology Residency Program
+Associate Professor of Neurology, Harvard Medical School
+
+--- Fim da Página 8 ---
+
+Rajat Gupta, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Kathryn A. Hibbert, MD
+Pulmonary and Critical Care Fellow, Harvard Medical School
+Franklin W. Huang, MD, PhD
+Internal Medicine Resident, Massachusetts General Hospital
+David Y. Hwang, MD
+Neurology Resident, Partners Neurology Residency
+Katherine P. Liao, MD, MPH
+Rheumatology Fellow, Brigham and Women’s Hospital
+Andrew L. Lundquist, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Atul Maheshwari, MD
+Neurology Resident, Partners Neurology Residency
+Atul Malhotra, MD
+Associate Physician, Divisions of Pulmonary & Critical Care and Sleep
+Medicine, Brigham and Women’s Hospital
+Medical Director of the Brigham Sleep Disorders Program
+Associate Professor of Medicine, Harvard Medical School
+Michael Mannstadt, MD
+Assistant Physician, Endocrine Unit, Massachusetts General Hospital
+Instructor in Medicine, Harvard Medical School
+Michelle O’Donoghue, MD, MPH
+Investigator,TIMI Study Group and Associate Physician, Cardiovascular
+Division, Brigham and Women’s Hospital
+Affiliate Physician, Cardiology Division, Massachusetts General Hospital
+Instructor in Medicine, Harvard Medical School
+Alaka Ray, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Eugene P. Rhee, MD
+Nephrology Fellow, BWH/MGH Joint Nephrology Fellowship Program
+Mary Berlik Rice, MD
+Internal Medicine Resident, Massachusetts General Hospital
+Mikael L. Rinne, MD, PhD
+Neurology Resident, Partners Neurology Residency
+David P. Ryan, MD
+Clinical Director, Massachusetts General Hospital Cancer Center
+Associate Chief of Hematology/Oncology, Massachusetts General
+Hospital
+Associate Professor of Medicine, Harvard Medical School
+
+--- Fim da Página 9 ---
+
+Marc S. Sabatine, MD, MPH
+Vice Chair,TIMI Study Group and Associate Physician, Cardiovascular
+Division, Brigham and Women’s Hospital
+Affiliate Physician, Cardiology Division, Massachusetts General Hospital
+Associate Professor of Medicine, Harvard Medical School
+Rachel P. Simmons, MD
+Infectious Disease Fellow, Massachusetts General Hospital and Brigham
+and Women’s Hospital
+David B. Sykes, MD, PhD
+Hematology-Oncology Fellow, Dana-Farber/Partners CancerCare
+Hematology/Oncology Program
+Viviany R.Taqueti, MD
+Internal Medicine Resident, Massachusetts General Hospital
+David T.Ting, MD
+Hematology-Oncology Fellow, Dana-Farber/Partners CancerCare
+Hematology/Oncology Program
+Geoffrey A.Walford, MD
+Endocrinology Fellow, Massachusetts General Hospital
+Rory B.Weiner, MD
+Cardiology Fellow, Massachusetts General Hospital
+
+--- Fim da Página 10 ---
+
+FOREWORD
+To the 1st Edition
+It is with the greatest enthusiasm that I introduce Pocket Medicine. In an
+era of information glut, it will logically be asked,“Why another manual
+for medical house officers?” Yet, despite enormous information readily
+available in any number of textbooks, or at the push of a key on a com-
+puter, it is often that the harried house officer is less helped by the
+description of differential diagnosis and therapies than one would wish.
+Pocket Medicine is the joint venture between house staff and faculty
+expert in a number of medical specialties.This collaboration is designed
+to provide a rapid but thoughtful initial approach to medical problems
+seen by house officers with great frequency. Questions that frequently
+come from faculty to the house staff on rounds, many hours after the
+initial interaction between patient and doctor, have been anticipated and
+important pathways for arriving at diagnoses and initiating therapies are
+presented.This approach will facilitate the evidence-based medicine dis-
+cussion that will follow the workup of the patient.This well-conceived
+handbook should enhance the ability of every medical house officer to
+properly evaluate a patient in a timely fashion and to be stimulated to
+think of the evidence supporting the diagnosis and the likely outcome of
+therapeutic intervention. Pocket Medicine will prove to be a worthy addi-
+tion to medical education and to the care of our patients.
+DENNIS A. AUSIELLO, MD
+Physician-in-Chief, Massachusetts General Hospital
+Jackson Professor of Clinical Medicine, Harvard Medical School
+
+--- Fim da Página 11 ---
+
+PREFACE
+For Jenny, Matteo, and Natalie with love
+Written by residents, fellows, and attendings, the mandate for Pocket
+Medicine was to provide,in a concise a manner as possible,the key infor-
+mation a clinician needs for the initial approach to and management of
+the most common inpatient medical problems.
+The tremendous response to the previous editions suggests we
+were able to help fill an important need for clinicians.With this fourth
+edition come several major improvements including: a thorough updat-
+ing of every topic; the addition of several new topics (including acute
+aortic syndromes, sepsis, obstructive sleep apnea, hepatic vascular dis-
+ease, optimal use of diuretics, viral respiratory infections, infections in
+susceptible hosts, intensive glycemic control, approach to the patient
+with joint pain, and alcohol withdrawal); incorporation of references to
+the most recent reviews and important studies published through the
+middle of 2010; and the addition of high-resolution chest radiographs,
+chest and abdominal CTs, and echocardiograms, and photomicrographs
+of peripheral blood smears and urinalyses.We welcome any suggestions
+for further improvement.
+Of course medicine is far too vast a field to ever summarize in a
+textbook of any size. Long monographs have been devoted to many of
+the topics discussed herein. Pocket Medicine is meant only as a starting
+point to guide one during the initial phases of diagnosis and management
+until one has time to consult more definitive resources. Although the
+recommendations herein are as evidence-based as possible, medicine is
+both a science and an art.As always, sound clinical judgement must be
+applied to every scenario.
+I am grateful for the support of the house officers, fellows, and
+attendings at the Massachusetts General Hospital.It is a privilege to work
+with such a knowledgeable,dedicated,and compassionate group of physi-
+cians. I always look back on my time there as Chief Resident as one of
+the best experiences I have ever had. I am grateful to several outstanding
+clinical mentors, including Hasan Bazari, Denny Ausiello, Larry Friedman,
+Nesli Basgoz, Mort Swartz, Eric Isselbacher, Bill Dec, Mike Fifer, and
+Roman DeSanctis, as well as the late Charlie McCabe and Peter Yurchak.
+Special thanks to my parents for their perpetual encouragement and love
+and, of course, to my wife, Jennifer Tseng, who, despite being a surgeon, is
+my closest advisor, my best friend, and the love of my life.
+I hope that you find Pocket Medicine useful throughout the arduous
+but incredibly rewarding journey of practicing medicine.
+MARC S. SABATINE, MD, MPH
+
+--- Fim da Página 12 ---
+
+ELECTROCARDIOGRAPHY
+Approach (a systematic approach is vital) 
+• Rate (? tachy, brady) and rhythm (? relationship between P and QRS)
+• Intervals (PR, QRS, QT) and axis (? LAD or RAD)
+• Chamber abnormality (? LAA and/or RAA, ? LVH and/or RVH)
+• QRST changes (? Q waves, poor R-wave progression V1–V6, ST c/T, or T-wave s)
+Left axis deviation (LAD)
+• Definition: axis beyond –30 (S  R in lead II)
+• Etiologies: LVH, LBBB, inferior MI,WPW
+• Left anterior fascicular block: LAD (–45 to
+–90) and qR in aVL and QRS 120 msec and
+no other cause of LAD (eg, IMI)
+Right axis deviation (RAD)
+• Definition: axis beyond 90 (S  R in lead I)
+• Etiologies: RVH, PE, COPD (usually not 110),
+septal defects, lateral MI,WPW
+• Left posterior fascicular block: RAD (90–180)
+and rS in I & aVL and qR in III & aVF and
+QRS 120 msec and no other cause of RAD
+Bundle Branch Blocks (Circ 2009;119:e235)
+Initial depol. is left-to-right across septum (r in V1 & q in V6;
+Normal
+nb, absent in LBBB) followed by LV & RV free wall, with LV
+dominating (nb, RV depol. later and visible in RBBB).
+RBBB
+1. QRS 120 msec (110–119  incomplete)
+2. rSR’ in R precordial leads (V1,V2)
+3. Wide S wave in I and V6
+4.
+	 STT or TWI in R precordial leads
+LBBB
+1. QRS 120 msec (110–119  incomplete)
+2. Broad, slurred, monophasic R in I, aVL,V5–V6 (	 RS in 
+V5–V6 if cardiomegaly)
+3. Absence of Q in I,V5, and V6 (may have narrow q in aVL)
+4. Displacement of ST & Tw opposite major QRS deflection
+5.
+	 PRWP, LAD, Qw’s in inferior leads
+Bifascicular block: RBBB  LAFB/LPFB
+Prolonged QT interval (JAMA 2003;289:2120; NEJM 2004;350:1013; www.torsades.org)
+• QT measured from beginning of QRS complex to end of T wave (measure longest QT)
+• QT varies w/ HR S correct w/ Bazett formula: QTc  QT/
+(in sec),
+formula inaccurate at very high and low HR (nl QTc 450 msec  and 460 msec )
+• Etiologies:
+Antiarrhythmics: class Ia (procainamide, disopyramide), class III (amiodarone, sotalol)
+Psych drugs: antipsychotics (phenothiazines, haloperidol, atypicals), Li, ? SSRI,TCA
+Antimicrobials: macrolides, quinolones, voriconazole, pentamidine, atovaquone,
+chloroquine, amantadine, foscarnet, atazanavir, ? TMP-SMX
+Other: antiemetics (droperidol, 5-HT3 antagonists), alfuzosin, methadone, ranolazine
+Electrolyte disturbances: hypoCa, ? hypoK, ? hypoMg
+Autonomic dysfxn: ICH (deep TWI), stroke, carotid endarterectomy, neck dissection
+Congenital (long QT syndrome): K, Na, Ca channelopathies (Lancet 2008;372:750)
+Misc: CAD, CMP, bradycardia, high-grade AVB, hypothyroidism, hypothermia
+Left Atrial Abnormality (LAA)
+Right Atrial Abnormality (RAA)
+ECG
+P wave
+Criteria
+Left ventricular hypertrophy (LVH) (Circ 2009;119:e251)
+• Etiologies: HTN,AS/AI, HCMP, coarctation of aorta
+• Criteria (all w/ Se 50%, Sp 85%)
+Romhilt-Estes point-score system: 4 points  probable, 5 points  definite
+cAmplitude (any of the following):largest R or S in limb leads 20 mm or S in V1 or V2
+30 mm or R in V5 or V6 30 mm (3 points)
+1RR
+V
+V
+I  0°
+II
++60°
+III
++120°
+aVL
+−30°
+aVF
++90°
+aVR
+−150°
+−90°
+±180°
+LAD
+RAD
+normal
+axis
+Figure 1-1 QRS axis
+>120 msec
+>40 msec
+II
+V
+or
+>1 mm
+II
+V1
+or
+>1.5 mm
+>2.5 mm
+ECG
+1-1
+
+--- Fim da Página 13 ---
+
+ST displacement opposite to QRS deflection: w/o dig (3 points); w/ dig (1 point)
+LAA (3 points); LAD (2 points); QRS duration 90 msec (1 point)
+Intrinsicoid deflection (QRS onset to peak of R) in V5 or V6 50 msec (1 point)
+Sokolow-Lyon: S in V1  R in V5 or V6 35 mm
+Cornell: R in aVL  S in V3 28 mm in men or 20 mm in women
+Other: R in aVL 11 mm (or, if LAD/LAFB, 13 mm and S in III 15 mm)
+Right ventricular hypertrophy (RVH) (Circ 2009;119:e251)
+• Etiologies: cor pulmonale, congenital (tetralogy,TGA, PS,ASD,VSD), MS,TR
+• Criteria (all tend to be insensitive, but highly specific, except in COPD)
+R  S in V1 or R in V1 7 mm, S in V5 or V6 7 mm, drop in R/S ratio across precordium
+RAD 110 (LVH  RAD or prominent S in V5 or V6 S biventricular hypertrophy)
+Ddx of dominant R wave in V1 or V2
+• Ventricular enlargement: RVH (RAD, RAA, deep S waves in I,V5,V6); HCMP
+• Myocardial injury: true posterior MI (often IMI); Duchenne muscular dystrophy
+• Abnormal depolarization: RBBB (QRS 120 msec, rSR’);WPW (T PR, 
+ wave, c QRS)
+• Other: dextroversion; lead misplacement; normal variant
+Poor R-wave progression (PRWP) (Archives 1982;142:1145)
+• Definition: loss of anterior forces w/o frank Q waves (V1–V3); R wave in V3 3 mm
+• Etiologies:
+old anteroseptal MI (usually R wave V3 1.5 mm, 	 persistent ST c or TWI V2 & V3)
+cardiomyopathy 
+LVH (delayed RWP with prominent left precordial voltage)
+RVH/COPD (small R wave and prominent S wave in lead I)
+LBBB;WPW; clockwise rotation of the heart; lead misplacement
+Pathologic Q waves
+• Definition: 30 msec or 25% height of the R wave in that complex
+• Small (septal) q waves in I, aVL,V5 & V6 are normal, as can be isolated Qw in III, aVR,V1
+• “Pseudoinfarct” pattern may be seen in LBBB, infiltrative disease, HCMP, COPD, PTX,WPW
+ST elevation (STE) (NEJM 2003;349:2128; Circ 2009;119:e241, e262)
+• Acute MI (upward convexity 	 TWI) or prior MI with persistent STE
+• Coronary spasm (Prinzmetal’s angina; transient STE in a coronary distribution)
+• Myopericarditis (diffuse, upward concavity STE; a/w PR T;Tw usually upright)
+• HCMP, Takotsubo CMP, ventricular aneurysm, cardiac contusion 
+• Pulmonary embolism (occ. STE V1–V3; typically associated TWI V1–V4, RAD, RBBB)
+• Repolarization abnormalities
+LBBB (c QRS duration, STE discordant from QRS complex)
+dx of STEMI in setting of LBBB: 1 mm STE concordant w/ QRS (Se 73%, Sp 92%)
+or 5 mm discordant (Se 31%, Sp 92%) (“Sgarbossa criteria,” NEJM 1996;334:481)
+LVH (c QRS amplitude); Brugada syndrome (rSR’, downsloping STE V1–V2)
+Hyperkalemia (c QRS duration, tall Ts, no Ps)
+• Early repolarization: most often seen in leads V2–V5 and in young adults 
+J point c 1–4 mm; notch in downstroke of R wave; upward concavity of ST; large Tw;
+ratio of STE / T wave amplitude 25%; pattern may disappear with exercise
+early repol in inf leads may be a/w c risk of VF, but absolute risk low (NEJM 2009;361:2529)
+ST depression (STD)
+• Myocardial ischemia (	 Tw abnl) or acute true posterior MI (V1–V3)
+• Digitalis effect (downsloping ST 	 Tw abnl, does not correlate w/ dig levels)
+• Hypokalemia (	 U wave)
+• Repolarization abnl in a/w LBBB or LVH (usually in leads V5,V6, I, aVL)
+T wave inversion (TWI; generally 1 mm; deep if 5 mm) (Circ 2009;119:e241)
+• Ischemia or infarct;Wellens’ sign (deep early precordial TWI) S proximal LCA lesion
+• Myopericarditis; CMP (incl Takotsubo & ARVD); MVP; PE (especially if TWI V1–V4)
+• Repolarization abnl in a/w LVH/RVH (“strain pattern”), BBB
+• Post-tachycardia or post-pacing
+• Electrolyte, digoxin, PaO2, PaCO2, pH, or core temperature disturbances
+• Intracranial bleed (“cerebral T waves,” usually w/ c QT)
+• Normal variant in children (V1–V4) and leads in which QRS complex predominantly ;
+profound TWI in young athletes may predict future risk of CMP (NEJM 2008;358:152)
+Low voltage
+• QRS amplitude (R  S) 5 mm in all limb leads & 10 mm in all precordial leads
+• Etiologies: COPD (precordial leads only), pericardial effusion, myxedema, obesity,
+pleural effusion, restrictive or infiltrative CMP, diffuse CAD
+ECG
+1-2
+
+--- Fim da Página 14 ---
+
+CHEST PAIN
+1-3
+CHEST PAIN
+Cardiac Causes
+Disorder
+Typical Characteristics & Diagnostic Studies
+Unstable 
+Substernal pressure S neck, jaw, L arm; 30. 	 Dyspnea, diaphoresis,
+angina
+N/V. c w/ exertion; T w/ NTG or rest; however, relief by NTG in ED not 
+reliable indicator of angina (Annals EM 2005;45:581). 	 ECG s (ST T/c,TWI).
+MI
+Same as angina but c intensity & duration.  troponin or CK-MB.
+Pericarditis
+Sharp pain S trapezius, c w/ respiration, T w/ sitting forward. 	 Pericardial
+& Myo-
+friction rub. ECG s (diffuse STE & PR T). 	 Pericardial effusion.
+pericarditis
+If myocarditis, same as above  c Tn and 	 s/s CHF and T EF.
+Aortic
+Abrupt onset severe tearing, knifelike pain (absence LR 0.3), ant or post 
+dissection
+mid-scapular. HTN or HoTN. 	 Asymmetric (20 mmHg) BP or pulse 
+deficit (LR 5.7), focal neuro deficit (LR 6), AI, widened mediastinum 
+on CXR (absence LR 0.3); false lumen on imaging. (JAMA 2002;287:2262)
+Pulmonary Causes
+Disorder
+Typical Characteristics & Diagnostic Studies
+Pneumonia
+Pleuritic; dyspnea, fever, cough, sputum. c RR, crackles. CXR infiltrate.
+Pleuritis
+Sharp, pleuritic pain. 	 Pleuritic friction rub.
+PTX
+Sudden onset, sharp pleuritic pain. Hyperresonance, T BS. PTX on CXR.
+PE
+Sudden onset pleuritic pain. c RR & HR, T SaO2, ECG s (RAD, RBBB,
+TWI V1–V4, occ STE V1–V3).  CTA.
+PHT
+Exertional pressure, dyspnea. T SaO2, loud P2, right-sided S3 and/or S4.
+GI Causes
+Disorder
+Typical Characteristics & Diagnostic Studies
+Esophageal
+Substernal burning, acid taste in mouth, water brash. c by meals,
+reflux
+recumbency; T by antacids. EGD, manometry, pH monitoring.
+Esoph spasm
+Intense substernal pain. c by swallowing, T by NTG/CCB. Manometry.
+Mallory-Weiss
+Precipitated by vomiting. EGD.
+Boerhaave
+Precipitated by vomiting. Severe pain, c w/ swallowing. Palpable SC
+syndrome
+emphysema; mediastinal air on chest CT.
+PUD
+Epigastric pain, relieved by antacids. 	 GIB. EGD, 	 H. pylori test.
+Biliary dis.
+RUQ pain, nausea/vomiting. c by fatty foods. RUQ U/S, LFTs.
+Pancreatitis
+Epigastric/back discomfort. c amylase & lipase; abd CT.
+Musculoskeletal and Miscellaneous Causes
+Disorder
+Typical Characteristics & Diagnostic Studies
+Chostochondritis
+Localized sharp pain. c w/ movement. Reproduced by palpation.
+Herpes zoster
+Intense unilateral pain. Dermatomal rash & sensory findings.
+Anxiety
+“Tightness”
+Initial approach
+• Focused history: quality & severity of pain; location & radiation; provoking & palliating 
+factors; duration, frequency & pattern; setting in which it occurred; associated sx
+• Targeted exam: VS (including BP in both arms), cardiac gallops, murmurs, or rubs;
+signs of vascular disease (carotid or femoral bruits, T pulses), signs of heart failure;
+lung & abdominal exam; chest wall exam for reproducibility of pain
+• 12-lead ECG: obtain w/in 10 min; c/w priors & obtain serial ECGs; consider posterior
+leads (V7–V9) to reveal isolated posterior MI if hx c/w ACS but ECG unrevealing
+• Cardiac biomarkers (Tn, CK-MB): serial testing at presentation, 6–12 h after sx onset
+troponin (I/T): most Se & Sp marker; level 99th %ile in approp. clinical setting is dx of MI
+detectable 3–6 h after injury, peaks 24 h, may remain elevated for 7–10 d in STEMI
+high-sens. assays: 90–95% Se & Sp; 85% Se w/in 3 h of sx onset (NEJM 2009;361:858, 868)
+“false ” (non-ACS myonecrosis): myocarditis/toxic CMP, severe CHF, HTN crisis, PE
+or severe resp. distress, cardiac trauma/cardioversion, sepsis, SAH, demand ischemia;
+? renal failure (T clearance, skeletal myopathy vs. true microinfarctions)
+CK-MB: less Se & Sp (skel. muscle, tongue, diaphragm, intestine, uterus, prostate)
+• CXR; other imaging (echo, PE CTA, etc.) as indicated based on H&P and initial testing
+• Coronary CT angiography: 1⁄2 free of CAD S 0% w/ ACS; 1⁄2 w/ plaque S 17% w/ ACS;
+even with signif stenosis, only 35% w/ ACS (JACC 2009;53:1642). ∴good for r/o not r/i.
+
+--- Fim da Página 15 ---
+
+STRESS TEST
+1-4
+NONINVASIVE EVALUATION OF CAD
+Test
+Sens
+Spec
+Pros
+Cons
+ETT
+60%
+75%
+Exercise capacity; no 
+Limited Sens (50% for 1VD,
+(w/ ECG only)
+radiation; low cost
+but 85% for 3VD/LM)
+SPECT/PET
+85%
+90%
+Localizes ischemia; LV fxn Radiation; cost
+Echo
+85%
+95%
+Localizes ischemia; LV fxn Operator dependent; cost
+& valve data, no radiation
+CT Angio
+90%
+88%
+High NPV to r/o CAD
+Radiation; contrast; cost 
+Exercise tolerance test (stress test) (NEJM 2001;344:1840)
+• Indications: dx CAD, evaluate if known CAD &  in clinical status, risk stratify s/p
+ACS, evaluate exercise tolerance, localize ischemia (imaging required)
+• Contraindications
+Absolute: AMI w/in 48 h, high-risk UA, acute PE, severe AS, uncontrolled CHF,
+uncontrolled arrhythmias, myopericarditis, acute aortic dissection
+Relative: left main CAD, mod valvular stenosis, severe HTN, HCMP, high-degree
+AVB, severe electrolyte abnl, inability to exercise
+• Exercise: standard Bruce (c speed/incline q3min), modified Bruce (begins w/o tread-
+mill incline), submax (if 3 wk post-MI), or sx-limited; hold antianginals if trying to
+dx CAD, give if assessing if Pt ischemic on meds
+• Pharmacologic: if unable to exer., low exer. tol or recent MI. Se & Sp  exercise;
+Preferred if LBBB. Requires imaging since ECG not specific in this setting. Coronary
+vasodilators (will reveal CAD, but not tell you if Pt ischemic): regadenoson, dipyri-
+damole, or adenosine (may precipitate bradycardia and bronchospasm).
+Chronotropes/inotropes (physiologic): dobutamine (may precipitate tachyarrhythmias).
+• Imaging: used if uninterpretable ECG (paced, LBBB, resting STT 1 mm, dig., LVH,
+WPW), after indeterminate ECG test, pharmacologic tests, or localization of ischemia
+SPECT (eg, 99mTc-sestamibi), PET (rubidium-82; usually w/ pharm test), echo, MRI
+Test results
+• HR (must achieve 85% of max predicted HR [220-age] for exercise test to be dx), BP
+response, peak double product (HR  BP), HR recovery (HRpeak– HR1 min later; nl 12)
+• Max exercise capacity achieved (METS or min)
+• Occurrence of symptoms (at what level of exertion and similarity to presenting sx)
+• ECG changes: downsloping or horizontal ST T (1 mm) predictive of CAD (but dis-
+tribution of ST T do not localize ischemic territory); STE highly predictive
+• Duke treadmill score  exercise min – (5  max ST dev) – (4  angina index) [0 none, 1
+nonlimiting, 2 limiting]; score 5 S 1% 1-y mort; –10 to 4 S 2–3%;  –11 S 5%
+• Imaging: radionuclide defects or echocardiographic regional wall motion abnormalities
+reversible defect  ischemia; fixed defect  infarct
+false : breast S ant “defect” and diaphragm S inf “defect”
+false  may be seen if balanced (eg, 3VD) ischemia (global T perfusion w/o regional s)
+ECG-gating allows assessment of LV systolic function
+High-risk test results (PPV 50% for LM or 3VD, ∴consider coronary angiography)
+• ECG: ST T 2 mm or 1 mm in stage 1 or in 5 leads or 5 min in recovery; ST c; VT
+• Physiologic: T BP, exercise 4 METS, angina during exercise, Duke score  –11; EF 35%
+• Radionuclide: 1 lg or 2 mod. reversible defects, transient LV cavity dilation, c lung uptake
+Myocardial viability
+• Goal: identify hibernating myocardium that could regain fxn after revascularization
+• Options: MRI (Se 95%, Sp 70%), PET (Se 90%, Sp 75%), dobutamine stress
+echo (Se 70%, Sp 85%); rest-redistribution thallium (Se 90%, Sp 55%)
+CT & MR coronary angiography (NEJM 2008;369:2324; Circ 2010;121:2509)
+• Image quality best at slower & regular HR (give B if possible, goal HR 55–60)
+• Calcium generates artifact for CT angiography
+• MRI being studied: angiography, perfusion, LV fxn, hyperenhancement (Circ 2009;119:1671)
+Coronary artery calcium score (CACS, NEJM 2008;358:1336; JAMA 2010;303:1610)
+• Quantitative evaluation of extent of calcium and thus estimate of plaque burden
+• Not able to assess % stenosis of coronary arteries (no IV contrast)
+• ? value in asx Pts w/ intermediate Framingham risk score (10–20% 10-y risk) w/ CACS of
+0, 1–100, 101–300, and 300 corresponding to low, average, moderate, and high risk
+• May be of value as screening text to r/o CAD in sx Pt (CACS 100 S 3% probability
+of signif CAD; but high scores have poor specificity)
+
+--- Fim da Página 16 ---
+
+ANGIO/PCI
+1-5
+CORONARY ANGIOGRAPHY AND REVASCULARIZATION
+Indications for coronary angiography in stable CAD or asx Pts
+• CCS class III-IV angina despite medical Rx or angina  systolic dysfxn
+• High-risk stress test findings (see prior topic)
+• Uncertain dx after noninvasive testing (& compelling need to determine dx), occupational
+need for definitive dx (eg, pilot), or inability to undergo noninvasive testing
+• Systolic dysfxn with unexplained cause
+• Survivor of SCD, polymorphic VT, sustained monomorphic VT
+• Suspected spasm or nonatherosclerotic cause of ischemia (eg, anomalous coronary)
+Pre-cath checklist
+• Document peripheral arterial exam (femoral, DP, PT pulses; femoral bruits); NPO 6 h
+• ✓CBC, PT, & Cr; give IVF (	 bicarb, acetylcysteine; see “CIAKI”); blood bank sample
+• ASA 325 mg; consider clopidogrel preRx (300–600 mg 2–6 h before) vs. prasugrel
+at time of PCI (if ACS)
+Coronary revascularization in stable CAD (JACC 2004;44:e213 & 2006;47:e1)
+• CABG: T mortality c/w med Rx (albeit pre statins & ACEI/ARB) in Pts w/ 3VD, LM,
+or 2VD w/ critical prox LAD, and espec. if T EF (but viable myocardium); T repeat
+revasc and trend toward T D/MI but c stroke c/w PCI in LM/3VD (NEJM 2009;360:961);
+CABG vs. PCI being studied in DM (FREEDOM trial)
+• PCI: T angina c/w med Rx; does not T D/MI (COURAGE, NEJM 2007;356:1503); prompt
+revasc (PCI or CABG) did not T mortality vs. med Rx in DM (NEJM 2009;360:2503)
+• PCI comparable to CABG in Pts w/o 3VD, w/o DM, and nl EF (Lancet 2009;373:1190)
+• For stable CAD w/o critical anatomy and w/o T EF, initial focus on optimal med Rx
+• If revasc deemed necessary, PCI if limited # of discrete lesions, nl EF, no DM, poor oper-
+ative candidate; CABG if extensive or diffuse disease, T EF, DM, or valvular disease
+• Fractional flow reserve [ratio of maximal flow (induced by IV or IC adenosine) distal vs.
+proximal to a stenosis]: PCI only if 0.8 S T # stents & T D/MI/revasc (NEJM 2009;360:213)
+PCI
+• Balloon angioplasty (POBA): effective, but c/b dissection & elastic recoil & neointimal
+hyperplasia S restenosis; now reserved for small lesions & ? some SVG lesions
+• Bare metal stents (BMS): T elastic recoil S 33–50% T restenosis & repeat revasc (to 
+10% by 12 mos) c/w POBA; requires ASA lifelong & clopidogrel  4 wks
+• Drug-eluting stents (DES): T neointimal hyperplasia S 75% T restenosis, 50% T repeat
+revasc (to 5% by 1 y), no c D/MI c/w BMS (NEJM 2008;359:1330); 2nd gen. everolimus DES
+promising (NEJM 2010;362:1728); require ASA lifelong & clopidogrel  1 y (Circ 2007;115:813)
+• Anticoagulant: UFH (short-acting, rapidly reversible, but need to ✓PTT/ACT), LMWH (no
+need for monitoring, but t1/2 8–12 h), bivalirudin (T bleeding, but 	c MI; NEJM 2009;359:688)
+Post-PCI complications
+• Postprocedure ✓vascular access site, distal pulses, ECG, CBC, Cr, CK-MB
+• Bleeding
+hematoma/overt bleeding: manual compression, reverse/stop anticoag
+retroperitoneal bleed: may present with T Hct 	 back pain; c HR & T BP late;
+Dx: abd/pelvic CT (I–); Rx: reverse/stop anticoag, IVF/PRBC as required
+if bleeding uncontrolled, consult performing interventionalist or surgery
+• Vascular damage
+pseudoaneurysm: triad of pain, expansile mass, systolic bruit; Dx: U/S; Rx: manual
+compression, U/S-directed compression or thrombin injection, or surgical repair
+AV fistula: continuous bruit; Dx: U/S; Rx: surgical repair
+T perfusion to LE (embolization, dissection, thrombus): loss of distal pulse; Dx: angio;
+Rx: percutaneous or surgical repair
+• Peri-procedural MI: 3 ULN of CK-MB occurs in 5–10%; Qw MI in 1%
+• Renal failure: contrast-induced manifests w/in 24 h, peaks 3–5 d (see “CIAKI”)
+• Cholesterol emboli syndrome (typically in middle-aged & elderly and w/ Ao atheroma)
+renal failure (late and progressive, eos in urine); mesenteric ischemia (abd pain,
+LGIB, pancreatitis); intact distal pulses but livedo pattern and toe necrosis
+• Stent thrombosis: mins to yrs after PCI, typically p/w AMI. Often due to mechanical
+prob. (stent underexpansion or unrecognized dissection, typically presents early) or
+d/c of antiplt Rx (espec if d/c both ASA & ADP blocker; JAMA 2005;293: 2126). Risk of
+late stent thrombosis may be higher with DES than BMS (JACC 2006;48:2584).
+• In-stent restenosis: mos after PCI, typically p/w gradual c angina (10% p/w ACS).
+Due to combination of elastic recoil and neointimal hyperplasia; T w/ DES vs. BMS.
+
+--- Fim da Página 17 ---
+
+ACS
+1-6
+ACUTE CORONARY SYNDROMES
+Myocardial ischemia typically due to atherosclerotic plaque rupture S coronary thrombosis
+Spectrum of Acute Coronary Syndromes
+Dx
+UA
+NSTEMI
+STEMI
+Coronary thrombosis
+Subtotal
+Total
+History
+angina that is new-onset, crescendo, or
+angina at rest
+at rest; usually 30 min
+usually 30 min
+ECG
+	 ST depression and/or TWI
+ST elevations
+Troponin/CK-MB
+
+
+ 
+Ddx (causes of myocardial ischemia/infarction other than atherosclerotic plaque rupture)
+• Nonatherosclerotic coronary artery disease
+Spasm: Prinzmetal’s variant, cocaine-induced (6% of CP  cocaine use r/i for MI)
+Dissection: spontaneous (vasculitis, CTD, pregnancy), aortic dissection with retrograde
+extension (usually involving RCA S IMI), or mechanical (catheter, surgery, trauma)
+Embolism: endocarditis, prosthetic valve, mural thrombus, myxoma; thrombosis
+Vasculitis: Kawasaki syndrome,Takayasu arteritis, PAN, Churg-Strauss, SLE, RA
+Congenital: anomalous origin from aorta or PA, myocardial bridge (intramural segment)
+• Fixed CAD but c myocardial O2 demand (eg, c HR, anemia,AS) S “demand” ischemia
+• Myocarditis (myocardial necrosis, but not caused by CAD); toxic CMP; cardiac contusion
+Clinical manifestations (JAMA 2005;294:2623)
+• Typical angina: retrosternal pressure/pain/tightness 	 radiation to neck, jaw, or arms
+precip. by exertion, relieved by rest or NTG; in ACS, new-onset, crescendo, or at rest
+• Associated symptoms: dyspnea, diaphoresis, N/V, palpitations, or lightheadedness
+• Many MIs (20% in older series) are initially unrecognized b/c silent or atypical sx
+Physical exam
+• Signs of ischemia: S4, new MR murmur 2 papillary muscle dysfxn, paradoxical S2
+• Signs of heart failure: c JVP, crackles in lung fields,  S3, HoTN, cool extremities
+• Signs of other areas of atherosclerotic disease: carotid or femoral bruits, T distal pulses
+Diagnostic studies
+• ECG: ST deviation (depression or elevation),TWI, LBBB not known to be old
+Qw or PRWP suggest prior MI and ∴CAD
+✓ECG w/in 10 min of presentation, with any  in sx, and at 6–12 h; c/w baseline
+dx of STEMI in setting of LBBB: 1 mm STE concordant w/ QRS (Se 73%, Sp 92%)
+or 5 mm discordant (Se 31%, Sp 92%) in any lead (NEJM 1996;334:481)
+Localization of MI
+Anatomic Area
+ECG Leads w/ STE
+Coronary Artery
+Septal
+V1–V2
+Proximal LAD
+Anterior
+V3–V4
+LAD
+Apical
+V5–V6
+Distal LAD, LCx, or RCA
+Lateral
+I, aVL
+LCx
+Inferior
+II, III, aVF
+RCA (85%), LCx (15%)
+RV
+V1–V2 & V4R (most Se)
+Proximal RCA
+Posterior
+ST depressionV1–V3
+RCA or LCx
+If ECG non-dx and suspicion high, consider addt’l lateral (posterior) leads (V7–V9) to further assess LCx territory.
+Check right-sided precordial leads in patients with IMI to help detect RV involvement (STE in V4R most Se).
+STE in III  STE in II and lack of STE in I or aVL suggest RCA rather than LCx culprit in IMI.
+• Cardiac biomarkers (Tn or CK-MB): serial testing at presentation, 6–12 h after sx onset;
+rise to 99th %ile of reference limit in approp. clinical setting dx of MI (see “Chest Pain”);
+nb, in Pts w/ ACS & T CrCl, c Tn S poor prognosis (NEJM 2002;346:2047)
+• CT angiography: ∅signif stenosis 98% NPV;  only 35% PPV (JACC 2009;53:1642)
+• Echocardiogram: new wall motion abnormality (operator & reader dependent)
+Prinzmetal’s (variant) angina
+• Coronary spasm S transient STE usually w/o MI (but MI,AVB,VT can occur)
+• Pts usually young, smokers, 	 other vasospastic disorders (eg, migraines, Raynaud’s)
+• Angiography S nonobstructive CAD, focal spasm w/ hyperventilation, acetylcholine
+• Treatment: high-dose CCB, nitrates (SL NTG prn), ? -blockers; d/c smoking
+• Cocaine-induced vasospasm: avoid B as unopposed -stimulation can worsen spasm
+
+--- Fim da Página 18 ---
+
+Likelihood of ACS
+Feature
+High
+Intermediate
+Low
+(any of below)
+(no high features,
+(no high/inter. features,
+any of below)
+may have below)
+History
+chest or L arm pain
+chest or L arm pain
+atypical sx (eg, pleuritic,
+like prior angina
+age 70 y
+sharp, or positional pain)
+h/o CAD (incl MI)
+male, diabetes
+Exam
+HoTN, diaphoresis,
+PAD or CVD
+pain reproduced on palp.
+CHF, transient MR
+ECG
+new STD (1 mm)
+old Qw, STD (0.5–0.9 
+TWF/TWI (1 mm) in 
+TWI in mult leads
+mm),TWI (1 mm)
+leads w/ dominant R wave
+Biomarkers
+ Tn or CK-MB
+Normal
+Normal
+(Adapted from ACC/AHA 2007 Guideline Update for UA/NSTEMI, Circ 2007;116:e148)
+Approach to triage
+• If hx and initial ECG & biomarkers non-dx, repeat ECG & biomarkers 12 h later
+• If remain nl and low likelihood of ACS, search for alternative causes of chest pain
+• If remain nl & Pt pain-free, have r/o MI, but if suspicion for ACS based on hx, then still
+need to r/o UA w/ stress test to assess for inducible ischemia (or CTA to r/o CAD);
+if low risk (age 70; Ø prior CAD, CVD, PAD; Ø rest angina) can do as outPt w/in 72 h
+(0% mortality, 0.5% MI, Ann Emerg Med 2006;47:427);
+if not low risk, admit and evaluate for ischemia (stress test or cath)
+• If ECG or biomarker abnl or high likelihood of ACS, then admit and Rx as per below
+UA/NSTEMI (NSTE ACS)
+Anti-Ischemic and Other Treatment
+Nitrates (SL, PO, topical, or IV)
+T anginal sx, no T in mortality
+-blockers: PO; IV if ongoing pain,
+13% T in progression to MI (JAMA 1988;260:2259)
+HTN or c HR (w/o s/s CHF)
+Contraindicated if HR 50, SBP 90,
+eg, metoprolol 5 mg IV q5 min  3
+moderate or severe CHF, 2/3 AVB, severe 
+then 25–50 mg PO q6h
+bronchospasm
+titrate to HR 50–60
+CCB (nondihydropyridines)
+If cannot tolerate B b/c bronchospasm
+ACEI or ARB
+Especially if CHF or EF 0.40 and if SBP 100
+Morphine
+Consider if persistent sx or pulmonary edema
+Should not be used to mask persistent CP
+Oxygen
+Use if necessary to keep SaO2 90%
+(Adapted from ACC/AHA 2007 Guideline Update for UA/NSTEMI, Circ 2007;116:e148)
+Antiplatelet Therapy
+Aspirin
+50–70% T D/MI (NEJM 1988;319:1105)
+162–325 mg  1 (1st dose crushed/chewed) If ASA allergy, use clopidogrel instead
+then 75–325 mg/d
+(and desensitize to ASA)
+Clopidogrel (ADP receptor blocker)
+Give in addition to ASA. 20% T CVD/MI/stroke
+300 mg  1 S 75 mg/d 
+c benefit if given upstream prior to PCI 
+(requires 6 h to steady-state)
+but need to wait 5 d after d/c clopi prior
+600 mg  1 S 150 mg/d  7d may T
+to CABG (NEJM 2001;345:494; Lancet 2001;358:257)
+D/MI/stroke by 15% in PCI Pts
+30% pop have T fxn CYP2C19 allele S T plt 
+(CURRENT/OASIS-7, ESC 2009)
+inhib & c ischemic events (NEJM 2009;360:354)
+Prasugrel (ADP receptor blocker)
+More rapid (30 min) and potent plt inhib c/w clopi.
+60 mg  1 S 10 mg/d
+19% T CVD/MI/stroke in ACS w/ planned PCI vs 
+(? 5 mg/d if 60 kg)
+clopi, but c bleeding (NEJM 2007;359:2001).
+Particularly efficacious in DM (Circ 2008;118:1626).
+Avoid if 75 y; contraindic. if h/o TIA/CVA.
+Ticagrelor (ADP receptor blocker)
+More rapid (30 min) and potent plt inhib c/w clopi.
+180 mg  1 S 90 mg bid
+16% T CVD/MI/stroke & 22% T death c/w clopi, but 
+reversible (nl plt fxn after 72 h)
+with c non-CABG bleeding (NEJM 2009;361;1045).
+under review at FDA
+c frequency of dyspnea.
+GP IIb/IIIa inhibitors (GPI)
+May be given in addition to oral antiplt Rx(s)
+abciximab; eptifibatide; tirofiban
+No clear benefit for starting GPI prior to PCI and c
+infusions given 2–24 h post-PCI
+risk of bleeding (NEJM 2009;360:2176)
+(Adapted from ACC/AHA 2007 Guideline Update for UA/NSTEMI, Circ 2007;116:e148)
+ACS
+1-7
+
+--- Fim da Página 19 ---
+
+Anticoagulant Therapy
+UFH
+24% T D/MI (JAMA 1996;276:811)
+60 U/kg IVB (max 4000 U)
+titrate to aPTT 1.5–2x cntl (50–70 sec)
+12 U/kg/h (max 1000 U/h)
+Enoxaparin (low-molecular-weight heparin)
+Consider instead of UFH. 10% T D/MI (JAMA
+1 mg/kg SC bid  2–8 d ( 	 30 mg IVB)
+2004;292:89). Benefit greatest if conservative 
+(qd if CrCl 30)
+strategy. Can perform PCI on enoxaparin.
+Bivalirudin (direct thrombin inhibitor)
+Use instead of heparin for Pts w/ HIT.
+0.75mg/kg IVB at time of PCI S 1.75 
+With invasive strategy, bival alone noninferior to
+mg/kg/h
+heparin  GPI (non-signif 8% c D/MI/UR) w/
+47% T bleeding (NEJM 2006;355:2203).
+Fondaparinux (Xa inhibitor)
+C/w enox, 17% T mortality & 38% T bleeding by
+2.5 mg SC qd
+30 d (NEJM 2006;354:1464). However, c risk of
+cath thromb.; ∴must supplement w/ UFH if PCI.
+Coronary angiography (Circ 2007;116:e148 & 2009;120:2271)
+• Conservative approach  selective angiography
+medical Rx with pre-d/c stress test; angio only if recurrent ischemia or strongly  ETT
+• Early invasive approach  routine angiography w/in 24–48 h
+Indicated if high risk: recurrent ischemia,  Tn, ST,TRS 3, CHF, T EF, recent PCI 6
+mos, sustained VT, prior CABG, hemodynamic instability
+32% T rehosp for ACS, nonsignif 16% T MI, no  in mortality c/w cons. (JAMA 2008;300:71)
+c peri-PCI MI counterbalanced by TT in spont. MI
+Long-term mortality benefit likely only if c/w cons. strategy with low rate of angio/PCI
+T D/MI/refractory ischemia if cath w/in 24 h c/w 36 h (NEJM 2009;360:2165);
+∴reasonable to cath high-risk Pts (GRACE score 140) w/ 12–24 of admission
+TIMI Risk Score for UA/NSTEMI (JAMA 2000;284:825)
+Calculation of Risk Score
+Application of Risk Score
+Characteristic
+Point
+Score
+D/MI/UR by 14 d
+Historical
+0–1
+5%
+Age 65 y
+1
+2
+8%
+3 Risk factors for CAD
+1
+3
+13%
+Known CAD (stenosis 50%)
+1
+4
+20%
+ASA use in past 7 d
+1
+5
+26%
+Presentation
+6–7
+41%
+Severe angina (2 episodes w/in 24 h)
+1
+Higher risk Pts (TRS 3) derive c
+ST deviation 0.5 mm
+1
+benefit from LMWH, GP IIb/IIIa 
+ cardiac marker (troponin, CK-MB)
+1
+inhibitors, and early angiography
+RISK SCORE  Total points
+(0–7)
+(JACC 2003;41:89S)
+Figure 1-2 Approach to UA/NSTEMI
+ACS
+1-8
+CONS strategy
+LOW RISK
+HIGH RISK
+⊕Tn, ST ↓ ≥0.5 mm, TRS ≥3, s/s CHF
+ASA; clopidogrel (upstream or at time of PCI)
+UFH, ENOX, or bival (depending on pref of cath lab)
+± GP IIb/IIIa inhibitor
+Angiography
+↓ 
+Stress test
+once stabilized and before d/c
+recurrent
+ischemia
+Med Rx
+PCI (w/ GPI unless bival;
+consider prasugrel vs. dopi) CABG
+add
+GPI
+Long-term medical Rx
+Med Rx
+high risk
+treadmill score    –11
+large perfusion defect (espec. ant)
+multiple perfusion defects
+low risk
+w/in ~24 h
+ASA & clopidogrel
+ENOX, fonda, or UFH
+INV strategy
+EF
+recent PCI
+prior CABG
+ Tn, no ST ↓, and TRS 0–2,    CHF
+
+--- Fim da Página 20 ---
+
+STEMI
+Reperfusion
+• Immediate reperfusion (ie, opening occluded culprit coronary artery) is critical
+• In PCI-capable hospital, goal should be primary PCI w/in 90 min of 1st medical contact
+• In non-PCI-capable hospital, consider transfer to PCI-capable hospital (see below), o/w
+fibrinolytic therapy w/in 30 min of hospital presentation
+• Do not let decision regarding method of reperfusion delay time to reperfusion
+Primary PCI (NEJM 2007;356:47)
+• Superior to lysis: 27% T death, 65% T reMI, 54% T stroke, 95% T ICH (Lancet 2003;361:13)
+• Thrombus aspiration during angio prior to stenting T mortality (Lancet 2008;371:1915)
+• Transfer to center for 1 PCI may also be superior to lysis (NEJM 2003;349:733), see below
+Fibrinolysis vs. Hospital Transfer for Primary PCI
+Assess Time and Risk
+1. Time required for transport to skilled PCI lab: door-to-balloon 90 min &
+[door-to-balloon]-[door-to-needle] 1 h favors transfer for PCI
+2. Risk from STEMI: high-risk Pts (eg, shock) fare better with mechanical reperfusion
+3. Time to presentation: efficacy of lytics T w/ c time from sx onset, espec. 3 h
+4. Risk of fibrinolysis: if high risk of ICH or bleeding, PCI safer option
+Adapted from ACC/AHA 2004 STEMI Guidelines (Circ 2004;110:e82)
+Fibrinolysis
+• Indications: sx 12 h and either STE 0.1 mV (1 mm) in 2 contig. leads or LBBB not
+known to be old; benefit if sx 12 h less clear; reasonable if persistent sx & STE
+• Mortality T 20% in anterior MI or LBBB and 10% in IMI c/w ∅reperfusion Rx
+• Prehospital lysis (ie, ambulance): further 17% T in mortality (JAMA 2000;283:2686)
+• 1% risk of ICH; high-risk groups include elderly (2% if 75 y), women, low wt
+• Although age not contraindic., c risk of ICH in elderly (75 y) makes PCI more attractive
+Contraindications to Fibrinolysis
+Absolute Contraindications
+Relative Contraindications
+• Any prior ICH
+• Hx of severe HTN or SBP 180 or DBP 110 on
+• Intracranial neoplasm, aneurysm,
+presentation (? absolute contra. if low-risk MI)
+AVM
+• Ischemic stroke 3 mos prior
+• Nonhemorrhagic stroke or closed
+• Prolonged CPR (10 min)
+head trauma w/in 3 mo
+• Trauma or major surgery w/in 3 wk
+• Active internal bleeding or known
+• Recent internal bleed (w/in 2–4 wk); active PUD
+bleeding diathesis
+• Noncompressible vascular punctures
+• Suspected aortic dissection
+• Prior SK exposure (if considering SK)
+• Pregnancy
+• Current use of anticoagulants
+Nonprimary PCI
+• Facilitated PCI: upstream lytic, GPI, or GPI  1⁄2 dose lytic before PCI of no benefit
+• Rescue PCI if shock, unstable, failed reperfusion or persistent sx (NEJM 2005;353:2758)
+• Routine angio 	 PCI w/in 24 h of successful lysis: T D/MI/Revasc (Lancet 2004;364:1045) and
+w/in 6 h T reMI, recurrent ischemia & CHF c/w w/in 2 wk (NEJM 2009;360:2705);
+∴if lysed at non-PCI capable hospital, consider transfer to PCI-capable hospital ASAP
+espec if high-risk presentation (eg, anterior MI, inferior MI w/ low EF or RV infarct,
+extensive STE or LBBB, HF, T BP or c HR)
+• Late PCI (median day 8) of occluded infarct-related artery: no benefit (NEJM 2006;355:2395)
+Antiplatelet Therapy
+Aspirin 162–325 mg (crushed/chewed)
+23% T in death (Lancet 1988;ii:349)
+ADP receptor blocker
+Lysis: clopidogrel 41% c in patency, 7% T mort., no 
+Clopidogrel: 600 mg pre-PCI, 300 mg
+ in major bleed or ICH (NEJM 2005;352:1179; Lancet
+if lysis (not if 75 y) S 75 mg/d
+2005;366:1607); no data for prasugrel or ticagrelor
+Prasugrel & ticagrelor as above
+PCI: prasugrel and ticagrelor T CV events c/w clopi 
+GP IIb/IIIa inhibitors
+Lysis: no indication (Lancet 2001;357:1905)
+abciximab, eptifibatide, tirofiban
+Peri-PCI: 60% T D/MI/UR (NEJM 2001;344:1895)
+Adapted from ACC/AHA 2009 STEMI Guidelines Focused Update (Circ 2009;120:2271)
+ACS
+1-9
+
+--- Fim da Página 21 ---
+
+Anticoagulant Therapy
+UFH
+No demonstrated mortality benefit
+60 U/kg IVB (max 4000 U)
+c patency with fibrin-specific lytics
+12 U/kg/h (max 1000 U/h)
+Titrate to aPTT 1.5–2x cntl (50–70 sec)
+Enoxaparin
+Lysis: 17% T D/MI w/ ENOX  7 d vs. UFH  2 d
+30 mg IVB  1 S 1 mg/kg SC bid
+(NEJM 2006;354;1477)
+(75 y: no bolus, 0.75 mg/kg SC bid)
+PCI: acceptable alternative to UFH (age & CrCl
+(CrCl  30 mL/min: 1 mg/kg SC qd)
+adjustments untested in 1 PCI)
+Bivalirudin
+PCI: T death & T bleeding but c acute stent 
+0.75 mg/kg IVB S 1.75 mg/kg/hr IV
+thrombosis c/w heparin  GPI (NEJM 2008;358:2218)
+Fondaparinux
+Lysis: superior to placebo & to UFH, with less
+2.5 mg SC QD
+bleeding (JAMA 2006;295;1519)
+PCI: risk of cath thromb.; should not be used
+Immediate Adjunctive Therapy
+-blockers
+20% T arrhythmic death or reMI, 30% c cardiogenic
+eg, metoprolol 25 mg PO q6h
+shock, & no  overall mortality when given to Pts
+titrate to HR 55–60
+incl. those w/ mod CHF (Lancet 2005;366:1622)
+IV only if HTN & no s/s CHF
+Contraindic. if HR 60 or 110, SBP 120, mod/severe 
+CHF, late present., 2/3 AVB, severe bronchospasm
+Nitrates
+? 5% T mortality (Lancet 1994;343:1115;1995;345:669)
+SL or IV
+Use for relief of sx, control of BP, or Rx of CHF
+Contraindic. in hypovolemia, sx RV infarcts, sildenafil
+Oxygen
+Use if necessary to keep SaO2 90%.
+Morphine
+Relieves pain, T anxiety, venodilation S T preload
+ACE inhibitors
+10% T mortality (Lancet 1994;343:1115 & 1995;345:669)
+eg, captopril 6.25 mg tid,
+Greatest benefit in ant. MI, EF 40%, or prior MI
+titrate up as tolerated
+Contraindicated in severe hypotension or renal failure
+ARBs
+Appear  ACEI (VALIANT, NEJM 2003;349:20)
+Insulin
+Treat hyperglycemia 180 mg/dL while avoiding 
+hypoglycemia, no clear benefit for intensive control
+Adapted from ACC/AHA 2007 STEMI Guidelines Focused Update (Circ 2008;117:296)
+LV failure (25%)
+• Diurese to achieve PCWP 15–20 S T pulmonary edema, T myocardial O2 demand
+• T Afterload S c stroke volume & CO, T myocardial O2 demand
+can use IV NTG or nitroprusside (risk of coronary steal) S short-acting ACEI
+• Inotropes if CHF despite diuresis & T afterload; use dopamine, dobutamine, or milrinone
+• Cardiogenic shock (7%)  MAP 60 mmHg, CI 2 L/min/m2, PCWP 18 mmHg
+inotropes, IABP, percutaneous VAD to keep CI  2; pressors (eg, norepinephrine) to keep
+MAP 60; if not done already, coronary revascularization ASAP (NEJM 1999;341:625)
+IMI complications (Circ 1990;81:401; Annals 1995;123:509)
+• Heart block (20%, occurs because RCA typically supplies AV node)
+40% on present., 20% w/in 24 h, rest by 72 h; high-grade AVB can develop abruptly
+Rx: atropine, epi, aminophylline (100 mg/min  2.5 min), temp wire
+• Precordial ST T (15–30%): anterior ischemia vs. true posterior STEMI vs. reciprocal s
+• RV infarct (30–50%, but only 1⁄2 of those clinically significant)
+hypotension; c JVP,  Kussmaul’s; 1 mm STE in V4R; RA/PCWP 0.8; prox RCA occl.
+Rx: optimize preload (RA goal 10–14, BHJ 1990;63:98); c contractility (dobutamine);
+maintain AV synchrony (pacing as necessary); reperfusion (NEJM 1998;338:933);
+mechanical support (IABP or RVAD); pulmonary vasodilators (eg, inhaled NO)
+Mechanical complications (incid.1% for each; typically occur a few days post-MI)
+• Free wall rupture: c risk w/ fibrinolysis, size of MI, age; p/w PEA or hypoTN, peri-
+cardial sx, tamponade; Rx: volume resusc., ? pericardiocentesis, inotropes, surgery
+• VSD: large MI in elderly;AMI S apical VSD, IMI S basal septum; 90% w/ harsh murmur 	
+thrill (NEJM 2002;347:1426); Rx: diuretics, vasodil., inotropes, IABP, surgery, perc. closure
+• Papillary muscle rupture: small MI; more likely in IMI S PM pap. muscle (supplied by
+PDA) than AMI S AL pap. muscle (supplied by diags & OMs); 50% w/ new murmur,
+rarely a thrill, c v wave in PCWP tracing; asymmetric pulmonary edema. Rx: diuretics,
+vasodilators, IABP, surgery.
+Arrhythmias post-MI
+• Treat as per ACLS for unstable or symptomatic bradycardias & tachycardias
+• AF (10–16% incidence): -blocker, amiodarone, digoxin (particularly if CHF), heparin
+ACS
+1-10
+
+--- Fim da Página 22 ---
+
+ACS
+1-11
+• VT/VF: lido or amio  6–24 h, then reassess; c B as tol., replete K & Mg, r/o ischemia;
+early monomorphic (48 h post-MI) does not carry bad prognosis
+• Accelerated idioventricular rhythm (AIVR): slow VT (100 bpm), often seen after
+successful reperfusion; typically self-terminates and does not require treatment
+• Consider backup transcutaneous pacing (TP) if: 2 AVB type I, BBB
+• Backup TP or initiate transvenous pacing if: 2 AVB type II; BBB  AVB
+• Transvenous pacing (TV) if: 3 AVB; new BBB  2 AVB type II; alternating LBBB/RBBB
+(can bridge w/ TP until TV, which is best accomplished under fluoro guidance)
+Other Post-MI Complications
+Complication
+Clinical features
+Treatment
+LV thrombus
+30% incid. (esp. lg antero-apical MI)
+Anticoagulate  3–6 mo
+Ventricular
+Noncontractile outpouching of LV;
+Surgery if recurrent CHF,
+aneurysm
+8–15% incid.; persistent STE.
+thromboemboli, arrhythmia
+Ventricular
+Rupture S sealed by thrombus and
+Surgery
+pseudoaneurysm
+pericardium
+Pericarditis
+10–20% incid.; 1–4 d post-MI
+High-dose aspirin, NSAIDs
+ pericardial rub; ECG s rare
+Minimize anticoagulation
+Dressler’s
+4% incid.; 2–10 wk post-MI
+High-dose aspirin, NSAIDs
+syndrome
+Fever, pericarditis, pleuritis
+Prognosis
+• In registries, in-hospital mortality is 6% w/ reperfusion Rx (lytic or PCI) and 20% w/o
+• Predictors of mortality: age, time to Rx, anterior MI or LBBB, heart failure (Circ 2000;102:2031)
+Killip Class
+Class
+Definition
+Mort.
+I
+no CHF
+6%
+II
+ S3 and/or basilar rales
+17%
+III
+pulmonary edema
+30–40%
+IV
+cardiogenic shock
+60–80%
+(Am J Cardiol 1967;20:457)
+Forrester Class Mortality
+PCWP (mmHg)
+18
+18
+CI
+2.2
+3%
+9%
+2.2
+23%
+51%
+(NEJM 1976;295:1356)
+PREDISCHARGE CHECKLIST AND LONG-TERM POST-ACS MANAGEMENT
+Risk stratification
+• Stress test if anatomy undefined or significant residual CAD after PCI of culprit vessel
+• Echocardiogram to assess EF; EF c 6% in STEMI over 6 mos (JACC 2007;50:149)
+Medications (barring contraindications)
+• Aspirin: 162–325 mg/d for 1 mo (BMS) or 3–6 mos (DES); 75–162 mg/d thereafter
+• ADP receptor blocker (eg, clopidogrel): 12 mos (? longer if DES); some PPIs may
+interfere with biotransformation of clopidogrel and ∴plt inhibition, but no convincing
+evidence to date of impact on clinical outcomes (Lancet 2009;374:989; COGENT, TCT 2009) 
+• -blocker: 23% T mortality after acute MI
+• Statin: high-intensity lipid-lowering (eg, atorvastatin 80 mg, NEJM 2004;350:1495)
+• ACEI: life-long if CHF, T EF, HTN, DM; 4–6 wks or at least until hosp. d/c in all STEMI
+? long-term benefit in CAD w/o CHF (NEJM 2000;342:145 & 2004;351:2058; Lancet 2003;362:782)
+• Aldosterone antagonist: if EF 40% & signs of HF (see “Heart Failure”)
+• Nitrates: standing if symptomatic; SL NTG prn for all
+• Oral anticoagulants: beyond indic. for AF and LV thrombus, comb. of warfarin (goal
+INR 2–2.5)  ASA T D/MI/CVA c/w ASA alone, but c bleeding (NEJM 2002;347:969);
+addition of oral Xa or IIa inhibitors post-ACS under study (Lancet 2009;374:29)
+ICD (NEJM 2008;359:2245)
+• If sust.VT/VF 2 d post-MI not due to reversible ischemia
+• Indicated in 1 prevention of SCD if post-MI w/ EF 30–40% (NYHA II–III) or
+30–35% (NYHA I); need to wait 40 d after MI (NEJM 2004;351:2481 & 2009; 361;1427)
+Risk factors and lifestyle modifications
+• Low chol. (200 mg/d) & low fat (7% saturated) diet; LDL goal 70 mg/dL; ? fish oil
+(BMJ 2008;337:a2931)
+• BP 140/90 mmHg, 130/80 if diabetes or chronic kidney disease, consider 120/80
+• Smoking cessation
+• If diabetic, HbA1c 7% (avoid TZDs if CHF)
+• Exercise (30 mins 3–4  per wk);Weight loss with BMI goal 18.5–24.9 kg/m2
+• Influenza vaccination (Circ 2006;114:1549)
+
+--- Fim da Página 23 ---
+
+PAC
+1-12
+PA CATHETER AND TAILORED THERAPY 
+Rationale
+• Cardiac output (CO)  SV  HR; SV depends on LV end-diastolic volume (LVEDV)
+∴manipulate LVEDV to optimize CO while minimizing pulmonary edema
+• Balloon at tip of catheter inflated S floats into “wedge” position. Column of blood extends
+from tip of catheter, through pulmonary circulation, to a point just proximal to LA. Under
+conditions of no flow, PCWP  LA pressure  LVEDP, which is proportional to LVEDV.
+• Situations in which these basic assumptions fail:
+1) Catheter tip not in West lung zone 3 (and ∴PCWP  alveolar pressure Z LA
+pressure); clues include lack of a & v waves and if PA diastolic pressure  PCWP
+2) PCWP  LA pressure (eg, mediastinal fibrosis, pulmonary VOD, PV stenosis)
+3) Mean LA pressure  LVEDP (eg, MR, MS)
+4)  LVEDP-LVEDV relationship (ie, abnl compliance, ∴“nl” LVEDP may not be optimal)
+Indications (JACC 1998;32:840 & Circ 2009;119:e391)
+• Diagnosis and evaluation
+Ddx of shock (cardiogenic vs. distributive; espec. if trial of IVF failed / high-risk) and
+of pulmonary edema (cardiogenic vs. not; espec. if trial of diuretic failed / high-risk)
+Evaluation of CO, intracardiac shunt, pulmonary HTN, MR, tamponade
+• Therapeutics
+Tailored therapy to optimize PCWP, SV, SvO2 in heart failure/shock
+Guide to vasodilator therapy (eg, inhaled NO, nifedipine) in pulmonary HTN
+Guide to perioperative management in some high-risk Pts, pre-transplantation
+• Contraindications
+Absolute: right-sided endocarditis, thrombus, or mechanical R-sided valve
+Relative: coagulopathy (reverse), recent PPM or ICD (place under fluoroscopy), LBBB
+(5% risk of RBBB S CHB, place under fluoro), bioprosthetic R-sided valve
+Efficacy concerns
+• No benefit to routine PAC in high-risk surgery or ARDS (NEJM 2006;354:2213)
+• No benefit in decompensated CHF (JAMA 2005;294:1625); untested in cardiogenic shock
+• But: 1⁄2 of CO & PCWP clinical estimates incorrect; CVP & PCWP not well correl.; ∴use
+PAC to (a) answer hemodynamic ? and then remove, or (b) manage cardiogenic shock
+Placement
+• Insertion site: R internal jugular or L subclavian veins for “anatomic” flotation into PA 
+• Inflate balloon (max 1.5 mL) when advancing and to measure PCWP
+• Use resistance to inflation and pressure tracing to avoid overinflation
+• Deflate the balloon when withdrawing and at all other times
+• CXR should be obtained after bedside placement to assess for catheter position and PTX
+• If catheter cannot be successfully floated (typically if severe TR or RV dilatation) or if
+another relative contraindication exists, consider fluoroscopic guidance
+Complications
+• Central venous access: pneumo/hemothorax (1–3%), arterial puncture, air embolism
+• Advancement: atrial or ventricular arrhythmias (3% VT), RBBB (5%), catheter knot-
+ting, cardiac perforation/tamponade, PA rupture
+• Maintenance: infection (especially if catheter 3 d old), thrombus, pulmonary
+infarction (1%), PA rupture/pseudoaneurysm (esp. w/ PHT), balloon rupture
+Intracardiac pressures
+• Transmural pressure ( preload)  measured intracardiac pressure-intrathoracic pressure
+• Intrathoracic pressure (usually slightly ) is transmitted to vessels and heart
+• Always measure intracardiac pressure at end-expiration, when intrathoracic pressure
+closest to 0; (“high point” in spont. breathing Pts;“low point” in Pts on  pressure vent.)
+• If c intrathoracic pressure (eg, PEEP), measured PCWP overestimates true transmural
+pressures. Can approx by subtracting 1⁄2 PEEP (convert cmH2O to mmHg by  3⁄4).
+• PCWP: LV preload best estimated at a wave; risk of pulmonary edema from avg PCWP 
+Cardiac output
+• Thermodilution: saline injected in RA.  in temp over time measured at thermis-
+tor (in PA) is integrated  1/CO. Inaccurate if T CO, sev TR, or shunt.
+• Fick method: O2 consumption (L/min)  CO (L/min)  arteriovenous O2 difference.
+CO derived by dividing O2 consumption by observed AV O2 difference [10  1.34 ml
+O2/g Hb  Hb g/dl  (SaO2 – SvO2)].
+Can estimate O2 consumption using wt-based formula, but best to measure (espec
+if c metabolism, eg, sepsis).
+If SVO2 80%, consider wedged (ie, pulm vein) sat, LSR shunt, impaired O2 utiliza-
+tion (severe sepsis, cyanide, carbon monoxide), cc O2 delivery.
+
+--- Fim da Página 24 ---
+
+PA Catheter Waveforms
+Location
+RA
+RV
+PA
+PCWP
+Distance
+20 cm
+30 cm
+40 cm
+50 cm
+Pressure
+mean 6
+syst 15–30
+syst 15–30
+mean 12
+(mmHg)
+diast 1–8
+mean 9–18
+diast 6–12
+Waves
+a  atrial contraction,
+RVEDP occurs
+Waveform should
+Similar to RA except
+occurs in PR interval
+right before
+contain notch (closure dampened and delayed.
+c  bulging of TV back into
+upstroke and 
+of pulmonic valve).
+a wave after QRS,
+RA at start of systole
+ mean RA
+Peak during T wave
+	 distinct c wave,
+x  atrial relaxation and
+pressure unless
+PA systolic  RV
+v wave after T
+Comment
+descent of base of heart
+there is TS or TR
+systolic unless there
+(helps distinguish
+v  blood entering RA, occurs
+is a gradient (eg, PS).
+PCWP w/ large v
+mid T wave
+waves 2 MR from 
+y  blood exiting RA after TV
+PA).
+opens at start of diastole
+PCWP waveform abnormalities: large a wave S ? mitral stenosis; large v wave S ? mitral regurgitation;
+blunted y descent S ? tamponade; steep x & y descents S ? constriction.
+Hemodynamic Profiles of Various Forms of Shock
+RA
+PCWP
+CO
+SVR
+Type of shock
+(JVP)
+(CXR)
+(UOP)
+(Cap refill)
+Hypovolemic
+T
+T
+T
+c
+Cardiogenic
+nl or c
+c
+T
+c
+Distributive
+variable
+variable
+usually c
+T
+(but can be T in sepsis)
+RV Infarct / Massive PE
+c
+nl or T
+T
+c
+Tamponade
+c
+c
+T
+c
+(Surrogates for hemodynamic parameters shown below parameter in parentheses.)
+Tailored therapy in cardiogenic shock (Circ 2009;119:e391)
+• Goals: optimize both MAP and CO while T risk of pulmonary edema
+MAP  CO  SVR; CO  HR  SV (which depends on preload, afterload, and contractility)
+pulmonary edema when PCWP 20–25 (higher levels may be tolerated in chronic HF)
+• Optimize preload  LVEDV  LVEDP  LAP  PCWP (NEJM 1973;289:1263)
+goal PCWP 14–18 in acute MI, 10–14 in chronic heart failure
+optimize in individual Pt by measuring SV w/ different PCWP to create Starling curve
+c by giving NS (albumin w/o clinical benefit over NS; PRBC if significant anemia)
+T by diuresis (qv), ultrafiltration or dialysis if refractory to diuretics 
+• Optimize afterload ≈wall stress during LV ejection  [(SBP  radius) / (2  wall thick.)]
+and ∴∝MAP and ∝SVR  (MAP – CVP / CO); goals: MAP 60, SVR 800–1200
+MAP 60 & SVR c: vasodilators (eg, nitroprusside, NTG,ACEI, hydral.) or wean pressors
+MAP 60 & SVR c (& ∴CO T): temporize w/ pressors until can c CO (see below)
+MAP 60 & SVR low/nl (& ∴inappropriate vasoplegia): vasopressors (eg, norepineph-
+rine [, ], dopamine [D, , ], phenylephrine [], or vasopressin [V1] if refractory)
+• Optimize contractility ∝CO for given preload & afterload; goal CI  (CO/ BSA) 2.2
+if too low despite optimal preload & vasodilators (as MAP permits):  inotropes 
+eg, dobutamine (moderate inotrope & mild vasodilator), milrinone (strong 
+inotrope & vasodilator, incl pulmonary artery), both proarrhythmic, or epinephrine 
+(strong inotrope and vasopressor); also consider mechanical assistance with 
+IABP or percutaneous or surgical LVAD 	 RVAD
+PAC
+1-13
+0
+5
+10
+15
+20
+25
+30
+mm
+Hg
+simultaneous
+ECG
+a
+c
+x
+y
+v
+a
+x
+y
+v
+
+--- Fim da Página 25 ---
+
+HF
+1-14
+HEART FAILURE
+Definitions (Braunwald’s Heart Disease, 8th ed., 2008)
+• Failure of heart to pump blood forward at sufficient rate to meet metabolic demands of
+peripheral tissues, or ability to do so only at abnormally high cardiac filling pressures
+• Low output (T cardiac output) vs. high output (c stroke volume 	 c cardiac output)
+• Left-sided (pulmonary edema) vs. right-sided (c JVP, hepatomegaly, peripheral edema)
+• Backward (c filling pressures, congestion) vs. forward (impaired systemic perfusion)
+• Systolic (inability to expel sufficient blood) vs. diastolic (failure to relax and fill normally)
+Figure 1-3 Approach to left-sided heart failure
+History
+• Low output: fatigue, weakness, exercise intolerance,  MS, anorexia
+• Congestive: left-sided S dyspnea, orthopnea, paroxysmal nocturnal dyspnea
+right-sided S peripheral edema, RUQ discomfort, bloating, satiety
+Functional classification (New York Heart Association class)
+• Class I: no sx w/ ordinary activity; class II: sx w/ ordinary activity;
+Class III: sx w/ minimal activity; class IV: sx at rest
+Physical exam (“2-minute” hemodynamic profile; JAMA 2002;287:628)
+• Congestion (“dry” vs. “wet”)
+c JVP (80% of the time JVP 10 S PCWP 22; J Heart Lung Trans 1999;18:1126)
+ hepatojugular reflux: 1 cm c in JVP for 15 sec with abdominal pressure
+73% Se & 87% Sp for RA 8 and 55% Se & 83% Sp for PCWP 15 (AJC 1990;66:1002)
+Valsalva square wave (c SBP thru strain) (JAMA 1996;275:630)
+S3 (in Pts w/ HF S 40% c risk of HF hosp. or pump failure death; NEJM 2001;1345:574)
+rales, dullness at base 2 pleural effus. (often absent due to lymphatic compensation)
+	 hepatomegaly, ascites and jaundice, peripheral edema
+• Perfusion (“warm” vs. “cold”)
+narrow pulse pressure (25% of SBP) S CI 2.2 (91% Se, 83% Sp; JAMA 1989;261:884)
+pulsus alternans, cool & pale extremities, T UOP, muscle atrophy
+• 	 Other: Cheyne-Stokes resp., abnl PMI (diffuse, sustained, or lifting depending on cause of
+HF), S4 (diast. dysfxn), murmur (valvular dis., c MV annulus, displaced papillary muscles)
+Evaluation for the presence of heart failure
+• CXR (see Radiology insert): pulm edema, pleural effusions 	 cardiomegaly, cephaliza-
+tion, Kerley B-lines
+• BNP / NT-proBNP: can help exclude HF as cause of dyspnea if low; predicts risk of rehosp
+• Evidence of T perfusion to vital organs: c BUN, c Cr, T serum Na, abnormal LFTs
+• Echo (see inserts): T EF & c chamber size S systolic dysfxn; hypertrophy, abnl MV inflow,
+abnl tissue Doppler S ? diastolic dysfxn; abnl valves or pericardium; estimate RVSP
+• PA catheterization: c PCWP, T CO and c SVR (low-output failure)
+Left-sided Heart Failure
+↑Afterload
+AS, HCMP
+HTN crisis
+Coarctation
+r/o mitral valve disease
+consider myxoma, pulmonary VOD
+↑LVEDP
+↑LVEDV
+↓Contractility
+Ischemia/MI
+DCMP
+Chronic AI/MR
+High Output
+AV fistula
+Paget’s
+Sepsis
+Beriberi
+Anemia
+Thyrotoxicosis
+or
+↓Forward Flow
+MR, AI, VSD
+Systolic
+Dysfunction
+High SV
+Failure
+LVH
+1° HCMP
+2° to HTN, AS
+or
+Ischemia
+or
+RCMP
+Myocardial
+Endomyocardial
+Pericardial
+Disease
+(usually right-
+sided failure)
+Tamponade
+Constriction
+normal LVEDV
+Diastolic
+Dysfunction
+↑SV
+↑ESV
+
+--- Fim da Página 26 ---
+
+Evaluation of the causes of heart failure
+• ECG: evidence for CAD, LVH, LAE, heart block or low voltage (? infiltrative CMP/DCMP) 
+• Coronary angiography (or ? CT coronary angiography)
+• If no CAD, w/u for nonischemic DCMP, HCMP, or RCMP (see “Cardiomyopathies”)
+Precipitants of acute heart failure
+• Myocardial ischemia or infarction; myocarditis
+• Renal failure (acute, progression of CKD, or insufficient dialysis) S c preload
+• Hypertensive crisis (incl. from RAS), worsening AS S c left-sided afterload
+• Dietary indiscretion or medical nonadherence
+• Drugs (B, CCB, NSAIDs,TZDs) or toxins (EtOH, anthracyclines)
+• Arrhythmias; acute valvular dysfxn (eg, endocarditis), espec. mitral or aortic regurgitation 
+• COPD or PE S c right-sided afterload
+• Anemia, systemic infection, thyroid disease
+Treatment of acute decompensated heart failure 
+• Assess degree of congestion & adequacy of perfusion
+• For congestion: “LMNOP”
+Lasix w/ monitoring of UOP; high-dose
+(IVB 2.5 PO dose) vs. low-dose (IVB  
+1 PO dose) S c UOP but transient 
+c in renal dysfxn; ∅clear diff between
+cont vs. intermittent (DOSE,ACC 2010) 
+Morphine (T sx, venodilator, T afterload)
+Nitrates (venodilator)
+Oxygen 	 noninvasive ventilation (see “Mechanical Ventilation”)
+Position (sitting up & legs dangling over side of bed S T preload)
+• For low perfusion, see below 
+Treatment of advanced heart failure (Circ 2009;119:e391)
+• Tailored Rx w/ PAC (qv); goals of MAP 60, CI 2.2 (MVO2 60%), SVR 800, PCWP 18
+• IV vasodilators: NTG, nitroprusside (risk of coronary steal in Pts w/ CAD;
+prolonged use S cyanide/thiocyanate toxicity); nesiritide (rBNP) T PCWP & sx,
+but may c Cr & mortality (JAMA 2002;287:1531 & 2005;293:1900)
+• Inotropes (properties in addition to c inotropy listed below)
+dobutamine: vasodilation at doses 5 g/kg/min; mild T PVR; desensitization over time
+dopamine: splanchnic vasodil. S c GFR & natriuresis; vasoconstrict. at 5 g/kg/min
+milrinone: prominent systemic & pulmonary vasodilation; T dose by 50% in renal failure
+• Ultrafiltration: 1 L fluid loss at 48 h and 50% T in rehosp. (JACC 2007;49:675)
+• Mechanical circulatory support
+intraaortic balloon pump (IABP): deflates in diastole & inflates in systole to T impe-
+dence to LV ejection of blood & c coronary perfusion
+ventricular assist device (LVAD 	 RVAD): as bridge to recovery (NEJM 2006;355:1873) or
+transplant (some temporary types can be placed percutaneously  PVAD), or as
+destination therapy (45–50% T mort. vs. med Rx; NEJM 2001;345:1435 & 2009;361:2241)
+• Cardiac transplantation: 15–20% mort. in 1st y, median survival 10 y
+Recommended Chronic Therapy by CHF Stage (Circ 2009;119: e391)
+Stage (Not NYHA Class)
+Pt Characteristics
+Therapy
+High risk for HF
+HTN, DM, CAD
+Treat HTN, lipids, DM, SVT
+ Structural heart dis.
+Cardiotoxin exposure
+Stop smoking, EtOH
+A
+Asx
+FHx of CMP
+Encourage exercise
+ACEI if HTN, DM, CVD, PAD
+B
+ Structural heart dis.
+Prior MI, T EF, LVH
+All measures for stage A
+Asx
+or asx valvular dis.
+ACEI & B if MI/CAD or T EF
+ Structural heart dis.
+All measures for stage A
+ Symptoms of HF
+ACEI, B, diuretics, Na restrict
+C
+(prior or current) 
+Overt HF
+Consider aldactone, ICD, CRT
+Consider nitrate/hydral, digoxin
+Refractory HF
+Sx despite maximal 
+All measures for stage A–C
+requiring specialized
+medical Rx
+IV inotropes,VAD, transplant
+D
+interventions
+4 yr mortality 50%
+End-of-life care
+(Circ 2009;119:e391)
+• No clear evidence that BNP-guided Rx results in superior clinical outcomes outside
+of encouraging intensification of established therapies (JAMA 2009;301:383)
+• Implantable PA pressure sensor may T risk of hosp (CHAMPION, HF Congress 2010)
+HF
+1-15
+Congestion?
+No
+Yes
+Warm & Dry Warm & Wet
+OutPt Rx
+Diuresis 	
+vasodilator
+Cold & Dry
+Cold & Wet
+	 Inotropes
+Tailored Rx 
+(CCU)
+(CCU)
+Low perfusion?
+Yes
+No
+
+--- Fim da Página 27 ---
+
+Treatment of Chronic Heart Failure with Reduced Ejection Fraction
+Diet, exercise
+Na 2 g/d, fluid restriction, exercise training in ambulatory Pts
+ACEI
+T mortality: 40% in NYHA IV, 16% in NYHA II/III, 20% in asx,
+post-MI, EF 40% (NEJM 1987;316:1429; 1991;325:293; 1992;327:669)
+20% T reMI; 20–30% T rehosp for HF (c amt of benefit w/ T EF)
+30% T HF in asx Pts w/ EF 35% (SOLVD-P, NEJM 1992;327:685)
+High-dose ACEI more efficacious than low-dose 
+Watch for azotemia, c K (can ameliorate by low-K diet, diuretics,
+kayexalate), cough, angioedema
+ATII receptor
+Consider as alternative if cannot tolerate ACEI (eg, b/c cough)
+blockers (ARBs)
+Noninferior to ACEI (VALIANT, NEJM 2003;349:1893)
+Good alternative if ACEI intol (CHARM-Alternative, Lancet 2003;362:772)
+As with ACEI, higher doses more efficacious (Lancet 2009;374:1840)
+? T HF (Val-HEFT, NEJM 2001;345:1667) and T mort. when added to 
+ACEI (CHARM-Added, Lancet 2003;362:767), but c risk of c K and c Cr
+Hydralazine  nitrates
+Consider if cannot tolerate ACEI/ARB or in blacks w/ Class III/IV
+25% T mort. (NEJM 1986;314:1547); infer. to ACEI (NEJM 1991;325:303)
+40% T mort. in blacks on standard Rx (A-HEFT, NEJM 2004;351:2049)
+-blocker
+EF will transiently T, then c. Contraindic. in decompensated HF.
+(data for carvedilol,
+35% T mort. & 40% T rehosp. in NYHA II–IV (JAMA 2002;287:883)
+metoprolol, bisoprolol)
+Carvedilol superior to low-dose metoprolol (Lancet 2003;362:7)
+Aldosterone
+Consider if HF severe or post-MI, adeq. renal fxn; watch for c K
+antagonists
+30% T mort. in NYHA III/IV & EF 35% (RALES, NEJM 1999;341:709)
+15% T mort. in HF post-MI, EF 40% (EPHESUS, NEJM 2003;348:1309)
+Cardiac
+Consider if EF 35%, QRS 120 ms, and symptomatic
+resynchronization
+36% T mort. & c EF in NYHA III–IV (CARE-HF, NEJM 2005;352:1539)
+therapy (CRT)
+T HF if EF30% & NYHA I/II, espec if QRS 150 ms, no  in 
+mortality (NEJM 2009;361:1329)
+No single measure of dyssynchrony on echo improves Pt 
+selection for CRT (Circ 2008;117:2608)
+ICD
+Use for 1 prevention if sx & EF 35% or for 2 prevention
+T mort. in Pts w/ MI & EF 30% (NEJM 2002;346:877); no  mort.
+early post-MI (NEJM 2004;351:2481; 2009;361:1427), ∴wait 40 d
+23% T mort. in all DCMP, EF 35% (SCD-HeFT, NEJM 2005;352:225)
+T arrhythmic death in nonisch DCMP (DEFINITE, NEJM 2004;350:2151)
+Diuretics
+Loop 	 thiazides diuretics (sx relief; no mortality benefit)
+Digoxin
+23% T HF hosp., no  mortality (NEJM 1997;336:525)
+? c mort. in women, ? related to c levels (NEJM 2002;347:1403)
+? optimal dig concentration 0.5–0.8 ng/mL (JAMA 2003;289:871)
+-3 fatty acids
+9% T mortality (Lancet 2008;372:1223)
+Anticoagulation
+Consider if AF, LV thrombus, large akinetic LV segment, EF 30%
+Heart rhythm
+Catheter ablation of AF S c in EF, T sx (NEJM 2004;351:2373)
+No mortality benefit to AF rhythm vs. rate cntl (NEJM 2008;358:2667)
+For sx AF, pulm vein isolation improves sx c/w AVN ablation & 
+CRT (NEJM 2008;359:1778)
+(Lancet 2009;373:941; Circ 2009;119:e391; NEJM 2010;362:228)
+Heart failure with preserved EF (“Diastolic HF”) (JACC 2009;53:905)
+• 40–60% of Pts w/ HF have normal or only min. impaired systolic fxn (EF 40%) (NEJM
+2006;355:251, 260), w/ mortality rates similar to those w/ systolic dysfxn
+• 30% of population 45 y w/ diastolic dysfxn on echo, 20% mild, 10% mod/sev,
+but only 50% of severe and 5% of moderate cases were symptomatic (JAMA 2003;289:194)
+• Etiologies (impaired relaxation and/or c passive stiffness): ischemia, prior MI, LVH,
+HCMP, infiltrative CMP, RCMP, aging, hypothyroidism
+• Precipitants of pulmonary edema: volume overload (poor compliance of LV S sensitive
+to even modest c in volume); ischemia (T relaxation); tachycardia (T filling time in
+diastole),AF (loss of atrial boost to LV filling); HTN (T afterload S T stroke volume) 
+• Dx w/ clinical s/s of HF w/ preserved systolic and impaired diastolic fxn on echo:
+abnormal MV inflow: E/A reversal and s in E wave deceleration time
+T myocardial relax.: c isovol relax. time & T early diastole tissue Doppler vel
+LVH, LAE
+• Treatment: diuresis for volume overload, BP control, prevention of tachycardia and
+ischemia. No clear benefit of ACEI/ARB in Pts with isolated diastolic HF (Lancet
+2003;362:777; NEJM 2008;359:2456). May underscore heterogeneity of Pt population.
+HF
+1-16
+
+--- Fim da Página 28 ---
+
+CMP
+1-17
+CARDIOMYOPATHIES
+Diseases with mechanical and/or electrical dysfunction of the myocardium
+DILATED CARDIOMYOPATHY (DCMP)
+Definition and epidemiology (Circ 2006;113:1807)
+• Ventricular dilatation and T contractility 	 T wall thickness,
+• Incidence: 5–8 cases/100,000 population per y; prevalence: 1 in 2500
+Etiologies (NEJM 1994;331:1564 & 2000;342:1077)
+• Ischemia: systolic dysfxn & dilation out of proportion to CAD (poor remodeling post-MI)
+• Valvular disease: systolic dysfxn due to chronic volume overload in MR & AI
+• Familial (25%): mutations in cytoskeletal, nuclear, and filament proteins (NEJM 1992;362:77)
+• Idiopathic (25% of DCMP, ? undiagnosed infectious, alcoholic, or genetic cause)
+• Infectious myocarditis (10–15%, autoimmune response to infxn; NEJM 2009;360:1526)
+Viruses (coxsackie, adeno, echovirus, CMV): ranging from subacute (dilated LV w/ mild-
+mod dysfxn) to fulminant (nondilated, thickened, edematous LV w/ severe dysfxn)
+Bacterial, fungal, rickettsial,TB, Lyme (mild myocarditis, often with AVB)
+HIV: 8% of asx HIV ; due to HIV vs. other viruses vs. meds (NEJM 1998;339:1093)
+Chagas: apical aneurysm 	 thrombus, RBBB, megaesophagus or colon (NEJM 1993;329:639)
+• Toxic
+Alcohol (5%) typically 7–8 drinks/d  5 y, but much interindividual variability
+Anthracyclines (risk c 550 mg/m2, may manifest late), cyclophosphamide, trastuzumab 
+Cocaine, antiretrovirals, lead, carbon monoxide poisoning, radiation
+• Infiltrative (5%): often mix of DCMP  RCMP (qv) with thickened wall
+amyloidosis, sarcoidosis, hemochromatosis, tumor
+• Autoimmune
+Collagen vascular disease (3%): polymyositis, SLE, scleroderma, PAN, RA,Wegener’s
+Peripartum (last month S 5 mo postpartum): 0.1% of preg.; c risk w/ multiparity &
+c age; 50% will improve; ? c risk w/ next preg. (JAMA 2000;283:1183)
+Idiopathic giant cell myocarditis (GCM): avg age 42 y, fulminant,VT (NEJM 1997;336:1860)
+Eosinophilic (variable peripheral eosinophilia): hypersensitivity (mild CHF) or
+acute necrotizing (ANEM; STE, effusion, severe CHF)
+• Stress-induced (Takotsubo apical ballooning): mimics MI (pain, 	 STE & c Tn; deep TWI
+& c QT; mid/apical dyskinesis; ? Rx w/ ACEI; usually improves over wks (NEJM 2005;352:539)
+• Tachycardia-induced: likelihood proportional to rate and duration
+• Arrhythmogenic right ventricular cardiomyopathy (ARVC): fibrofatty replacement
+of RV S dilation (dx w/ MRI); ECG: 	 RBBB,TWI V1–V3,  wave; risk VT (Circ 2004;110:1879)
+• Metabolic & other: hypothyroidism, acromegaly, pheo, thiamine, sleep apnea
+Clinical manifestations
+• Heart failure: both congestive & poor forward flow sx; signs of L- & R-sided HF
+diffuse, lat.-displaced PMI, S3, 	 MR or TR (annular dilat., displaced pap. muscle)
+• Embolic events (10%), arrhythmias & palpitations
+• Chest pain can be seen w/ some etiologies (eg, myocarditis)
+Diagnostic studies and workup
+• CXR: moderate to marked cardiomegaly, 	 pulmonary edema & pleural effusions
+• ECG: may see PRWP, Q waves, or BBB; low voltage; AF (20%)
+• Echocardiogram: LV dilatation, T EF, regional or global LV HK, 	 RV HK, 	 mural thrombi
+• Laboratory evaluation:TFTs, iron studies, HIV, SPEP, ANA; others per clinical suspicion
+• Family hx (20–35% w/ familial dis.), genetic counseling 	 genetic testing (JAMA 2009;302:2471)
+• Stress test: completely  test useful to r/o ischemic etiology (low false  rate), but
+ test does not rule in ischemic etiology (high false  rate, even w/ imaging)
+• Coronary angiography to r/o CAD if risk factors, h/o angina, Qw MI on ECG,
+equivocal ETT; consider CT angiography (JACC 2007;49:2044) 
+• ? Endomyocardial biopsy (JACC 2007;50:1914): yield 10% (of these, 75% myocarditis, 25% 
+systemic disease); 40% false  rate (patchy dis.) & false  (necrosis S inflammation)
+no proven Rx for myocarditis; ∴biopsy if: acute & hemodyn compromise (r/o GCM,
+ANEM); arrhythmia or RCMP features (r/o infiltrative); or suspect toxic, allergic, tumor
+• Cardiac MRI: detect myocarditis or infiltrative disease, but nonspecific (EHJ 2005;26:1461)
+Treatment (see “Heart Failure” for standard HF Rx)
+• Implantation of devices may be tempered by possibility of reversibility of CMP
+• Immunosuppression: for giant cell myocarditis (prednisone  AZA), collagen vascular
+disease, peripartum (? IVIg), & eosinophilic; no proven benefit for viral myocarditis
+• Prognosis differs by etiology (NEJM 2000;342:1077): postpartum (best), ischemic (worst)
+
+--- Fim da Página 29 ---
+
+HYPERTROPHIC CARDIOMYOPATHY (HCMP)
+Definition and epidemiology
+• LV (usually 15 mm) and/or RV hypertrophy disproportionate to hemodynamic load
+• Prevalence: 1 case/500 population; 50% sporadic, 50% familial
+• Differentiate from 2 LVH: hypertension (espec. elderly women; NEJM 1985;312:277),AS,
+elite athletes (wall thickness usually 13 mm & symmetric and nl/c rates of tissue
+Doppler diastolic relaxation; NEJM 1991;324:295), Fabry dis. (c Cr, skin findings)
+Pathology
+• Autosomal dominant mutations in cardiac sarcomere genes (eg, -myosin heavy chain) 
+• Myocardial fiber disarray with hypertrophy
+• Morphologic hypertrophy variants: asymmetric septal; concentric; midcavity; apical
+Pathophysiology
+• Subaortic outflow obstruction: narrowed tract 2 hypertrophied septum  systolic
+anterior motion (SAM) of ant. MV leaflet (may be fixed, variable, or nonexistent) and
+papillary muscle displacement. Gradient (∇) worse w/ c contractility
+(digoxin, -agonists), T preload, or T afterload.
+• Mitral regurgitation: due to SAM (mid-to-late, post.-directed regurg. jet) and abnormal
+mitral leaflets and papillary muscles (pansystolic, ant.-directed regurg. jet)
+• Diastolic dysfunction: c chamber stiffness  impaired relaxation
+• Ischemia: small vessel dis., perforating artery compression (bridging), T coronary perfusion
+• Syncope: s in load-dependent CO, arrhythmias
+Clinical manifestations (70% are asymptomatic at dx)
+• Dyspnea (90%): due to c LVEDP, MR, and diastolic dysfunction
+• Angina (25%) even w/o epicardial CAD; microvasc. dysfxn (NEJM 2003;349:1027)
+• Arrhythmias (AF in 20–25%;VT/VF) S palpitations, syncope, sudden cardiac death
+Physical exam
+• Sustained PMI, S2 paradox. split if severe outflow obstruction,  S4 (occ. palpable)
+• Systolic crescendo-decrescendo murmur at LLSB: c w/ Valsalva & standing
+• 	 mid-to-late or holosystolic murmur of MR at apex
+• Bisferiens carotid pulse (brisk rise, decline, then 2nd rise); JVP w/ prominent a wave
+• Contrast to AS, which has murmur that T w/ Valsalva and T carotid pulses
+Diagnostic studies
+• CXR: cardiomegaly (LV and LA)
+• ECG: LVH, anterolateral and inferior pseudo-Qw, 	 apical giant TWI (apical variant)
+• Echo: no absolute cutoffs for degree of LVH but septum / post wall 1.3 suggestive,
+as is septum 15 mm; other findings include dynamic outflow obstruction, SAM, MR
+• MRI: hypertrophy  patchy delayed enhancement (useful for dx & prognosis) 
+• Cardiac cath: subaortic pressure ∇; Brockenbrough sign  T pulse pressure post-
+extrasystolic beat (in contrast to AS, in which pulse pressure c postextrasystole)
+Treatment (NEJM 2004;350:1320)
+• Heart failure
+ inotropes/chronotropes: -blockers, CCB (verapamil), disopyramide.
+Careful use of diuretics.Vasodilators only if systolic dysfxn.Avoid digoxin.
+If refractory to drug therapy and there is obstructive physiology (∇50 mmHg):
+a) Alcohol septal ablation (NEJM 2002;347:1326)
+triphasic ∇response: acute T S 	 partial c back to 50% of baseline S T over months
+by 1 y resting ∇15 mmHg & stress-induced ∇31 mmHg (J Interv Card 2006;19:319)
+complications: transient (& occ. delayed) 3 AVB w/ 10–20% req. PPM;VT
+b) Surgical myectomy: long-term sx improvement in 90% (Circ 2005;112:482)
+c) ? Dual-chamber pacing, but largely placebo effect (JACC 1997;29:435; Circ 1999;99:2927)
+If refractory to drug therapy and there is nonobstructive pathophysiology: transplant
+• Acute HF: can be precip. by dehydration or tachycardia; Rx w/ fluids, B, phenylephrine 
+• AF: rate control with -blockers, maintain SR with disopyramide, amiodarone
+• Sudden cardiac death: ICD (JACC 2003;42:1687). Major risk factors include history of VT/VF,
+ FHx SCD, unexplained syncope, NSVT, T SBP or relative HoTN (c SBP 20
+mmHg) w/ exercise, LV wall 30 mm; risk 4%/y in high-risk Pts (JAMA 2007;298:405)
+• Counsel to avoid dehydration, extreme exertion
+• Endocarditis prophylaxis no longer recommended (Circ 2007;16:1736)
+• First-degree relatives: periodic screening w/ echo (as timing of HCMP onset variable)
+CMP
+1-18
+
+--- Fim da Página 30 ---
+
+RESTRICTIVE CARDIOMYOPATHY (RCMP)
+Definition
+• Impaired ventricular filling due to T compliance in absence of pericardial disease
+Etiology (NEJM 1997;336:267; JACC 2010;55:1769)
+• Myocardial processes
+autoimmune (scleroderma, polymyositis-dermatomyositis)
+infiltrative diseases (see primary entries for extracardiac manifestations, Dx, Rx)
+amyloidosis (JACC 2007;50:2101): age at presentation 60 y; male:female  3:2
+AL (MM, light-chain, MGUS,WM); familial (transthyretin,TTR);AA/senile (TTR, ANP)
+ECG: T QRS amplitude (50%), pseudoinfarction pattern (Qw),AVB (10–20%),
+hemiblock (20%), BBB (5–20%)
+Echo: biventricular wall thickening, granular sparkling texture (30%), biatrial
+enlargement (40%), thickened atrial septum, valve thickening (65%), diastolic 
+dysfxn, small effusion
+normal voltage & normal septal thickness has NPV 90%
+MRI: distinct late gadolinium enhancement pattern (JACC 2008;51:1022)
+sarcoidosis: age at present. 30 y; more common in blacks, N. Europeans, women
+5% of those with sarcoid w/ overt cardiac involvement; cardiac w/o systemic in 10%
+ECG:AVB (75%), RBBB (20–60%),VT
+Echo: regional WMA (particularly basal septum) with thinning or mild hypertrophy
+nuclear imaging: gallium uptake in areas of sestaMIBI perfusion defects
+hemochromatosis: presents in middle-aged men (particularly N. European)
+storage diseases: Gaucher’s, Fabry, Hurler’s, glycogen storage diseases
+diabetes mellitus
+• Endomyocardial processes
+chronic eosinophilic: Löffler’s endocarditis (temperate climates; c eos.; mural thrombi
+that embolize); endomyocardial fibrosis (tropical climates; var. eos.; mural thrombi)
+toxins: radiation, anthracyclines
+serotonin: carcinoid, serotonin agonists, ergot alkaloids
+metastatic cancer
+Pathology & pathophysiology
+• Path: normal or c wall thickness 	 infiltration or abnormal deposition
+• T myocardial compliance S nl EDV but c EDP S c systemic & pulm. venous pressures
+• T ventricular cavity size S T SV and T CO
+Clinical manifestations (Circ 2000;101:2490)
+• Right-sided  left-sided heart failure with peripheral edema  pulmonary edema
+• Diuretic “refractoriness”
+• Thromboembolic events
+• Poorly tolerated tachyarrhythmias;VT S syncope/sudden cardiac death
+Physical exam
+• c JVP, 	 Kussmaul’s sign (classically seen in constrictive pericarditis)
+• Cardiac: 	 S3 and S4, 	 murmurs of MR and TR
+• Congestive hepatomegaly, 	 ascites and jaundice, peripheral edema
+Diagnostic studies
+• CXR: normal ventricular chamber size, enlarged atria, 	 pulmonary congestion
+• ECG: low voltage, pseudoinfarction pattern (Qw), 	 arrhythmias
+• Echo: symmetric wall thickening, biatrial enlarge., 	 mural thrombi, 	 cavity oblit.
+w/ diast dysfxn: c early diast (E) and T late atrial (A) filling, c E/A ratio, T decel. time
+• Cardiac MRI: may reveal inflammation or evidence of infiltration (although nonspecific)
+• Cardiac catheterization
+atria: M’s or W’s (prominent x and y descents)
+ventricles: dip & plateau (rapid T pressure at onset of diastole, rapid c to early plateau)
+concordance of LV and RV pressure peaks during respiratory cycle (vs. discor-
+dance in constrictive pericarditis; Circ 1996;93:2007)
+• Endomyocardial biopsy if suspect infiltrative process
+• Restrictive cardiomyopathy vs. constrictive pericarditis: see “Pericardial Disease”
+Treatment (in addition to Rx’ing underlying disease)
+• Gentle diuresis. May not tolerate CCB or other vasodilators.
+• Control HR and maintain SR (important for diastolic filling). Dig proarrhythmic in amyloid.
+• Anticoagulation (particularly with AF or low CO)
+• Transplantation for refractory cases
+CMP
+1-19
+
+--- Fim da Página 31 ---
+
+VALVES
+1-20
+VALVULAR HEART DISEASE
+AORTIC STENOSIS (AS)
+Etiology
+• Calcific: predominant cause in Pts 70 y; risk factors include HTN, c chol., ESRD
+• Congenital (ie, bicuspid AoV w/ premature calcification): cause in 50% of Pts 70 y
+• Rheumatic heart disease (AS usually accompanied by AI and MV disease)
+• AS mimickers: subvalvular (HCMP, subAo membrane), supravalvular
+Clinical manifestations (usually indicates AVA 1 cm2 or concomitant CAD)
+• Angina: c O2 demand (hypertrophy)  T O2 supply (T cor perfusion pressure) 	 CAD
+• Syncope (exertional): peripheral vasodil. w/ fixed CO S T MAP S T cerebral perfusion
+• Heart failure: outflow obstruct  diastolic dysfxn S pulm. edema; precip. by AF (T LV filling)
+• Acquired von Willebrand disease (20% of sev.AS): destruction of vWF (NEJM 2003;349:343)
+• Natural hx: usually slowly progressive (AVA T 0.1 cm2 per y, but varies; Circ 1997;95:2262),
+until sx develop; mean survival based on sx: angina  5 y; syncope  3 y; CHF  2 y 
+Physical examination
+• Midsystolic crescendo-decrescendo murmur at
+RUSB, harsh, high-pitched, radiates to carotids, apex
+(holosystolic  Gallavardin effect) c w/ passive leg raise,
+T w/ standing & Valsalva
+• In contrast, dynamic outflow obstruction (eg, HCMP) T
+w/ passive leg raise & c w/ standing & Valsalva
+• Ejection click after S1 sometimes heard with bicuspid AoV
+• Signs of severity: late-peaking murmur, paradoxically split S2
+or inaudible A2, small and delayed carotid pulse (“pulsus
+parvus et tardus”), LV heave,  S4 (occasionally palpable)
+Diagnostic studies
+• ECG: LVH, LAE, LBBB,AF (in late disease)
+• CXR: cardiomegaly,AoV calcification, poststenotic dilation of
+ascending Ao, pulmonary congestion
+• Echo: valve morphology, estim pressure gradient & calculate AVA, EF 
+• Cardiac cath: pressure gradiant (∇) across AoV,AVA, r/o CAD (in 50% of calcific AS)
+• Dobutamine challenge during echo or cath if low EF and ∇30 to differentiate:
+afterload mismatch: 20% c SV & c ∇, no  AVA (implies contractile reserve & c EF post-AVR) 
+pseudostenosis: 20% c SV, no  in ∇, c AVA (implies low AVA artifact of LV dysfxn)
+limited contractile reserve: no  SV, ∇, or AVA (implies EF prob. will not improve w/ AVR)
+Classification of Aortic Stenosis
+Stage
+Mean Gradient (mmHg)
+Jet Vel. (m⁄s)
+AVA (cm2)
+LVEF
+Normal
+0
+1
+3–4
+normal
+Mild
+25
+3
+1.5
+normal
+Moderate
+25–40
+3–4
+1.0–1.5
+normal
+Severe, compensated
+40
+4
+1.0*
+normal
+Severe, decompensated
+Variable
+Variable
+1.0*
+T
+*AVA index (AVA relative to BSA) 0.6 cm2/m2 also qualifies for severe AS.
+Treatment (Circ 2008;118:e523 & Lancet 2009;373:956)
+• Management decisions are based on symptoms: once they develop surgery is needed.
+If asx, HTN can be cautiously Rx’d; statins have not been proven to T progression.
+• AVR: only effective Rx for severe AS. Indicated in sx AS (almost invariably severe; if
+not, look for another cause of sx) & asx sev. AS  EF 50%. Consider if asx
+sev. AS and AVA 0.6 cm2, mean gradient 60 mmHg, aortic jet 5 m/s, T
+BP w/ exercise (can carefully exercise asx AS to uncover sx, do not exercise sx
+AS), high likelihood of rapid prog. or asx mod sev AS and undergoing CV surgery.
+• Medical therapy: used in sx Pts who are not operative candidates
+careful diuresis, control HTN, maintain SR; digoxin if low EF or AF 
+avoid venodilators (nitrates) and  inotropes (-blockers & CCB) in severe AS
+avoid vigorous physical exertion once AS moderate-severe
+? nitroprusside if p/w CHF w/ sev.AS, EF 35%, CI 2.2, & nl BP (NEJM 2003;348:1756)
+• IABP: stabilization, bridge to surgery
+• Balloon Ao valvotomy (BAV): 50% c AVA & T peak ∇, but 50% restenosis by 6–12 mo &
+c risk of peri-PAV stroke/AI (NEJM 1988;319:125), ∴bridge to AVR or palliation
+• Transcatheter AoV implantation (TAVI); bioprosthetic valve mounted on balloon-
+expandable stent (JACC 2009;53:1829); AVA c 1 cm2 (JACC 2010;55:1080); RCTs ongoing
+ECG 
+50 
+110 
+130 
+150 
+30 
+10 
+Pathophysiology of Heart
+Disease, 4th ed., 2006, for
+this and subseq graphics.
+
+--- Fim da Página 32 ---
+
+AORTIC INSUFFICIENCY (AI)
+Etiology (Circ 2006;114:422)
+• Valve disease (43%)
+rheumatic heart disease (usually mixed AS/AI and concomitant MV disease)
+bicuspid AoV: natural hx: 1/3 S normal, 1/3 S AS, 1/6 S AI, 1/6 S endocarditis S AI
+infective endocarditis
+valvulitis: RA, SLE; anorectics (fen/phen) & other serotoninergics (NEJM 2007;356:29,39)
+• Root disease (57%)
+HTN
+aortic aneurysm or dissection, annuloaortic ectasia, Marfan syndrome
+aortic inflammation: giant cell,Takayasu’s, ankylosing spond., reactive arthritis, syphilis
+Clinical manifestations
+• Acute: sudden T forward SV and c LVEDP (noncompliant ventricle) S pulmonary edema
+	 hypotension and cardiogenic shock
+• Chronic: clinically silent while LV dilates (to c compliance to keep LVEDP low) more
+than it hypertrophies S chronic volume overload S LV decompensation S CHF
+• Natural hx: variable progression (unlike AS, can be fast or slow); once decompensation
+begins, prognosis poor w/o AVR (mortality 10%/y)
+Physical examination
+• Early diastolic decrescendo murmur at LUSB
+(RUSB if dilated Ao root); c/ sitting forward, expir,
+handgrip; severity of AI  duration of murmur (except in 
+acute and severe late); Austin Flint murmur:mid-to-late diastolic 
+rumble at apex (AI jet interfering w/ mitral inflow) 
+• Wide pulse pressure due to c stroke volume, hyperdy-
+namic pulse S many of classic signs (see table); pulse
+pressure narrows in late AI with T LV fxn; bisferiens
+(twice-beating) arterial pulse
+• PMI diffuse and laterally displaced; soft S1 (early closure of
+MV); 	 S3 (Z T EF but rather just volume overload in AI) 
+Classic Eponymous Signs in Chronic AI (South Med J 1981;74:459)
+Sign
+Description
+Corrigan’s pulse
+“water hammer” pulse (ie, rapid rise/fall or distention/collapse)
+Hill’s sign
+(popliteal SBP – brachial SBP) 60 mmHg
+Duroziez’s sign
+to-and-fro murmur heard over femoral artery w/ light compression
+Pistol shot sounds
+pistol shot sound heard over femoral artery
+Traube’s sound
+double sound heard over femoral artery when compressed distally
+de Musset’s sign
+head-bobbing with each heartbeat (low Se)
+Müller’s sign
+systolic pulsations of the uvula
+Quincke’s pulses
+subungual capillary pulsations (low Sp)
+Diagnostic studies
+• ECG: LVH, LAD, abnl repolarization; CXR: cardiomegaly 	 ascending Ao dilatation
+• Echo: severity of AI (severe  width of regurgitant jet 65% LVOT, vena contracta
+0.6 cm, regurg fraction 50%, regurg orifice 0.3 cm2, flow reversal in descending
+Ao); LV size & fxn
+Treatment (Circ 2008;118:e523)
+• Acute decompensation (consider ischemia and endocarditis as possible precipitants)
+surgery usually urgently needed for acute severe AI which is poorly tolerated by LV
+IV afterload reduction (nitroprusside) and inotropic support (dobutamine)
+	 chronotropic support (c HR S T diastole S T time for regurgitation)
+pure vasoconstrictors and IABP contraindicated
+• In chronic AI, management decisions based on LV size and fxn (and before sx occur) 
+• Surgery (AVR, replacement or repair if possible)
+sx (if equivocal, consider stress test) severe AI (if not severe, unlikely to be cause of sx)
+asx severe AI and EF 50% or LV dilation (end syst. diam. 55 mm or end diast. diam.
+75 mm, or 50 & 70, respectively, if progression) or undergoing cardiac surgery
+• Medical therapy: vasodilators (nifedipine,ACEI, hydralazine) if severe AI w/ sx or LV
+dysfxn & Pt not operative candidate or to improve hemodynamics before AVR;
+no clear benefit on clinical outcomes or LV fxn when used to try to prolong compen-
+sation in asx severe AI w/ mild LV dilation & nl LV fxn (NEJM 2005;353:1342)
+VALVES
+1-21
+ECG
+
+--- Fim da Página 33 ---
+
+MITRAL REGURGITATION (MR)
+Etiology (Lancet 2009;373:1382) 
+• Leaflet abnormalities: myxomatous degeneration (MVP), endocarditis, calcific
+RHD, valvulitis (collagen-vascular disease), congenital, anorectic drugs
+• Functional: inferoapical papillary muscle displacement due to ischemic LV
+remodeling or other causes of DCMP; LV annular dilation due to LV dilation 
+• Ruptured chordae tendinae: myxomatous, endocarditis, spontaneous, trauma
+• Acute papillary muscle dysfxn b/c of ischemia or rupture during MI [usu. posteromedial
+papillary m. (supplied by PDA only) vs. anterolateral (suppl. by diags & OMs)]
+• HCMP: (see “Cardiomyopathy”)
+Clinical manifestations
+• Acute: pulmonary edema, hypotension, cardiogenic shock (NEJM 2004;351:1627)
+• Chronic: typically asx for yrs, then as LV fails S progressive DOE, fatigue,AF, PHT
+• Prognosis: 5-y survival w/ medical therapy is 80% if asx, but only 45% if sx
+Physical examination
+• High-pitched, blowing, holosystolic murmur at apex;
+radiates to axilla; 	 thrill; c w/ handgrip (Se 68%, Sp 92%),
+T w/ Valsalva (Se 93%) (NEJM 1988;318:1572)
+ant. leaflet abnl S post. jet heard at spine 
+post. leaflet abnl S ant. jet heard at sternum
+• Lat. displ. hyperdynamic PMI, obscured S1, widely split S2
+(A2 early b/c T LV afterload, P2 late if PHT); 	 S3
+• Carotid upstroke brisk (vs. diminished and delayed in AS)
+Diagnostic studies
+• ECG: LAE, LVH, 	 atrial fibrillation
+• CXR: dilated LA, dilated LV, 	 pulmonary congestion
+• Echo: MV anatomy (ie, cause of MR); MR severity: jet area
+(can underestimate eccentric jets), jet width at origin (“vena
+contracta”), or effective regurgitant orifice (ERO; predicts survival,
+NEJM 2005;352:875); LV fxn (EF should be supranormal if compensated, ∴EF 60% w/ sev.
+MR  LV dysfxn);TEE if TTE inconclusive or pre/intraop to guide repair vs. replace
+• Cardiac cath: prominent PCWP cv waves (not spec. for MR), LVgram for MR severity & EF
+Classification of Mitral Regurgitation
+Severity
+Regurg.
+Jet Area
+Jet width
+ERO
+Angio
+fraction
+(% of LA)
+(cm)
+(cm2)
+(see footnote)
+Mild
+30%
+20
+0.3
+0.2
+1
+Moderate
+30–49%
+20–40
+0.3–0.69
+0.2–0.39
+2
+Severe
+50%
+40
+0.70
+0.40
+3/4
+1  LA clears w/ each beat; 2  LA does not clear, faintly opac. after several beats; 3  LA & LV opac. equal
+Treatment (Circ 2008;118:e523; NEJM 2009;361:2261)
+• Acute decompensation (consider ischemia and endocarditis as precipitants)
+IV afterload reduction (nitroprusside), 	 inotropes (dobuta), IABP, avoid vasoconstrictors 
+surgery usually needed for acute severe MR as prognosis is poor w/o MVR
+• Surgery (repair [preferred if feasible] vs. replacement w/ preservation of mitral apparatus)
+sx severe MR, asx severe MR and EF 30–60% or LV sys. diam.  40 mm
+consider MV repair for asx severe MR w/ preserved EF, esp. if new AF or PHT
+if in AF, Maze procedure or pulm vein isolation may S NSR and prevent future stroke
+• In Pts undergoing CABG w/ mod/sev fxnal ischemic MR, consider annuloplasty ring
+• Percutaneous MV repair: edge-to-edge clip may be noninferior to surgery (EVEREST II,
+ACC 2010); annuloplasty band placed in coronary sinus (Circ 2006;113:851) under study 
+• Medical: ∅benefit (incl ACEI) in asx Pts; indicated if sx but not an operative candidate 
+T preload (T CHF and MR by T MV orifice): diuretics, nitrates (espec if ischemic/fxnal MR)
+if LV dysfxn:ACEI, B (carvedilol), 	 biV pacing; maintain SR
+MITRAL STENOSIS (MS)
+Etiology
+• Rheumatic heart disease (RHD): fusion of commissures S “fish mouth” valve
+from autoimmune rxn to  strep infxn; seen largely in developing world today
+• Mitral annular calcification (MAC): encroachment upon leaflets S functional MS
+• Congenital, infectious endocarditis w/ large lesion, myxoma, thrombus 
+• Valvulitis (eg, SLE, amyloid, carcinoid) or infiltration (eg, mucopolysaccharidoses)
+VALVES
+1-22
+Tall v
+wave
+ECG 
+
+--- Fim da Página 34 ---
+
+Clinical manifestations (Lancet 2009;374:1271)
+• Dyspnea and pulmonary edema (if due to RHD, sx usually begin in 30s)
+precipitants: exercise, fever, anemia, volume overload (incl. pregnancy), tachycardia,AF
+• Atrial fibrillation: onset often precipitates heart failure in Pts w/ MS
+• Embolic events: commonly cerebral, especially in AF or endocarditis
+• Pulmonary: hemoptysis, frequent bronchitis (due to congestion), PHT, RV failure
+• Ortner’s syndrome: hoarseness from LA compression of recurrent laryngeal nerve
+Physical examination
+• Low-pitched mid-diastolic rumble at apex
+w/ presystolic accentuation (if not in AF); best
+heard in L lat decubitus position during expi-
+ration, c w/ exercise; severity proportional to
+duration (not intensity) of murmur 
+• Opening snap (high-pitched early diastolic
+sound at apex) from fused leaflet tips;
+MVA proportional to S2–OS interval (tighter 
+valve S c LA pressure S shorter interval)
+• Loud S1 (unless MV calcified)
+Diagnostic studies
+• ECG: LAE (“P mitrale”), 	 AF, 	 RVH
+• CXR: dilated LA (straightening of left heart border, double density on right, left
+mainstem bronchus elevation)
+• Echo: estimate pressure gradient (∇), RVSP, valve area, valve echo score (0–16, based on
+leaflet mobility & thickening, subvalvular thickening, Ca; exercise TTE if discrepancy
+between sx and severity of MS at rest;TEE to assess for LA thrombus before PMV 
+• Cardiac cath: ∇from simultaneous PCWP & LV pressures, calculated MVA; LA
+pressure tall a wave and blunted y descent; c PA pressures
+Classification of Mitral Stenosis
+Stage
+Mean gradient (mmHg)
+MV area (cm2)
+PA Systolic (mmHg)
+Normal
+0
+4–6
+25
+Mild
+5
+1.5–2
+30
+Moderate
+5–10
+1–1.5
+30–50
+Severe
+10
+1
+50
+Treatment (Circ 2008;118:e523)
+• Medical: Na restriction, cautious diuresis, -blockers, sx-limited physical stress
+• Anticoagulation if AF, prior embolism, LA thrombus, or large LA
+• Indications for mechanical intervention: heart failure sx w/ MVA 1.5 or
+heart failure sx w/ MVA 1.5 but c PASP, PCWP, or MV ∇w/ exercise, or
+asx Pts w/ MVA 1.5 and PHT (PASP 50 or 60 mmHg w/ exercise) or new-onset AF
+• Percutaneous mitral valvotomy (PMV): preferred Rx if RHD; MVA doubles, ∇T by 50%;
+MVR if valve score 8,  mild MR, Ø AF or LA clot (NEJM 1994;331:961; Circ 2002;105:1465)
+• Surgical (MV repair if possible, o/w replacement): consider in sx Pts w/ MVA 1.5
+if PMV unavailable or contraindicated (mod. MR, LA clot), or valve morphology unsuitable
+• Pregnancy: if NYHA class III/IV S PMV, o/w medical Rx w/ low-dose diuretic & B
+MITRAL VALVE PROLAPSE (MVP)
+Definition and Etiology
+• Billowing of MV leaflet 2 mm above mitral annulus in parasternal long axis echo view
+• Leaflet redundancy from myxomatous proliferation of spongiosa of MV apparatus 
+• Idiopathic, familial, and a/w connective tissue diseases (eg, Marfan’s, Ehlers-Danlos)
+• Prevalence 1–2.5% of gen. population,  (NEJM 1999;341:1), most common cause of MR
+Clinical manifestations (usually asymptomatic)
+• MR (from leaflet prolapse or ruptured chordae); infective endocarditis; embolic events
+• Arrhythmias, rarely sudden cardiac death
+Physical exam
+• High-pitched, midsystolic click 	 mid-to-late systolic murmur
+T LV volume (standing) S click earlier; c LV volume or afterload S click later, softer
+Treatment
+• Endocarditis prophylaxis no longer recommended (Circ 2007:116:1736)
+• Aspirin or anticoagulation if prior neurologic event or atrial fibrillation
+VALVES
+1-23
+ECG 
+OS
+
+--- Fim da Página 35 ---
+
+PROSTHETIC HEART VALVES
+Mechanical (60%)
+• Bileaflet (eg, St. Jude Medical); tilting disk; caged-ball
+• Characteristics: very durable (20–30 y), but thrombogenic and ∴require anticoagulation
+consider if age 65 y or if anticoagulation already indicated (JACC 2010;55:2413)
+Bioprosthetic (40%)
+• Bovine pericardial or porcine heterograft (eg, Carpentier-Edwards), homograft 
+• Characteristics: less durable, but minimally thrombogenic
+consider if age 65 y, lifespan 20 y, or contraindication to anticoagulation
+Physical examination
+• Normal: crisp sounds, 	 soft murmur during forward flow (normal to have small ∇)
+• Abnormal: regurgitant murmurs, absent mechanical valve closure sounds
+Anticoagulation (Circ 2008;118:e523)
+• Warfarin
+low-risk mech AVR: INR 2–3 (consider 2.5–3.5 for 1st 3 mo)
+mech MVR or high-risk (defined below) mech AVR: INR 2.5–3.5
+high-risk bioprosthetic: INR 2–3 (and consider for 1st 3 mo in low-risk)
+high-risk features: prior thromboembolism,AF, T EF, hypercoagulable 
+• ASA (75–100 mg) indicated for all Pts with prosthetic valves; avoid adding to 
+warfarin if h/o GIB, uncontrolled HTN, erratic INR, or 80 y
+Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)
+AVR w/o risk factors
+d/c warfarin 48–72 h before surg; restart 24 h after surg
+MVR or AVR w/ risk factors
+Preop: d/c warfarin, start UFH when INR 2
+4–6 h preop: d/c UFH; postop: restart UFH & warfarin ASAP
+Procedures include noncardiac surgery, invasive procedures, and major dental work (Circ 2008;118:e523)
+Correction of overanticoagulation (Circ 2008;118:e626)
+• Risk from major bleeding must be weighed against risk of valve thrombosis
+• Not bleeding & INR 5: withhold warfarin, do not give vit K, ✓serial INRs
+• Not bleeding & INR 5–10: withhold warfarin, vit K 1–2.5 mg PO, ✓serial INRs
+• Bleeding or INR 10: FFP 	 low-dose (1 mg) vit K IV
+Endocarditis prophylaxis (see “Endocarditis”)
+• Indicated for all prosthetic valves to T IE risk during transient bacteremia
+Complications 
+• Structural failure (r/o endocarditis); mechanical valves: rare except for Bjork-Shiley;
+bioprosthetic valves: up to 30% fail rate w/in 10–15 y, mitral  aortic
+• Paravalvular leak (r/o endocarditis); small central jet of regurg is normal in mech. valves
+• Obstruction from thrombosis or pannus ingrowth: ✓TTE,TEE and/or fluoroscopy if ? clot
+significantly sx pannus ingrowth: remove w/ surgery
+thrombosis: surgery if left-sided valve & either severe sx or lg (? 1 cm) clot burden;
+fibrinolytic Rx often ineffective for left-sided thrombosis & 12–15% risk of stroke;
+consider UFH 	 lytic if mild sx and small clot burden or poor surg candidate;
+fibrinolytic therapy reasonable for right-sided thrombosis 
+• Infective endocarditis 	 valvular abscess and conduction system disruption
+• Embolization (r/o endocarditis); risk 1%/y w/ warfarin (vs. 2% w/ ASA, or 4% w/o meds)
+mech MVR 2 risk of embolic events vs. mech AVR (Circ 1994:89:635)
+• Bleeding (from anticoag), hemolysis (especially w/ caged-ball valves or paravalvular leak)
+HEART VALVES (superior view, JAMA 1976;235:1603)
+AV  aortic valve
+AVN  AV node
+B His  bundle of His
+CS  coronary sinus
+Cx  circumflex artery
+LAD  left anterior descending artery
+LAF  left anterior fascicle
+LCA  left coronary artery
+LPF  left posterior fascicle
+MV  mitral valve
+RB  right bundle
+RC/LC/NC  right/left/noncoronary cusp
+RCA  right coronary artery
+TV  tricuspid valve
+VALVES
+1-24
+
+--- Fim da Página 36 ---
+
+PERICARDIAL
+1-25
+PERICARDIAL DISEASE
+GENERAL PRINCIPLES
+Anatomy
+• 2-layered (parietal & visceral) tissue sac surrounding heart & proximal great vessels
+Disease states
+• Inflammation (w/ or w/o fluid accumulation) S pericarditis
+• Fluid accumulation (usually in setting of inflammation) S effusion 	 tamponade
+• Change in compliance (sequela of inflammation) S constriction
+• Tamponade and constriction characterized by increased ventricular interdependence
+PERICARDITIS AND PERICARDIAL EFFUSION
+Etiologies of Pericarditis (Lancet 2004;363:717)
+Infectious
+Viral: Coxsackie, echo, adeno, EBV,VZV, HIV, influenza
+(50%)
+Bacterial (from endocarditis, pneumonia, or s/p cardiac surgery):
+S. pneumococcus, N. meningitidis, S. aureus, Borrelia (Lyme)
+Tuberculous (extension from lung or hematogenous)
+Fungal: Histo, Coccidio, Candida; Parasitic: Entamoeba, Echino
+Neoplastic
+Common: metastatic (lung, breast, lymphoma, leukemia, renal cell)
+(35%)
+Rare: primary cardiac & serosal tumors (mesothelioma)
+Autoimmune
+Connective tissue diseases: SLE, RA, scleroderma, Sjögren’s
+Vasculitides: PAN, Churg-Strauss,Wegener’s
+Drug-induced: procainamide, hydralazine, INH, CsA
+Uremia
+Develops in 20% of Pts, especially if on HD. May be transudative.
+Cardiovascular
+Acute transmural MI (5–20%); late post-MI (Dressler’s syndrome)
+Proximal aortic dissection (up to 45%)
+Chest trauma or s/p cardiac procedure or surgery
+Radiation
+4,000 cGy to mediastinum; acute or delayed; may be transudative
+Idiopathic
+Most presumed to be undiagnosed viral
+Effusions w/o
+CHF, cirrhosis, nephrotic syndrome, hypothyroidism, amyloidosis.;
+pericarditis
+Transudative.
+Clinical manifestations (NEJM 2004;351:2195)
+• Pericarditis: chest pain that is pleuritic, positional (T by sitting forward), radiates to
+trapezius; may be absent in tuberculous, neoplastic, post-XRT, and uremic pericarditis;
+	 fever; 	 s/s of systemic etiologies
+• Effusion: ranges from asx to tamponade (see below)
+Physical exam
+• Pericarditis: multiphasic friction rub best heard at LLSB w/ diaphragm of stethoscope
+(leathery sound w/ up to 3 components: atrial contraction, ventricular contraction,
+ventricular relaxation) that is notoriously variable and evanescent
+• Effusion: distant heart sounds, dullness over left posterior lung field due to 
+compressive atelectasis from pericardial effusion (Ewart’s sign)
+Diagnostic studies (EHJ 2004;25:587; Circ 2006;113:1622)
+• ECG: may show diffuse STE (concave up) & PR depression (except in aVR: ST T & PR c),
+TWI; classically and in contrast to STEMI,TWI do not occur until STs normalize
+Stages: STE & PR T (I); ST & PR normalize (II); diffuse TWI (III);Tw normalize (IV).
+May show evidence of large effusion w/ low voltage & electrical alternans (beat-to-
+beat  in QRS amplitude and/or axis).
+• CXR: if large effusion (250 mL of fluid) S c cardiac silhouette w/ “water-bottle”
+heart and epicardial halo
+• Echocardiogram: presence, size, & location of effusion; presence of tamponade
+physiology; pericarditis itself w/o spec. abnl (∴echo can be nl), although can see
+pericardial stranding (fibrin or tumor); can also detect asx myocarditis
+• CT will reveal pericardial effusions, often appearing larger than on echocardiography
+• CK-MB or troponin ( in 30%, JACC 2003;42:2144) if myopericarditis
+Workup for effusion
+• r/o infxn: usually apparent from Hx & CXR; ? ✓acute and convalescent serologies
+• r/o noninfectious etiologies: BUN, Cr, ANA, RF, screen for common malignancies
+
+--- Fim da Página 37 ---
+
+• Pericardiocentesis if suspect infxn or malignancy or if effusion large (2 cm)
+✓cell counts,TP, LDH, glc, gram stain & Cx,AFB, cytology
+ADA, PCR for MTb, and specific tumor markers as indicated by clinical suspicion
+“exudate” criteria:TP 3 g/dL,TPeff/TPserum 0.5,LDHeff/LDHserum 0.6,or glc 60 mg/dL
+high Se (90%) but very low Sp (20%); overall low utility (Chest 1997;111:1213)
+• Pericardial bx if suspicion remains for malignancy or tuberculosis
+Treatment of pericarditis (EHJ 2004;25:587; Circ 2006;113:1622)
+• NSAIDs (eg, ibuprofen 600–800 mg tid) 	 colchicine 0.5 mg bid (Circ 2005;112:2012) 
+sx usually subside in 1–3 d, continue Rx for 7–14 d (JAMA 2003;289:1150)
+• Steroids (usually systemic; occ. intrapericardial) for systemic rheum or autoimmune
+disorder, uremic, preg., contraindication to NSAID, or refractory idiopathic dis.
+Risks of steroids: ? c rate of relapse, and c osteoporosis, Cushing’s (Circ 2008;118:667).
+• Avoid anticoagulants
+• Infectious effusion S pericardial drainage (preferably surgically)  systemic antibiotics
+• Acute idiopathic effusion self-limited in 70–90% of cases
+• Recurrent effusion S consider pericardial window (percutaneous vs. surgical)
+PERICARDIAL TAMPONADE
+Etiology
+• Any cause of pericarditis but especially malignancy, uremia, idiopathic,
+proximal aortic dissection with rupture, myocardial rupture
+• Rapidly accumulating effusions most likely to cause tamponade as no time for 
+pericardium to stretch (c compliance) and accommodate fluid
+Pathophysiology (NEJM 2003;349:684)
+• c intrapericardial pressure, compression of heart chambers, T venous return S T CO
+• Diastolic pressures c & equalize in all cardiac chambers S minimal flow of blood from
+RA to RV when TV opens S blunted y descent
+• c ventricular interdependence S pulsus paradoxus (pathologic exaggeration of nl physio) 
+Inspiration S T intrapericardial & RA pressures S c venous return S c RV size S
+septal shift to left.Also, c pulmonary vascular compliance S T pulm venous return.
+Result is T LV filling S T LV stroke volume & blood pressure.
+Clinical manifestations
+• Cardiogenic shock (hypotension, fatigue) without pulmonary edema
+• Dyspnea (seen in 85%) may be due to c respiratory drive to augment venous return
+Physical exam (JAMA 2007;297:1810)
+• Beck’s triad (present in minority): distant heart sounds, c JVP, hypotension
+• c JVP (76%) w/ blunted y descent
+• Reflex tachycardia (77%), hypotension (26%; occasionally hypertensive), cool extremities
+• Pulsus paradoxus (Se 82%, Sp 70%)  T SBP 10 mmHg during inspiration
+LR 3.3 (5.9 if pulsus 12), LR 0.03
+Ddx  PE, hypovolemia, severe obstructive lung disease, constriction (1/3), CHF
+Can be absent if pre-existing c LVEDP, cardiac arrhythmia, or regional tamponade
+• Distant heart sounds (28%), 	 pericardial friction rub (30%)
+• Tachypnea but clear lungs
+Diagnostic studies
+• ECG: T voltage (seen in 42%), electrical alternans, 	 signs of pericarditis
+• CXR: c cardiac silhouette (89%)
+• Echocardiogram:  effusion, IVC plethora, septal shift with inspiration,
+diastolic collapse of RA (Se 85%, Sp 80%) and/or RV (Se 80%, Sp 90%)
+respirophasic ’s in transvalvular velocities (c across TV & T across MV w/ inspir.)
+postsurgical tamponade may be localized and not easily visible 
+• Cardiac cath (right heart and pericardial): elevation (15–30 mmHg) and equalization of
+intrapericardial and diastolic pressures (RA, RV, PCWP), blunted y descent in RA
+c in stroke volume postpericardiocentesis ultimate proof of tamponade
+if RA pressure remains elevated after drainage, may have effusive-constrictive disease
+(NEJM 2004;350:469) or myocardial dysfxn (eg, from concomitant myocarditis)
+Treatment
+• Volume (but be careful as overfilling can worsen tamponade) and  inotropes (avoid B)
+• Pericardiocentesis (except if due to aortic or myocardial rupture, in which cases 
+consider removing just enough fluid to reverse PEA while awaiting surgery)
+PERICARDIAL
+1-26
+
+--- Fim da Página 38 ---
+
+PERICARDIAL
+1-27
+CONSTRICTIVE PERICARDITIS
+Etiology
+• Any cause of pericarditis but especially postviral, radiation, uremia, TB, post-
+cardiac surgery, and idiopathic
+Pathophysiology
+• Rigid pericardium limits diastolic filling S c systemic venous pressures
+• Venous return is limited only after early rapid filling phase; ∴rapid T in RA pressure with
+atrial relaxation and opening of tricuspid valve and prominent x and y descents
+• Kussmaul’s sign: JVP does not decrease with inspiration (c venous return with inspi-
+ration, but negative intrathoracic pressure not transmitted to heart because of
+rigid pericardium)
+Clinical manifestations
+• Right-sided  left-sided heart failure
+Physical exam
+• c JVP with prominent y descent,  Kussmaul’s sign (Ddx:TS, acute cor pulmonale,
+RV infarct, RCMP)
+• Hepatomegaly, ascites, peripheral edema
+• PMI usually not palpable, pericardial knock, usually no pulsus paradoxus
+Diagnostic studies
+• ECG: nonspecific,AF common in advanced cases
+• CXR: calcification (MTb most common cause), especially in lateral view (although does
+not necessarily  constriction)
+• Echocardiogram: 	 thickened pericardium, “septal bounce”  abrupt posterior dis-
+placement of septum during rapid filling in early diastole
+• Cardiac catheterization
+atria: Ms or Ws (prominent x and y descents)
+ventricles: dip-and-plateau or square-root sign (rapid T pressure at onset of
+diastole, rapid c to early plateau)
+discordance between LV & RV pressure peaks during respiratory cycle (Circ 1996;93:2007)
+• CT or MRI: thickened pericardium (4 mm on CT) with tethering
+Treatment
+• Diuresis for intravascular volume overload, surgical pericardiectomy
+Constrictive Pericarditis vs. Restrictive Cardiomyopathy
+Evaluation
+Constrictive pericarditis
+Restrictive cardiomyopathy
+ Kussmaul’s sign
+	 Kussmaul’s sign
+Physical exam
+Absent PMI
+Powerful PMI, 	 S3 and S4
+ Pericardial knock
+	 Regurg murmurs of MR,TR
+ECG
+	 Low voltage
+Low voltage
+	 Conduction abnormalities
+Normal wall thickness
+	 c wall thickness
+Septal bounce during
+Biatrial enlargement
+early diastole
+Inspir. S T flow across TV & MV
+Echocardiogram
+Inspir. S c flow across
+Slower peak filling rate
+TV and T flow across MV
+Longer time to peak filling rate
+E (tissue velocity) nl/c
+E T
+Expir. hepatic vein flow reversal
+Inspir. hepatic vein flow reversal
+CT/MRI
+Thickened pericardium
+Normal pericardium
+Prominent x and y descents
+Dip-and-plateau sign
+LVEDP  RVEDP
+LVEDP  RVEDP (espec. w/ vol.)
+RVSP 55 (Se 90%, Sp 29%)
+RVSP 55 mmHg
+Cardiac
+RVEDP 1⁄3 RVSP (Se 93%, Sp 46%)
+RVEDP 1⁄3 RVSP
+catheterization
+Discordance of LV & RV
+Concordance of LV & RV pressure 
+pressure peaks during 
+peaks during respiratory cycle
+respiratory cycle
+Systolic area index (ratio of RV to Systolic area index 1.1
+LV pressure–time area in inspir
+(JACC 2008;51:315)
+vs. expir) 1.1 (Se 97%, Sp 100%)
+Endomyocardial
+Usually normal
+ Specific etiology of RCMP
+biopsy
+
+--- Fim da Página 39 ---
+
+HYPERTENSION
+1-28
+HYPERTENSION
+JNC VII Classification
+Category
+Systolic (mmHg)
+Diastolic (mmHg)
+Normal
+120
+80
+Pre-HTN
+120–139
+80–89
+Stage 1 HTN
+140–159
+90–99
+Stage 2 HTN
+160
+100
+Epidemiology (JAMA 2003;290:199)
+• Prevalence 30% in U.S. adults; 65 million affected (29% in whites, 33.5% in blacks)
+• 60% of those w/ HTN are on Rx, only half of whom are adequately controlled
+Etiologies
+• Essential (95%): onset 25–55 y;  FHx. Unclear mechanism but ? additive microvasc 
+renal injury over time w/ contribution of hyperactive sympathetics (NEJM 2002;346:913)
+genetic loci under investigation (Nat Genet 2009;41:666 & 677)
+• Secondary: Consider if Pt 20 or 50 y or if sudden onset, severe, refractory or c HTN
+Secondary Causes of Hypertension
+Diseases
+Suggestive Findings
+Initial Workup
+Renal parenchymal
+h/o DM, polycystic kidney 
+CrCl, albuminuria
+(2–3%)
+disease, glomerulonephritis
+See “Renal Failure”
+Renovascular (1–2%)
+ARF induced by ACEI/ARB
+MRA (90% Se & Sp),
+Athero (90%)
+Recurrent flash pulm edema
+CTA, duplex U/S, angio,
+FMD (10%, young women)
+Renal bruit; hypokalemia
+plasma renin (low Sp)
+PAN, scleroderma
+(NEJM 2009;361:1972)
+Hyperaldo or
+Hypokalemia
+See “Adrenal Disorders”
+Cushing’s (1–5%)
+Metabolic alkalosis
+Pheochromocytoma (1%)
+Paroxysmal HTN, H/A, palp.
+Myxedema (1%)
+See Thyroid Disorders
+TFTs
+Hypercalcemia (1%)
+Polyuria, dehydration,  MS
+ICa
+Obstructive sleep apnea (qv)
+Medications: OCP, steroids, licorice; NSAIDs (espec. COX-2); Epo; cyclosporine
+Coarctation of aorta: T LE pulses, systolic murmur, radiofemoral delay; abnl TTE, CXR
+Polycythemia vera: c Hct
+Standard workup
+• Goals: (1) identify CV risk factors or other diseases that would modify prognosis or Rx;
+(2) reveal 2 causes of hypertension; (3) assess for target-organ damage
+• History: CAD, CHF,TIA/CVA, PAD, DM, renal insufficiency, sleep apnea;  FHx for HTN
+diet, Na intake, smoking, alcohol, prescription and OTC medications, OCP
+• Physical exam: ✓BP in both arms; funduscopic, cardiac (LVH, murmurs), vascular,
+abdominal (masses or bruits), neurologic
+• Laboratory tests: K, BUN, Cr, Ca, glc, Hct, U/A, lipids,TSH, ECG (for LVH), CXR,
+urinary albumin:creatinine (if appropriate) 
+Complications of HTN
+• Each c 20 mmHg SBP or 10 mmHg DBP S 2 c CV complications (Lancet 2002;360:1903)
+• Neurologic: TIA/CVA, ruptured aneurysms
+• Retinopathy: I  arteriolar narrowing, II  copper-wiring,AV nicking, III  hemorrhages
+and exudates, IV  papilledema
+• Cardiac: CAD, LVH, CHF
+• Vascular: aortic dissection, aortic aneurysm
+• Renal: proteinuria, renal failure
+Treatment (NEJM 2003;348:610)
+• Goal: 140/90 mmHg; if DM or renal disease goal is 130/80 mmHg
+• Treatment results in 50% T CHF, 40% T stroke, 20–25% T MI (Lancet 2000;356:1955);
+benefits of Rx’ing stage II HTN extend to Pts 80 y (NEJM 2008;358:1887)
+• Lifestyle modifications (each T SBP 5 mmHg)
+weight loss: goal BMI 18.5–24.9; aerobic exercise: 30 min exercise/d, 5 d/wk
+diet: rich in fruits & vegetables, low in saturated & total fat (DASH, NEJM 2001;344:3)
+sodium restriction: 2.4 g/d and ideally 1.5 g/d (NEJM 2010;362:2102)
+limit alcohol consumption: 2 drinks/d in men; 1 drink/d in women & lighter-wt Pts
+BP should be determined by
+making 2 measurements
+separated by 2 min.
+Confirm stage 1 w/in 2 mo;
+can Rx stage 2 immediately.
+(JAMA 2003;289:2560;
+JNC VIII forthcoming)
+OTHER
+ENDO
+RENAL
+
+--- Fim da Página 40 ---
+
+• Pharmacologic options (if HTN or pre-HTN  diabetes or renal disease)
+Pre-HTN: ARB prevents onset of HTN, no T in clinical events (NEJM 2006;354:1685)
+HTN: choice of therapy controversial, concomitant disease may help guide
+uncomplicated: ? thiazide better than ACEI or CCB in preventing CVD (JAMA
+2002;288:2981; NEJM 2009;361:2153); -blockers not first line (Lancet 2005;366:1545)
+ high-risk CAD:ACEI (NEJM 2000;342;145) or ARB (NEJM 2008;358:1547);ACEI  CCB
+superior to ACEI  thiazide (NEJM 2008;359:2417) or B  diuretic (Lancet 2005;366:895)
+ angina: -blockers, CCB 
+ post-MI: B (JAMA 1982;247:1707),ACEI (NEJM 1992;327:669), 	 aldosterone antagonist
+ HF:ACEI/ARB, -blockers, diuretics, aldosterone antagonist (see “Heart Failure”)
+ recurrent stroke prevention:ACEI (Lancet 2001;358:1033); benefit of ARB unclear
+(Lancet 2002;359:995; NEJM 2008;359:1225).
+ diabetes mellitus: ACEI or ARB; can also consider diuretic, BB, or CCB
+ chronic kidney disease:ACEI/ARB (NEJM 1993;329:1456 & 2001;345:851, 861)
+most will require 2 drugs; if not at goal S optimize doses or add drug 
+• Secondary causes
+Renovasc: control BP w/ diuretic  ACEI/ARB (watch for c Cr w/ bilat. RAS) or CCB
+Atherosclerosis risk-factor modification: quit smoking, T chol.
+If refractory HTN, recurrent HF, UA, or worse CKD, revasc. indicated (JACC 2006;47:1)
+For atherosclerosis: stenting T restenosis vs. PTA alone, but no clear improvement in
+BP or renal function vs. med Rx alone (NEJM 2009;361:1953; Annals 2009;150:840)
+For FMD (usually more distal lesions): PTA 	 bailout stenting
+Surgery for complex lesions or aortic involvement
+Renal parenchymal: salt and fluid restriction, 	 diuretics
+Endocrine etiologies: see “Adrenal Disorders”
+• Pregnancy: methyldopa, labetalol; other B and CCB probably safe
+HYPERTENSIVE CRISES
+• Hypertensive emergency: c BP S acute target-organ ischemia and damage
+neurologic damage: encephalopathy, hemorrhagic or ischemic stroke, papilledema
+cardiac damage:ACS, HF/pulmonary edema, aortic dissection
+renal damage: proteinuria, hematuria, acute renal failure; scleroderma renal crisis
+microangiopathic hemolytic anemia; preeclampsia-eclampsia
+• Hypertensive urgency: SBP 180 or DBP 120 (?110) w/ min./no target-organ damage
+Precipitants
+• Progression of essential HTN 	 medical noncompliance (especially clonidine)
+• Progression of renovascular disease; acute glomerulonephritis; scleroderma; preeclampsia
+• Endocrine: pheochromocytoma, Cushing’s
+• Sympathomimetics: cocaine, amphetamines, MAO inhibitors  foods rich in tyramine
+• Cerebral injury (do not treat HTN in acute ischemic stroke unless Pt getting lysed, extreme,
+BP, ie, 220/120, or Ao dissection, active ischemia, or CHF; Stroke 2003;34:1056)
+Treatment (Chest 2007;131:1949)
+• Tailor goals to clinical context (eg, more rapid lowering for Ao dissection)
+• Emergency: T MAP by 25% in mins to 2 h w/ IV agents (may need arterial line for
+monitoring); goal DBP 110 w/in 2–6 h, as tolerated
+• Urgency: T BP in hours using PO agents; goal normal BP in 1–2 d
+• Watch UOP, Cr, mental status: may indicate a lower BP is not tolerated
+Drugs for Hypertensive Crises
+Intravenous agents
+Oral agents
+Agent
+Dose
+Agent
+Dose
+Nitroprusside*
+0.25–10 g/kg/min
+Captopril
+12.5–100 mg tid
+Nitroglycerin
+17–1000 g/min
+Labetalol
+200–800 mg tid
+Labetalol
+20 mg load S 20–80 mg IVB
+Clonidine
+0.2 mg load S
+q10min or 0.5–2 mg/min
+0.1 mg qh
+Hydralazine
+10–20 mg q20–30min
+Hydralazine
+10–75 mg qid
+Esmolol
+500 g/kg load S 25–300 g/kg/min
+Fenoldopam
+0.1–1.6 g/kg/min
+Nicardipine
+5–15 mg/h
+Phentolamine
+5–15 mg bolus q5–15min
+*Metabolized to cyanide S  MS, lactic acidosis, death. Limit use of very high doses (8–10 g/kg/min) to 10 min.
+Monitor thiocyanate levels. Hydroxocobalamin or sodium thiosulfate infusion for treatment of cyanide toxicity.
+HYPERTENSION
+1-29
+
+--- Fim da Página 41 ---
+
+AORTA
+1-30
+AORTIC ANEURYSM
+Definitions
+• True aneurysm (involves all 3 layers of aorta) vs. false (rupture contained in adventitia)
+• Location: root (annuloaortic ectasia), thoracic aortic aneurysm (TAA), thoracoab-
+dominal aortic aneurysm, abdominal aortic aneurysm (AAA)
+• Type: fusiform (circumferential dilation) vs. saccular (localized dilation)
+Epidemiology (Circ 2005;111:816 & 2008;117:242)
+• Aortic aneurysms 13th leading cause of death in U.S. (15,000 deaths/y from ruptures)
+• TAA: : 1.7:1; usually involves root/asc Ao or descending Ao (arch & thoracoabd rare)
+Risk factors: HTN; atherosclerosis; aortitis (Takayasu’s, GCA, spondyloarthritis,
+syphilis); congenital (bicuspid AoV,Turner’s); connective tissue diseases
+(Marfan, Ehlers-Danlos type IV); familial; chronic Ao dissection; trauma
+• AAA: 5% prev. in individuals 65 y; 5–10 more common in  than ; most infrarenal
+Risk factors  risk factors for atherosclerosis: smoking, HTN, hyperlipidemia, age, FHx
+Pathophysiology (NEJM 2009;361:1114; Nat Med 2009;15:649)
+• LaPlace’s law: tension across a cylinder ∝[(P  r) / (wall thickness)]
+• TAA: cystic medial necrosis (medial degeneration, mucoid infiltration, apoptosis) 
+• AAA: atherosclerosis & inflammation S matrix degeneration S medial weakening
+• Inflammatory and infectious (“mycotic”) aneurysms rare
+Screening (JAMA 2009;302:2015)
+• TAA: no established population screening guidelines
+• AAA: ✓for pulsatile abdominal mass in all Pts; U/S for all men 60 y w/ FHx of AAA
+and all men 65–75 y w/ prior tobacco use ( J Vasc Surg 2004;39:267; Annals 2005;142:203;)
+Diagnostic studies (Circ 2005;111:816)
+• Contrast CT: quick, noninvasive, good Se & Sp for all aortic aneurysms
+• CXR: often abnormal, but not definitive in TAA
+• Abdominal ultrasound: screening and surveillance test of choice for AAA
+• TTE/TEE: useful for root and rest of TAA
+• MRI: preferred for aortic root imaging for TAA, but also useful in AAA
+Treatment (Circ 2006;113;e463; 2008;177:1883; 2010;121:1544)
+• Risk factor modification: smoking cessation, LDL-C 70 mg/dL; ? macrolides or
+tetracyclines (inhibit MMPs, anti-Chlamydia)
+• BP control: -blockers (T dP/dt) T aneurysm growth (NEJM 1994;330:1335); ACEI a/w T
+risk of rupture (Lancet 2006;368:659),ARB may T rate of aortic root growth in Marfan (NEJM
+2008;358:2787);no burst activity/exercise requiring Valsalva maneuvers (eg,heavy lifting)
+• Surgery
+TAA: symptomatic, ascending 5.5 cm; descending 6 cm; Marfan Pt 4.0–4.5 cm;
+growing 0.5 cm/y; aneurysm 4.5 cm and planned AoV surgery
+AAA: 5 cm; rapidly growing; infrarenal/juxtarenal 5.5 cm (NEJM 2002;346:1437)
+• Endovascular aneurysm repair (EVAR) (NEJM 2008;358:494)
+T short-term mortality, bleeding, and length of stay, but, long-term graft complica-
+tions (2–5%/y; leak, rupture) necessitating periodic surveillance and no  in
+overall mortality (JAMA 2009;302:1535; NEJM 2010;362:1863 & 1881). Consider for high-
+risk operative Pts or in descending thoracic aneurysms 5.5 cm (JACC 2010;55:986).
+In Pts unfit for surgery: T aneurysm mortality but no  in overall mortality over
+medical Rx (NEJM 2010;362:1872). EVAR noninferior (? superior) to open repair in
+ruptured AAA w/ favorable anatomy (Ann Surg 2009;250:818).
+Complications
+• Pain: gnawing chest, back, or abdominal pain
+• Rupture: risk c w/ diameter, female sex, current smoking, HTN
+TAA: 2.5%/y if 6 cm vs. 7% if 6 cm; AAA: 1%/y if 5 cm vs. 6.5% if 5–5.9 cm
+may be heralded by c pain; once occurs, usually fatal or Pt may p/w severe constant
+pain and in hemorrhagic shock; 90% mortality
+• Aortic Dissection (see following section)
+• Thromboembolic ischemic events
+• Compression of adjacent structures (eg, SVC, trachea, esophagus)
+Follow-up
+• Expansion rate 0.1 cm/y for TAA, 0.4 cm/y for AAA
+• Serial imaging first 3, 6, 9, & 12 mo, then annually
+• Screening for CAD, PAD, and aneurysms elsewhere, espec. popliteal. 25% of Pts w/
+TAA will also have AAA.
+
+--- Fim da Página 42 ---
+
+AORTA
+1-31
+ACUTE AORTIC SYNDROMES
+Definitions (Circ 2003;108:628)
+• Classic dissection: intimal tear S extravasation of blood into aortic media
+• Incomplete dissection: intimomedial tear without significant intramural extravasation
+• Intramural hematoma (IMH): vasa vasorum rupture S medial hemorrhage
+• Penetrating ulcer: ulceration of plaque penetrating intima S medial hemorrhage
+Classification
+• Proximal: involves ascending Ao, regardless of origin (  Stanford A, DeBakey I & II)
+• Distal: involves descending Ao only, distal to subclavian art. (  Stanford B, DeBakey III)
+Risk factors 
+• Hypertension (h/o HTN in 70% of dissections); male sex (70% male)
+• Connective tissue disease: Marfan (fibrillin): arachnodactyly, joint disloc., pectus,
+ectopia lentis, MVP; Ehlers-Danlos type IV (type III procollagen): translucent skin; bowel
+or uterine rupture; Loeys-Dietz; annuloaortic ectasia, familial AoD; PCKD
+• Congenital aortic anomaly: bicuspid aortic valve or coarctation (eg, in Turner’s)
+• Aortitis:Takayasu’s, giant cell arteritis, Behçet’s, syphilis
+• Pregnancy: typically in 3rd trimester; can also see spont. coronary artery dissections
+• Trauma: blunt, IABP, cardiac or aortic surgery, cardiac catheterization
+Clinical Manifestations and Physical Examination (JAMA 2000;283:897)
+Feature
+Proximal
+Distal
+“Aortic” pain (often severe, tearing or ripping 
+94%
+98%
+pain, maximal at onset [vs. crescendo for ACS])
+(chest, back)
+(back, chest, abd)
+Syncope (often due to tamponade)
+13%
+4%
+CHF (usually AI)
+9%
+3%
+CVA
+6%
+2%
+Hypertension
+35%
+70%
+Hypotension/shock (tamponade,AI, MI, rupture)
+25%
+4%
+Pulse deficit
+19%
+9%
+AI murmur
+44%
+12%
+Diagnostic studies (Circ 2005;112:3802)
+• Check bilateral BP and radial pulses for symmetry
+• CXR: abnormal in 60–90% (c mediastinum, effusion), but cannot be used to r/o dissection
+• CT: quick, noninvasive, good Se (80% for proximal; 90–95% for distal); multidetector CT
+may improve Se; however, if  & high clin. suspicion S additional studies
+• TEE: Se 95% for proximal, 80% for distal; can assess coronaries, pericardium,AI
+• MRI: Se & Sp 98%, but time-consuming & not readily available
+• Aortography: Se 90%, time-consuming, cannot detect IMH; can assess branch vessels
+• D-dimer 500 ng/mL may help r/o dissection when sx 24 h (Circ 2009;119:2702)
+Treatment (Lancet 2008;372:55; Circ 2010;121:1544)
+• Medical: T dP/dt targeting HR 60 and SBP 100–120
+first with IV -blockers (eg, propranolol, esmolol, labetalol) to blunt reflex c HR &
+inotropy that will occur in response to vasodilators
+then T SBP with IV vasodilators (eg, nitroprusside)
+control pain with MSO4 prn
+• Surgery
+proximal (root replacement): all acute; chronic if c/b progression,AI or aneurysm
+distal: if c/b progression, signif. branch artery involvement, uncontrolled HTN, aneurysm
+• Endovascular options: covered stent to seal entry; bare-metal stent to restore
+flow down compromised branches; fenestration of false lumen
+Complications
+• Rupture: pericardial sac S tamponade (avoid pericardiocentesis unless shock/PEA);
+pleural space; mediastinum; retroperitoneum
+• Obstruction of branch artery
+can be static (avulsed/thrombosed) or dynamic (s in pressure in true vs. false lumen)
+coronary S MI (usually RCA S IMI, since dissection often occurs along outer curvature)
+innominate/carotid S CVA, Horner; intercostal/lumbar S spinal cord ischemia/paraplegia
+innominate/subclavian S upper extremity ischemia; iliac S lower extremity ischemia
+celiac/mesenteric S bowel ischemia; renal S acute renal failure
+• AI: due to annular dilatation or disruption or displacement of leaflet by false lumen
+• Mortality: 1–2%/h  48 h for acute proximal; 10% at 30 d for acute distal 
+
+--- Fim da Página 43 ---
+
+ARRHYTHMIAS
+1-32
+ARRHYTHMIAS
+BRADYCARDIAS, AV BLOCK, AND AV DISSOCIATION
+Sinus bradycardia (SB) (NEJM 2000;342:703)
+• Etiologies: meds (incl B, CCB, amio, Li, dig), c vagal tone (incl. athletes, sleep, IMI),
+metabolic (hypoxia, sepsis, myxedema, hypothermia, T glc), OSA, c ICP
+• Treatment: usually none required; atropine or pacing if symptomatic
+• Most common cause of sinus pause is blocked premature atrial beat
+Sick sinus syndrome (SSS) 
+• Features may include: periods of unprovoked SB, SA arrest, paroxysms of SB and atrial
+tachyarrhythmias (“tachy-brady” syndrome), chronotropic incompetence w/ ETT
+• Treatment: meds alone usually fail (adeq. control tachy S unacceptable brady); usually
+need combination of meds (B, CCB, dig) for tachy & PPM for brady
+AV Block
+Type
+Features
+1	
+Prolonged PR (200 ms), all atrial impulses conducted (1:1).
+2	 Mobitz I
+Progressive c PR until impulse not conducted (S “grouped beating”).
+(Wenckebach)
+Abnl AV node due to ischemia (IMI), inflammation (myocarditis, MV 
+surgery), high vagal tone (athletes), drug-induced.
+Classically (50%), absolute c in PR decreases over time (S T RR
+intervals, duration of pause 2 preceding RR interval).
+AVB usually worsens w/ carotid sinus massage, improves w/ atropine.
+Often paroxysmal/asx, no Rx required.
+2	 Mobitz II
+Occasional or repetitive blocked impulses w/ consistent PR interval.
+Abnl His-Purkinje system due to ischemia (AMI), degeneration of
+conduction system, infiltrative disease, inflammation/AoV surgery.
+AVB usually improves w/ carotid sinus massage, worsens w/ atropine.
+Often progresses to 3 AVB. Pacing wire or PPM often required.
+3	 (complete)
+No AV conduction. Escape, if present, narrow (jxnal) or wide (vent.)
+Nb, if 2:1 block, cannot distinguish Type I vs. II 2 AVB (no chance to observe PR prolongation); usually catego-
+rize based on other ECG & clinical data. High-grade AVB usually refers to block of 2 successive impulses.
+AV dissociation 
+• Default: slowing of SA node allows subsidiary pacemaker (eg,AV junction) to take over
+• Usurpation: acceleration of subsidiary pacemaker (eg,AV junctional tach,VT)
+• 3 AV block: atrial pacemaker unable to capture ventricles, subsidiary pacemaker emerges
+distinguish from isorhythmic dissociation (A V rate, ∴some P’s non-conducting)
+SUPRAVENTRICULAR TACHYCARDIAS (SVTS)
+Arise above the ventricles, ∴narrow QRS unless aberrant conduction or pre-excitation.
+Etiologies of SVT (NEJM 1995;332:162; 2006;354:1039)
+Type
+Features
+Sinus tachycardia (ST)
+Caused by pain, fever, hypovolemia, hypoxia,
+anemia, anxiety, -agonists, etc.
+SA node reentrant tachycardia
+Rare. Reentrant loop w/in SA node, discern
+(SANRT)
+from ST by rapid onset & termination.
+Atrial tachycardia (AT)
+Originate at site in atria other than SA node.
+Seen w/ CAD, COPD, c catechols, EtOH, dig.
+Multifocal atrial tachycardia (MAT)
+c automaticity at multiple sites in the atria
+Atrial flutter (AFL)
+Macroreentry, usually w/in tricuspid annulus
+Atrial fibrillation (AF)
+Wavelets irregularly passing down AVN, often
+originate from the pulmonary veins
+AV nodal reentrant tach (AVNRT)
+Reentrant circuit using dual pathways w/in AVN
+Atrioventricular reciprocating
+Reentrant circuit using AVN and accessory
+tachycardia (AVRT)
+pathway. Orthodromic (conducts down AVN;
+usually narrow QRS) vs. antidromic (conducts 
+down accessory path; wide QRS).
+Nonparoxysmal junctional
+c automaticity at AV junction
+tachycardia (NPJT)
+May see retrograde P waves or AV dissociation
+Seen in myo/endocarditis, cardiac surg, IMI, dig.
+AV Jxn
+Atrial
+
+--- Fim da Página 44 ---
+
+Treatment of SVT
+Rhythm
+Acute treatment
+Long-term treatment
+Unstable
+Cardioversion per ACLS
+n/a
+ST
+Treat underlying stressor(s)
+n/a
+AT
+-blockers, CCB, or amiodarone
+-blockers or CCB, 	 antiarrhythmics
+? Radiofrequency ablation
+AVNRT
+Vagal maneuvers
+For AVNRT (see next section for AVRT):
+or AVRT
+Adenosine (caution in AVRT*)
+Radiofrequency ablation
+CCB or -blockers
+CCB or -blockers (chronic or prn)
+	 Class IC antiarrhythmics (if nl heart)
+NPJT
+CCB, -blockers, amiodarone
+Rx underlying dis. (eg, dig tox, ischemia)
+AF
+-blockers, CCB, digoxin, AAD
+See “Atrial Fibrillation”
+AFL
+-blockers, CCB, digoxin, AAD
+Radiofrequency ablation
+-blockers or CCB 	 antiarrhythmics
+MAT
+CCB or -blockers if tolerated
+Treat underlying disease process
+? AVN ablation  PPM
+*Avoid adenosine & nodal agents if accessory pathway  preexcited tachycardia, see below. (JACC 2003;42:1493)
+• Catheter ablation has high overall success rate (AFL/AVNRT 95%, AF 80%)
+Complications: stroke, MI, bleeding, perforation, conduction block (JAMA 2007;290:2768)
+ACCESSORY PATHWAYS (WOLFF-PARKINSON-WHITE)
+Definitions
+• Accessory pathway (bypass tract) of conducting myocardium connect-
+ing atria & ventricles, allowing impulses to bypass normal AVN delay
+• Preexcitation (WPW) pattern: T PR interval, c QRS width w/ 
+wave (slurred onset, can be subtle), ST & Tw abnl (can mimic old IMI);
+only seen w/ pathways that conduct antegrade (if pathway only conducts
+retrograde then ECG will be normal during SR;“concealed” bypass tract)
+• WPW syndrome: accessory pathway  paroxysmal tachycardia
+Diagnosis of SVT Type (NEJM 2006;354:1039)
+Onset
+Abrupt onset/offset suggests reentry (AVNRT,AVRT, SANRT)
+Rate
+Not diagnostic as most SVTs can range from 140–250 bpm, but:
+ST usually 150 bpm;AFL often conducts 2:1 S ventricular rate 150 bpm
+AVNRT & AVRT are usually 150 bpm
+Rhythm
+Irregular S AF,AFL w/ variable block, or MAT
+P wave
+Before QRS S ST, AT (P different from sinus), MAT (3 morphologies)
+morphology
+After QRS & inverted in inf. leads S retrograde atrial activation via AVN
+AVNRT: buried in or distort terminal portion of QRS (pseudo RSR’ in V1)
+AVRT: slightly after but usually distinct from QRS
+Usually short RP interval (1/2 RR), but can be long RP 
+Fibrillation or no P waves S AF
+Saw-toothed “F” waves (best seen in inferior leads & V1) S AFL
+Response to
+c automaticity rhythms (ST,AT, MAT) S slow rate or c AV block
+vagal stim.
+AVN reentry (AVNRT,AVRT) S abruptly terminate (classically with a P
+or adenosine
+wave after last QRS) or no response
+AFL S c AV block S unmasking of “F” waves
+Figure 1-4 Approach to SVT
+ARRHYTHMIAS
+1-33
+upright
+  QRS
+ST
+SANRT
+SVT
+Regular
+Irregular
+P wave morphology
+≠ sinus
+   QRS
+a
+ATAC
+retrograde
+p QRS
+AVNRT
+AVRT, NPJT
+none or
+distorts QRS
+≥3 morph.
+a QRS
+AVNRT
+F waves
+@ 300 bpm
+AFL
+none or
+fibrillation
+AF
+MAT
+P wave morphology
+a
+δ wave
+
+--- Fim da Página 45 ---
+
+Tachycardias
+• Orthodromic AVRT: narrow-complex SVT (typically), conducting T AVN & c accessory
+pathway; requires retrograde conduction and ∴can occur w/ concealed bypass tracts
+• Antidromic AVRT: wide-complex SVT, conducting T accessory pathway & c AVN;
+requires antegrade conduction and ∴should see WPW pattern during SR
+• AF with rapid conduction down accessory pathway, ∴wide-complex irregular SVT;
+requires antegrade conduction and ∴should see WPW pattern during SR
+Treatment
+• AVRT: vagal maneuvers, B, ? CCB; caution w/ adenosine (can precip. AF); have defib-
+rillator ready
+• AF/AFL w/ conduction down accessory pathway: need to Rx arrhythmia and c pathway
+refractoriness; use procainamide, ibutilide, flecainide or cardiovert; avoid CCB & B
+(ineffective) and dig/adenosine (can T refractoriness of pathway S c vent. rate SVF)
+• Long term: Rx tachycardias w/ radiofrequency ablation or antiarrhythmics (IA, IC)
+consider pathway ablation if asx but AVRT or AF inducible on EPS (NEJM 2003;349:1803)
+risk of SCD related to how short R-R interval is in AF and if SVT inducible w/ exercise
+WIDE-COMPLEX TACHYCARDIAS (WCTS)
+Etiologies
+• Ventricular tachycardia (VT)
+• SVT conducted with aberrancy: either fixed BBB, rate-dependent BBB (usually
+RBBB), conduction via an accessory pathway, or atrially-triggered ventricular pacing 
+Monomorphic ventricular tachycardia (MMVT)
+• All beats look similar; predominantly upward in V1  RBBB-type vs. downward  LBBB-type
+• Etiologies in a structurally abnormal heart: prior MI (scar); CMP; myocarditis;
+arrhythmogenic RV CMP (ARVC): incomplete RBBB,
+ wave (terminal notch in QRS) & TWI in V1–3 on resting
+ECG, LBBB-type VT, dx w/ MRI (Lancet 2009;373:1289)
+• Etiologies in a structurally normal heart:
+RVOT VT: normal resting ECG, LBBB-type VT w/ inferior axis;
+idiopathic LV VT (responds to verapamil)
+Polymorphic ventricular tachycardia (PMVT)
+• QRS morphology changes from beat to beat
+• Etiologies: ischemia; CMP; catecholaminergic;
+torsades de pointes (TdP, “twisting of the points”, PMVT  c QT): c QT acquired
+(eg, meds, lytes, see “ECG”) or congenital (K/Na channelopathies; Tw abnl; TdP trig-
+gered by sympathetic stim [exercise, emotion, sudden loud noises]; Lancet 2008;372:750) 
+Brugada syndrome (Na channelopathy): pseudo-RBBB
+w/ STE in V1–3 (provoked w/ IA or IC) on resting ECG
+Diagnostic clues that favor VT (assume until proven o/w)
+• Prior MI, CHF, or LV dysfunction best predictors that WCT is VT (Am J Med 1998;84:53)
+• Hemodynamics and rate do not reliably distinguish VT from SVT
+• MMVT is regular, but initially it may be slightly irregular, mimicking AF w/ aberrancy;
+grossly irregularly irregular rhythm suggests AF w/ aberrancy
+• ECG features that favor VT (Circ 1991;83:1649)
+AV dissociation (independent P waves, capture or fusion beats) proves VT
+very wide QRS (140 ms in RBBB-type or 160 in LBBB-type); extreme axis deviation
+QRS morphology atypical for BBB
+RBBB-type: absence of tall R’ (or presence of monophasic R) in V1, r/S ratio 1 in V6
+LBBB-type: onset to nadir 60–100 ms in V1, q wave in V6
+concordance (QRS in all precordial leads w/ same pattern/direction)
+Long-term management (JACC 2006;48:1064)
+• Workup: echo to ✓LV fxn, cath or stress test to r/o ischemia, ? MRI and/or RV bx to
+look for infiltrative CMP or ARVC, ? EP study to assess inducibility
+• ICD: 2 prevention after documented VT/VF arrest (unless due to reversible cause)
+1 prevention if high-risk, eg, EF 30–35% (see “Heart Failure”), ? ARVD, ? Brugada,
+? certain long QT syndromes, severe HCMP
+• Medications: -blockers (espec for LQTS), antiarrhythmics (eg, amiodarone) to suppress
+recurrent VT, triggering ICD firing, or if not ICD candidate, anti-tachycardic pacing
+• If med a/w TdP S QT 500 	VPBs: d/c med, replete K, give Mg, 	 pacing (JACC 2010;55:934)
+• Radiofrequency ablation if isolated VT focus, or if recurrent VT triggering ICD 
+firing; ablation before ICD implantation T discharge rate by 40% (Lancet 2010;375:31)
+ARRHYTHMIAS
+1-34
+Epsilon
+V2
+
+--- Fim da Página 46 ---
+
+AF
+1-35
+(Adapted from NEJM 2004;351:2408; & JACC 2006;48:e149)
+Rate Control for AF (Goal HR 60–80, 90–115 with exertion)
+Agent
+Acute (IV)
+Maint. (PO)
+Comments
+Verapamil
+5–10 mg over 2
+120–360 mg/d
+T BP (Rx w/ Ca gluc)
+may repeat in 30
+in divided doses
+Watch for CHF
+0.25 mg/kg over 2
+120–360 mg/d
+Preferred if COPD
+Diltiazem
+may repeat after 15
+in divided doses
+Can c dig levels
+5–15 mg/h infusion
+Metoprolol
+5 mg over 2
+25–100 mg bid
+T BP (Rx w/ glucagon)
+may repeat q5  3
+or tid
+Watch for CHF &
+Propranolol
+1 mg q2
+80–240 mg/d in
+bronchospasm
+divided doses
+Preferred if CAD
+Digoxin
+0.25 mg q2h
+0.125–0.375 mg
+Consider in HF or low BP
+(takes hrs)
+up to 1.5 mg
+qd (adj for CrCl)
+Poor exertional HR ctrl
+Amiodarone
+150 mg over 10 S 0.5–1 mg/min
+IV B, CCB, and digoxin contraindicated if evidence of WPW (.e., pre-excitation or WCT) since may
+facilitate conduction down accessory pathway leading to VF; ∴procainamide 1st line Rx
+ATRIAL FIBRILLATION
+Classification (JACC 2006;48:e149)
+• Paroxysmal (self-terminating) vs. persistent (sustained 7 d) vs. permanent (typically
+1 y and when cardioversion has failed or is foregone)
+• Valvular (rheumatic MV disease, prosthetic valve, or valve repair) vs. nonvalvular
+• Lone AF  age 60 y and w/o clinical or echo evidence of cardiac disease (including HTN)
+Epidemiology and Etiologies (Annals 2008;149:ITC5-2)
+• 1% of population has recurrent AF (8% of elderly); mean age at presentation 75 y 
+• Acute (up to 50% w/o identifiable cause)
+Cardiac: CHF, myo/pericarditis, ischemia/MI, hypertensive crisis, cardiac surgery
+Pulmonary: acute pulmonary disease or hypoxia (eg, COPD flare, pneumonia), PE
+Metabolic: high catecholamine states (stress, infection, postop, pheo), thyrotoxicosis
+Drugs: alcohol (“holiday heart”), cocaine, amphetamines, theophylline, caffeine
+Neurogenic: subarachnoid hemorrhage, ischemic stroke
+• Chronic: c age, HTN, ischemia, valve dis. (MV,TV,AoV), CMP, hyperthyroidism, obesity
+Pathophysiology (NEJM 1998;339:659; & Circ 1995;92:1954)
+• Commonly originates from ectopic foci in atrial “sleeves” in the pulmonary veins
+• Loss of atrial contraction S HF; LA stasis S thromboemboli; tachycardia S CMP
+Evaluation
+• H&P, ECG, CXR, echo (LA size, ? thrombus, valves, LV fxn, pericardium), K, Mg, FOBT
+before anticoag,TFTs, ? r/o ischemia (AF unlikely due to ischemia in absence of other sx)
+Figure 1-5 Approach to acute AF
+B
+CCB
+New or Recent-Onset AF
+1. Rate Control
+2. Anticoagulate
+βB or CCB
+(see Table)
+AF <48 hrs &
+low risk of stroke
+unstable
+Urgent
+cardioversion
+stable
+IV UFH if admitting & cardioverting
+o/w oral anticoag
+Spont. cardioversion
+(occurs w/in 24 hrs in 50-67% acute AF)
+3. Cardiovert
+Cardioversion
+(electrical and/or pharmacologic)
+Cardioversion
+anticoag × ≥4–12 wks
+oral
+Empiric oral
+anticoag × ≥3 wks
+TEE
+AF >48 hrs (or unknown)
+or high risk of stroke 
+  LA
+thromb.
++
+re
+↓
+  LA
+thromb.
+−
+
+--- Fim da Página 47 ---
+
+Strategies for recurrent AF
+• Rate control: goal HR typically 60–80 at rest (although no clear benefit vs. goal
+110, NEJM 2010;362:1363) and 90–115 w/ exertion (see above table for options) 
+AV node ablation  PPM as a last resort (NEJM 2001;344:1043; NEJM 2002;346:2062)
+• Rhythm control: no clear survival benefit vs. rate ctrl (NEJM 2002;347:1825 & 2008;358:2667)
+• Anticoag (if indicated) to prevent thromboemboli, whether rate or rhythm strategy
+Antiarrhythmic Drugs (AAD) for AF
+Agent
+Conversion
+Maintenance
+Comments
+Amiodarone
+5–7 mg/kg IV over
+200–400 mg qd
+c QT but TdP rare
+30–60’ S 1 mg/min
+(most effective
+Pulm, liver, thyroid toxicity
+to achieve 10-g load drug)
+✓PFTs, LFTs,TFTs
+Dronedarone
+n/a
+400 mg bid
+c QT, contraindic severe CHF
+T side effects c/w amio
+T efficacy but also T CV mort
+Ibutilide
+1 mg IV over 10’
+n/a
+Contraindic. if T K or c QT
+may repeat  1
+c QT, 3–8% risk of TdP
+Mg 1–2 g IV to T risk TdP
+Dofetilide
+0.5 mg PO bid
+0.5 mg bid
+c QT, c risk of TdP
+Renally adjust dose
+Sotalol
+n/a
+90–160 mg bid
+✓for T HR, c QT
+Renally adjust dose
+Flecainide
+300 mg PO  1
+100–150 mg bid PreRx w/ AVN blocker
+Propafenone
+600 mg PO  1
+150–300 mg tid Contraindic. if structural or
+ischemic heart disease
+Procainamide
+10–15 mg/kg IV
+1–2 g bid of
+T BP; c QT
+over 1 h
+slow release
+	 PreRx w/ AVN blocker
+(JACC 2006;48:e149; NEJM 2007;357:987 & 2009;360:668; JACC 2009;54:1089)
+• Lone AF S class IC drugs or sotalol, ? statins
+• CAD S class III drugs
+• CHF S dofetilide or amiodarone (NEJM 2007;356:935)
+Cardioversion
+• Consider pharm or DC cardioversion w/ 1st AF episode of if sx;
+if AF 48 h, 2–5% risk stroke w/ cardioversion (pharm. or electric)
+∴either TEE to r/o thrombus or therapeutic anticoagulation for 3 wks prior
+• Likelihood of success dependent on AF duration (better 7 d) and atrial size
+• Consider pre-Rx w/ antiarrhythmic drugs (especially if 1st attempt fails)
+• For pharmacologic cardioversion, class III and IC drugs have best proven efficacy
+• Even if SR returns, atria mechanically stunned.Also, greatest likelihood of recurrent AF
+in first 3 mos after return to SR, ∴must anticoagulate postcardioversion 4–12 wks.
+• “Pill-in-pocket”: if IC drugs have been safely tolerated in Pts w/o ischemic or
+structural heart disease, can take as outPt prn if recurrent sx AF (NEJM 2004;351:2384)
+Nonpharmacologic therapy
+• Radiofrequency ablation (circumferential pulm. vein isolation): 80% success; consider
+if T EF or AADs failed/contraindic (NEJM 2006;354:934; JAMA 2005;293:2634 & 2010;303:333)
+• Surgical “maze” procedure (70–95% success rate) option if undergoing cardiac surgery
+• Left atrial appendage closure if undergoing cardiac surgery T risk of stroke; percuta-
+neous closure may be comparable to warfarin and w/ T risk of ICH (Lancet 2009;374:534)
+Anticoagulation (JACC 2006;48:e149; Chest 2008;133:546S)
+• Risk of stroke 4.5% per year in nonvalvular AF; risk factors include:
+CHADS2: CHF (1 point), HTN (1), Age 75 y (1), DM (1), prior Stroke/TIA (2)
+echo: EF 35%, dense spontaneous echo contrast in LAA, ? c LA size, ? Ao athero
+• Risk of stroke cc in valvular AF,  anticoagulate all
+• Rx options: warfarin (INR 2–3) S 68% T stroke (heparin S warfarin bridge if h/o stroke) 
+ASA (81–325 mg/d): better than placebo (21% T stroke) but inferior to warfarin
+ASAclopi inferior to warfarin but T stroke (& c bleed) c/w ASA alone (NEJM 2009;360:2066)
+? dabigatran (oral direct thrombin inhib): 100 mg bid ≈efficacy & T bleeding and 150 mg
+bid T stroke and ≈bleeding c/w warfarin (w/o need to ✓INR; RE-LY, NEJM 2009;361:1139) 
+• Whom to Rx: valvular AF, prior stroke/TIA, or 
+2 risk factors S warfarin
+1 risk factor S warfarin or ASA; 0 risk factors S ASA 
+if not good candidate for warfarin (c risk of bleeding) S ASA  ? clopidogrel
+if require ASAclopiwarfarin (eg,AF & s/p recent stenting): INR 2–2.5,ASA 75–81 mg/d 
+AF
+1-36
+III
+IC
+IA
+
+--- Fim da Página 48 ---
+
+SYNCOPE
+1-37
+SYNCOPE
+Definition
+• Symptom of sudden transient loss of consciousness due to global cerebral hypoperfusion
+• If CPR or cardioversion required, then SCD and not syncope (different prognosis)
+Etiologies (NEJM 2002;347:878; JACC 2006;47:473; Eur Heart J 2009;30:2631)
+• Neurocardiogenic (a.k.a. vasovagal, 20%; NEJM 2005;352:1004): c sympathetic tone S
+vigorous contraction of LV S mechanoreceptors in LV trigger c vagal tone (hyperactive
+Bezold-Jarisch reflex) S T HR (cardioinhibitory) and/or T BP (vasodepressor)
+cough, deglutition, defecation & micturition S c vagal tone and thus can be precipitants
+related disorder: carotid sinus hypersensitivity
+• Orthostatic hypotension (10%)
+hypovolemia, diuretics, deconditioning
+vasodilators (espec. if combined w/  chronotropes)
+autonomic neuropathy (1  Parkinson’s, Shy-Drager, Lewy body dementia, POTS;
+2  diabetes, EtOH, amyloidosis, renal failure) (NEJM 2008;358:615)
+• Cardiovascular
+Arrhythmia (15%)
+Bradyarrhythmias: SSS, high-grade AV block,  chronotropes, PPM malfunction
+Tachyarrhythmias:VT, SVT (syncope rare unless structural heart disease or WPW)
+Mechanical (5%)
+Endocardial:AS, MS, PS, prosthetic valve thrombosis, myxoma
+Myocardial: pump dysfxn from MI or outflow obstruction from HCMP (but usually VT)
+Pericardial: tamponade
+Vascular: PE, PHT, aortic dissection, ruptured AAA, subclavian steal
+• Neurologic (10%): seizure (technically not syncope),TIA/CVA, vertebrobasilar
+insufficiency, dissection of cerebral arteries, migraine, narcolepsy
+• No cause identified in 40% of cases
+• Misc. causes of LOC (but not syncope): hypoglycemia, hypoxia, anemia, psychogenic
+Workup (etiology cannot be determined in 40% of cases)
+• H&P incl. orthostatic VS have highest yield and most cost effective (Archives 2009;169:1299)
+• History (from Pt and witnesses if available)
+activity and posture before the incident
+precipitating factors: exertion (AS, HCMP, PHT), positional  (orthostatic hypotension),
+stressors such as sight of blood, pain, emotional distress, fatigue, prolonged standing,
+warm environment, N/V, cough/micturition/defecation/swallowing (neurocardiogenic),
+head turning or shaving (carotid sinus hypersens.); arm exercise (subclavian steal)
+prodrome (eg, diaphoresis, nausea, blurry vision): cardiac 5 sec, vasovagal 5 sec
+associated sx: chest pain, palp., neurologic, post-ictal, bowel or bladder incontinence
+(convulsive activity for 10 sec may occur with transient cerebral hypoperfusion)
+• PMH: prior syncope, previous cardiac or neurologic dis.; no CV disease at baseline S 5%
+cardiac, 25% vasovagal; CV disease S 20% cardiac, 10% vasovagal (NEJM 2002;347:878)
+• Medications
+vasodilators: -blockers, nitrates,ACEI/ARB, CCB, hydralazine, phenothiazines, antidep.
+diuretics;  chronotropes (eg, -blockers and CCB)
+proarrhythmic or QT prolonging: class IA, IC or III antiarrhythmics, et al. (see “ECG”)
+psychoactive drugs: antipsychotics,TCA, barbiturates, benzodiazepines, EtOH
+• Family history: CMP, SCD
+• Physical exam
+VS including orthostatics ( if supine S standing results in 20 mmHg T SBP,
+10 mmHg T DBP, or 10–20 bpm c HR), BP in both arms
+cardiac: HF (c JVP, displ. PMI, S3), murmurs, LVH (S4, LV heave), PHT (RV heave, c P2)
+vascular exam: ✓for asymmetric pulses, carotid bruits, carotid sinus massage
+neurologic exam: focal findings, evidence of tongue biting; fecal occult blood test
+• ECG (abnormal in 50%, definitively identifies cause of syncope in 10%)
+sinus bradycardia, sinus pauses,AVB, BBB, SVT,VT
+ischemic changes (new or old); atrial or ventricular hypertrophy
+markers of arrhythmia: ectopy, c QT, preexcitation (WPW), Brugada,  wave (ARVC)
+Other diagnostic studies (consider ordering based on results of H&P and ECG)
+• Ambulatory ECG monitoring: if suspect arrhythmogenic syncope
+Holter monitoring (continuous ECG 24–48 h): useful if frequent events
+arrhythmia  sx (4%); asx but signif. arrhythmia (13%); sx but no arrhythmia (17%)
+Event recorder (activated by Pt to record rhythm strip): useful for infrequent events, but
+problematic if no prodrome; yield 20–50% over 30–60 d of monitoring
+
+--- Fim da Página 49 ---
+
+Loop recorders (continuously save rhythm strip and ∴can be activated after an
+event): useful for infrequent events including w/o prodrome (Mayo Clin Proc 2008;83:1280).
+Implantable loop recorders (inserted SC; can record up to 3 y): useful for very
+infrequent events; yield 90% after 1 y (AJC 2003;92:1231)
+• Echo: r/o structural heart disease (eg, CMP [incl HCMP & ARVD], valvular disease
+[incl AS, MS, MVP], myxoma, amyloid, PHT, 	 anomalous coronaries)
+• ETT: esp. w/ exertional syncope; r/o ischemia- or catecholamine-induced arrhythmias
+• Cardiac catheterization: consider if noninvasive tests suggest ischemia
+• Electrophysiologic studies (EPS)
+consider if arrhythmia detected, if structural heart disease, or if CAD (esp. with low EF)
+50% abnl (inducible VT, conduction abnormalities) if heart disease, but ? significance
+3–20% abnl if abnl ECG; 1% abnl if normal heart and normal ECG (Annals 1997;127:76)
+• Tilt table testing (provocative test for vasovagal syncope): r/o other causes first
+ in 50% w/ recurrent unexplained syncope; Se 26–80%, Sp 90%; reprod. 80%
+• Cardiac MRI: helpful to dx ARVC if suggestive ECG, echo (RV dysfxn), or  FH of SCD
+• Neurologic studies (cerebrovascular studies, CT, MRI, EEG): if H&P suggestive; low yield
+Figure 1-6 Approach to syncope
+SYNCOPE
+1-38
+Syncope
+Cardiac
+Mechanical
+History, Physical Exam (incl. orthostatics), 12-lead ECG
+? Neuro-
+cardiogenic
+? Neurologic
+? Arrhythmia
+Orthostatic
+hypotension
+Arrhythmia
+negative
+abnl neuro
+exam
+situational or
+   prodrome
+diagnostic
+suggestive
+echo ± ETT
+(± CTA to r/o
+PE or AoD)
+orthostatics
+abnl rhythm
+on ECG
+? tilt table
+if recurs
+EEG, cerebrovasc,
+CT/MRI
+EP study
+structurally abnl
+heart or ischemia
+ambul. ECG
+if recurs
+valve, tamp.,
+PE,PHT
+normal
+abnl heart
+or ECG,
+exertional or
+    prodrome
++
+−
++
+(Adapted from JACC 2006;47:473)
+High-risk features (usually warrant admission with telemetry & further testing)
+• Age 60 y, h/o CAD, CMP, valvular disease, congenital heart disease, arrhythmias
+• Syncope c/w cardiac cause (lack of prodrome, exertional, resultant trauma)
+• Recurrent syncope
+• Abnormal cardiac exam or ECG
+Treatment
+• Arrhythmia, cardiac mechanical, or neurologic syncope: treat underlying disorder
+• Vasovagal syncope: ? midodrine, fludrocortisone, disopyramide, SSRI 
+? 16 oz of H2O before at-risk situations (Circ 2003;108:2660)
+no proven benefit w/ -blockers (Circ 2006;113:1164) or PPM (JAMA 2003;289:2224)
+• Orthostatic syncope: volume replete (eg, 500 mL PO q a.m.); if chronic S rise from supine
+to standing slowly, compressive stockings, midodrine, fludrocortisone, high Na diet
+Prognosis (Ann Emerg Med 1997;29:459; NEJM 2002;347:878)
+• 22% overall recurrence rate if idiopathic, else 3% recurrence
+• Cardiac syncope: 2-fold c in mort., 20–40% 1-y SCD rate, median survival 6 y
+• Unexplained syncope w/ 1.3-fold c in mort., but noncardiac or unexplained syncope w/ nl
+ECG, no h/o VT, no HF, age 45 S low recurrence rate and 5% 1-y SCD rate
+• Vasovagal syncope: Pts not at increased risk for death, MI, or stroke
+• ✓state driving laws and MD reporting requirements. Consider appropriateness of Pt
+involvement in exercise/sport, operating machinery, high-risk occupation (eg, pilot).
+
+--- Fim da Página 50 ---
+
+PPM/ICD
+1-39
+INTRACARDIAC DEVICES
+Pacemaker Code
+A, atrial;V, vent.;
+1st letter
+2nd letter
+3rd letter
+4th letter
+I, inhibition; D, dual;
+Chamber
+Chamber
+Response to
+Program
+R, rate-adaptive
+paced
+sensed
+sensed beat
+features
+Common Pacing Modes
+VVI
+Ventricular pacing on demand w/ single lead in RV. Sensed ventricular
+beat inhibits V pacing. Used in chronic AF with symptomatic bradycardia.
+DDD
+A & V sensing & pacing (RA & RV leads). Sensed A beat inhibits A pacing &
+triggers V pacing S tracking of intrinsic atrial activity. Maintains AV synchrony.
+Magnet
+Pacing at fixed rate regardless of intrinsic activity. Use to ✓ability to capture
+(place over 
+when output inhibited by intrinsic rhythm. Use if Pt hemodynamically 
+generator)
+unstable due to inappropriate PPM inhibition or PPM-induced tachycardia.
+Indications for Pacing (Circ 2008;117:2820)
+AV block
+Symptomatic 3 or 2 AVB; ? asx 3 or type II 2 AVB
+HR 40; pauses 3 sec while awake; alternating L and R BBB
+Sinus node
+SB or pauses a/w sxs or ? if sx w/o clear assoc. Chronotropic incompet.
+Acute MI
+See “STEMI”
+Tachy-
+Sx recurrent SVT that can be term. by pacing after failing drugs & ablation
+arrhythmia
+Sustained pause-dependent VT; ? high-risk Pts w/ congenital long QT
+Syncope
+Carotid sinus hypersensitivity with asystole 3 sec
+? Neurocardiogenic syncope w/ prominent cardioinhib. response
+? Syncope with bi- or trifascicular block and not likely 2 to other causes
+CMP
+Sx DCMP (BiV pacing); ? refractory sx HCMP w/ signif outflow obstruction
+Permanent Pacemaker (PPM) Complications
+Issue
+Manifestation
+Description
+Failure to
+Bradycardia
+Battery depletion, lead fracture/dislodgment,
+pace
+c pacing threshold due to local tissue rxn/injury, or
+myopotential sensing S inappropriate inhibition
+Failure to sense
+Inapprop. pacing
+Lead dislodgment or sensing threshold too high
+PM-mediated
+Tachycardia
+Seen w/ DDD.V depol. S retrograde A activation S
+tachycardia
+sensed by A lead S triggers V pacing S etc.
+PM syndrome
+Palpit, HF
+Seen w/ VVI. Due to loss of AV synchrony.
+Cardiac Resynch Therapy (CRT) / Biventricular (BiV) Pacing (JACC 2008;51:2085)
+• 3-lead pacemaker (RA, RV, coronary sinus); R S in V1 suggests appropriate LV capture
+• Goal: enhance synch RV & LV fxn (c CO, T remodeling, even if nl EF, NEJM 2009;361:2123)
+• Pt selection: NYHA III/IV HF despite med Rx  LVEF 35%  QRS 120 ms;
+no clear benefit if QRS 120 ms w/ echo dyssynchrony (NEJM 2007;357:2461);
+? lesser benefit if chronic AF
+• Benefits: T HF sx, T HF hosp., c survival (NEJM 2004;350:2140 & 2005;352:1539); T HF events
+compared w/ ICD alone in NYHA I/II & QRS 150 ms (MADIT-CRT, NEJM 2009;361:1329)
+Implantable Cardiac Defibrillator (ICD) (NEJM 2003;349:1836; JACC 2006;48:1064)
+• RV lead capable of defibrillation & pacing ( 	 antitachycardia pacing,ATP); 	 RA lead
+• Goal: terminate VT/VF w/ shock or burst of pacing, prevent sudden cardiac death (SCD)
+• Patient selection (JACC 2008;51:2085)
+2 prevention: survivors of VF arrest, unstable VT w/o reversible cause (NEJM
+1997;337:1576); structural heart disease & spontaneous sustained VT (even if asx) 
+1 prevention: life expectancy 1 y, LVEF 30% or LVEF 30–35% & NYHA II-III or
+LVEF 35–40% & inducible VT/VF (wait 40 d if post-MI or 9 mos for non-
+ischemic CMP; NEJM 2009;361:1427); for HCMP,ARVD, Brugada, sarcoid, LQTS,
+Chagas, or congenital heart, ICD if risk factors for SCD
+• Benefits: T mortality from SCD c/w antiarrhythmics or placebo
+• ICD discharge: ✓device to see if appropriate; r/o ischemia; 6 mos driving ban; if recur-
+rent VT, ? drug Rx (eg, amio  B, JAMA 2006;295:165) or VT ablation (NEJM 2007;357:2657).
+Nb, ablation at time of ICD T risk of VT by 40% (Lancet 2010;375:31).
+Device infection (Circ 2010;121:458)
+• Presents as pocket infection (warmth, erythema, tenderness) and/or sepsis w/ bacteremia
+• Infection in 1⁄2 of Pts w/ S. aureus bacteremia (even w/o s/s and w/  TTE/TEE)
+• Treatment: abx and removal of system
+
+--- Fim da Página 51 ---
+
+PREOP EVAL
+1-40
+CARDIAC RISK ASSESSMENT FOR NONCARDIAC SURGERY
+Clinical Assessment
+Active Cardiac Conditions
+Clinical Risk Factors
+• MI w/in 30 d or current unstable or severe angina 
+• h/o CAD
+• Decompensated HF
+• h/o HF
+• Significant arrhythmia (eg, high-grade AVB, Mobitz II,
+• h/o Cerebrovascular dis.
+3 AVB, new or sx VT, SVT w/ HR 100, sx brady)
+• Diabetes mellitus
+• Severe AS or sx MS
+• Renal insuffic. (Cr 2 mg/dL)
+Surgery-Specific Risk
+High (5% risk)
+Intermediate (1–5%)
+Low (1%)
+• Aortic or other major
+• Intrathoracic; intraperitoneal; 
+• Endoscopic
+vascular
+prostate
+• Breast; superficial
+• Peripheral vasc.
+• CEA; head & neck
+• Cataract; ambulatory
+• Orthopedic
+Functional Capacity
+1–4 METs
+4–10 METs
+10 METs
+• ADLs
+• Climb a flight of stairs/hill
+• Strenuous sports
+• Walk indoors
+• Walk briskly; heavy housework
+• Walk 1–2 level blocks
+• Golf, doubles tennis
+Noninvasive Testing Result
+High risk
+Intermediate risk
+Low risk
+Ischemia at 4 METs manifested 
+Ischemia at 4–6 METs
+No ischemia or
+by 1 of:
+manifested by 1 of:
+at 7 METs w/
+• Horiz/down ST T 1 mm or STE
+• Horiz/down ST T 1 mm
+• ST T 1 mm or
+• 5 abnl leads or 3 min after exert
+• 3–4 abnl leads
+• 1–2 abnl leads
+• SBP T 10 mmHg or typical angina
+• 1–3 min after exert
+Preoperative evaluation
+Figure 1-7 ACC/AHA approach to preoperative cardiovascular evaluation for non–cardiac surgery
+Peri-op surveillance;
+post-op risk stratification
+& risk factor mgmt
+Step 1
+Need for emergency
+non-cardiac surgery?
+yes
+no
+Further evaluation
+prior to OR;
+Rx as indicated
+Step 2
+Active cardiac
+conditions?
+yes
+no
+Consider periop βB if CAD or
+>1 clinical risk factors.
+Step 4
+Fxnal capacity
+≥4 METs w/o sx?
+yes
+no or unknown
+Consider periop βB.
+? Non-inv test if will Δ mgmt.
+intermed
+risk surgery
+high risk
+surgery
+Step 5
+Presence of
+clinical
+risk
+factors?
+Consider non-inv
+test if will Δ mgmt.
+1–2
+≥3
+Operating
+Room
+Step 3
+Low-risk surgery?
+none
+yes
+no
+Periop βB
+if to OR
+(Circ 2009;120:e169)
+
+--- Fim da Página 52 ---
+
+PREOP EVAL
+1-41
+Pre-operative testing and therapy
+• ECG if 1 risk factor and planned vascular surgery, or if known vascular disease and
+intermediate risk surgery. ? prior to any vascular surgery.
+• TTE if dyspnea of unknown origin or if HF w/ c dyspnea and no TTE in past 12 mo
+• Stress test if active cardiac issues (see above), or vascular surgery w/ 3 risk factors
+& it will  mgmt. Overall low PPV to predict periop CV events.
+• Coronary revascularization should be based on standard indications (eg,ACS,
+refractory sx, lg territory at risk). Has not been shown to  risk of death or
+postop MI when done prior to elective vasc. surgery based on perceived cardiac
+risk (NEJM 2004;351:2795) or documented extensive ischemia (AJC 2009;103:897), but sys-
+tematic angiography T 2–5 y mortality in one vascular surgery trial (JACC 2009;54:989).
+• Given need for dual antiplatelet Rx after stenting, wait 4 wk after BMS and ideally
+12 mo after DES before discontinuing ADP receptor blockade; continue ASA
+• If possible, wait 4–6 wk after MI (even if  ETT or  ETT & revascularized). If no
+revasc, wait 6 mo before elective surgery.
+• Preop statins: T ischemia & CV events in Pts undergoing vascular surg (NEJM 2009;361:980)
+Perioperative -blocker use (Circ 2009;120:2123; JAMA 2010;303:551)
+• Conflicting evidence regarding efficacy of B for T periop events. Some studies have
+shown T cardiac death & MI (NEJM 1996;335:1713 & 1999;341:1789) whereas another T MI
+but c death & stroke and c bradycardia/HoTN (Lancet 2008;371;1839).
+• Consider periop B if CAD,  stress test, or 1 cardiac risk factor, espec if vascular surgery  
+• Ideally initiate 1 wk prior to surgery and titrate during preop, intraop, and postop peri-
+ods to achieve HR 55–65 bpm and BP control. Avoid bradycardia and hypotension.
+Postoperative monitoring
+• ✓Postop ECG if known CAD or high-risk surgery. Consider if 1 risk factor for CAD.
+• ✓Postop troponin only if new ECG s or chest pain suggestive of ACS
+
+--- Fim da Página 53 ---
+

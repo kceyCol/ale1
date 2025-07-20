@@ -1,0 +1,59 @@
+Por favor, analise o seguinte texto extraído de um PDF e crie um RESUMO INDICATIVO.
+
+O resumo indicativo deve:
+- Simplesmente apontar o conteúdo do documento, sem entrar em detalhes
+- Funcionar como uma etiqueta ou "teaser"
+- Ajudar o leitor a decidir se precisa ou não ler o documento completo
+- Ser curto e direto ao ponto (máximo 3-4 frases)
+
+Este tipo de resumo é perfeito para catálogos, bases de dados ou para quem está apenas avaliando se o documento é relevante para sua área de estudo ou trabalho.
+
+Texto para análise:
+
+Resumo do Documento
+Arquivo: artigo 8.pdf
+Data: 01/07/2025
+**Introdução:**
+Este artigo propõe uma nova classificação abrangente do desequilíbrio sagital da coluna
+vertebral, baseada na localização da deformidade e nos mecanismos compensatórios
+presentes.  O desequilíbrio sagital é um preditor independente de resultados clínicos em
+pacientes com diversas condições da coluna, e a falta de uma classificação adequada
+dificulta o planejamento cirúrgico.  O objetivo do estudo é criar uma classificação que
+melhore a compreensão da condição, permita comparações de resultados e auxilie no
+planejamento cirúrgico.  O estudo utiliza a incidência pélvica (PI), que permanece
+inalterada pela degeneração, como referência para a avaliação da forma sagital original da
+coluna.
+**Metodologia/Abordagem:**
+Um estudo retrospectivo de coorte foi realizado com 128 radiografias laterais em pé de
+coluna completa de pacientes com diferentes condições espinhais.  Foram medidas
+diversas parâmetros espinopélvicos, incluindo PI, inclinação pélvica (PT), lordose lombar
+(LL), lordose L4-S1 (LL4-S1), lordose toracolombar (LT11-L2), cifose torácica (TK), eixo
+vertical sagital C7-S1 (SVA) e eixo vertical sagital C2-C7 (C2-C7 SVA). Um avaliador cego
+classificou todas as radiografias em uma de oito categorias de padrões de deformidade,
+que foram definidos previamente por dois cirurgiões seniores após discussão.  Um
+subconjunto de 35 radiografias foi avaliado independentemente por um segundo avaliador
+para calcular o acordo interobservador (utilizando o Kappa de Cohen). A validade interna
+foi avaliada comparando os valores dos parâmetros sagitais regionais que distinguem uma
+categoria das outras (utilizando o teste t de Student para variáveis independentes).
+**Resultados/Descobertas Principais:**
+O estudo identificou oito padrões de deformidade, baseados na localização da
+deformidade e na presença de mecanismos compensatórios: cifose cervical, cifose
+torácica, cifose da junção toracolombar, cifose lombar, cifose lombar inferior, cifose global,
+cifose pélvica e alinhamento sagital normal. O acordo interobs= 0,963). Diferenças estatisticamente significativas foram encontradas ao comparar as
+médias de parâmetros espinopélvicos sagitais selecionados entre pares ou grupos de
+categorias,  indicando a validade da classificação proposta.
+**Discussão/Implicações:**
+A classificação proposta integra categorias de desequilíbrio sagital degenerativo severo
+(cifose lombar e cifose global), diferenciando-as pela capacidade de compensação da
+coluna torácica. Inclui também deformidades como cifose cervical e toracolombar,
+anteriormente menos consideradas no contexto do desequilíbrio sagital. A  cifose pélvica,
+uma nova categoria identificada, possivelmente relaciona-se a condições neurológicas ou
+doenças do quadril.  As limitações incluem o uso de métodos existentes para estimar os
+valores ideais de alinhamento, que podem ser aprimorados em pesquisas futuras.  O
+método de tratamento sugerido também é passível de modificação com novas evidências.
+
+--- Fim da Página 1 ---
+
+
+
+Por favor, forneça um resumo indicativo conciso.

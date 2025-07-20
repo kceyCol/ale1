@@ -1,0 +1,278 @@
+Por favor, analise o seguinte texto extraído de um PDF e crie um RESUMO ESTRUTURADO seguindo este formato:
+
+## RESUMO EXECUTIVO
+[Resumo de 2-3 parágrafos dos pontos principais]
+
+## TÓPICOS PRINCIPAIS
+[Lista dos principais temas abordados]
+
+## PONTOS-CHAVE
+[Bullet points com as informações mais importantes]
+
+## CONCLUSÕES
+[Principais conclusões ou takeaways]
+
+## PALAVRAS-CHAVE
+[5-10 palavras-chave relevantes]
+
+Este tipo de resumo serve para organizar a informação de forma lógica e escaneável, permitindo que o leitor encontre rapidamente os dados que procura. É ideal para quem precisa de uma visão geral detalhada e bem categorizada.
+
+Texto para análise:
+
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+TRÁFEGO AÉREO 
+ 
+MCA 100-11 
+PREENCHIMENTO DOS FORMULÁRIOS DE 
+PLANO DE VOO 
+2020 
+
+--- Fim da Página 1 ---
+
+
+--- Fim da Página 2 ---
+
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+TRÁFEGO AÉREO 
+ 
+MCA 100-11 
+PREENCHIMENTO DOS FORMULÁRIOS DE 
+PLANO DE VOO 
+2020 
+
+--- Fim da Página 3 ---
+
+
+--- Fim da Página 4 ---
+
+ 
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+PORTARIA DECEA No 267/DGCEA, DE 13 DE NOVEMBRO DE 2020. 
+Aprova a reedição do MCA 100-11, 
+Manual 
+sobre 
+“Preenchimento 
+dos 
+Formulários de Plano de Voo”. 
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO 
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura 
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de 
+2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado 
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve: 
+Art  1o Aprovar a reedição do MCA 100-11, “Preenchimento dos Formulários 
+de Plano de Voo”, que com esta baixa. 
+Art.  2o Esta Portaria entra em vigor em 1º de dezembro de 2020. 
+Art.  3o Revoga-se a Portaria DECEA nº 80/DGCEA, de 6 de julho de 2017, 
+publicada no Boletim do Comando da Aeronáutica nº 125, de 24 de julho de 2017. 
+Ten Brig Ar HERALDO LUIZ RODRIGUES 
+Diretor-Geral do DECEA 
+ 
+(Publicado no BCA no 210, de 19 de Novembro de 2020)  
+
+--- Fim da Página 5 ---
+
+
+--- Fim da Página 6 ---
+
+MCA 100-11/2020 
+ 
+SUMÁRIO 
+1  DISPOSIÇÕES PRELIMINARES ..................................................................................... 9 
+1.1  FINALIDADE ..................................................................................................................... 9 
+1.2  ÂMBITO .............................................................................................................................. 9 
+1.3  ABREVIATURAS E SIGLAS ............................................................................................ 9 
+1.4  PROCEDIMENTOS GERAIS ........................................................................................... 11 
+1.5  CONCEITUAÇÕES .......................................................................................................... 11 
+2  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO COMPLETO ................................................................................................................. 13 
+2.1  GENERALIDADES .......................................................................................................... 13 
+2.2  PROCEDIMENTOS PARA INSERÇÃO DE DADOS ..................................................... 13 
+3  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO SIMPLIFICADO .......................................................................................................... 37 
+3.1  GENERALIDADES .......................................................................................................... 37 
+3.2  PROCEDIMENTOS PARA INSERÇÃO DOS DADOS .................................................. 37 
+4  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO REPETITIVO ............................................................................................................... 38 
+4.1  GENERALIDADES .......................................................................................................... 38 
+4.2  PROCEDIMENTOS PARA INSERÇÃO DOS DADOS .................................................. 38 
+5  DISPOSIÇÕES FINAIS ..................................................................................................... 42 
+    REFERÊNCIAS ................................................................................................................. 43 
+    Anexo A - Formulário de Plano de Voo Completo .......................................................... 44 
+    Anexo B - Formulário de Plano de Voo Simplificado ..................................................... 45 
+    Anexo C - Formulário de Plano de Voo Repetitivo ......................................................... 46 
+    Anexo D - 1º Exemplo de Formulário de Plano de Voo Completo Preenchido ............ 47 
+    Anexo E - 2º Exemplo de Formulário de Plano de Voo Completo Preenchido ............ 48 
+    Anexo F - 3º Exemplo de Formulário de Plano de Voo Completo Preenchido ............. 49 
+
+--- Fim da Página 7 ---
+
+
+--- Fim da Página 8 ---
+
+MCA 100-11/2020 
+PREFÁCIO 
+Esta publicação foi reeditada com o objetivo de: 
+a) implementar a Emenda 9 ao Documento 4444 (PANS-ATM) da OACI 
+no que se refere à inserção da categoria SUPER (J) de aeronave em 
+termos de esteira de turbulência; 
+b) contemplar a informação da certeza de decolagem (RMK/DEP CFM) 
+para aeronave que decolar de aeródromo desprovido de órgão ATS com 
+destino a aeródromo provido de órgãos ATS, caso o piloto deseje 
+assegurar a prestação do Serviço de Alerta; e 
+c) possibilitar o tratamento especial por parte do Órgão ATS para 
+aeronaves que transportam radiofármacos.  
+ 
+
+--- Fim da Página 9 ---
+
+
+--- Fim da Página 10 ---
+
+MCA 100-11/2020 
+1 DISPOSIÇÕES PRELIMINARES 
+1.1 FINALIDADE 
+Este Manual tem por finalidade estabelecer os procedimentos referentes ao 
+preenchimento dos formulários de Plano de Voo, em complemento ao disposto na ICA 100-11 
+(Plano de Voo) e de acordo com as disposições da OACI.  
+1.2 ÂMBITO 
+O constante neste Manual, de observância obrigatória, aplica-se aos usuários do 
+espaço aéreo sob jurisdição do Brasil e aos Órgãos operacionais do SISCEAB. 
+1.3 ABREVIATURAS E SIGLAS  
+ACC 
+- Centro de Controle de Área 
+ACFT 
+- Aeronave 
+ADF 
+- Equipamento Radiogoniométrico Automático 
+ADS-B 
+- Vigilância Dependente Automática – Radiodifusão 
+ADS-C 
+- Vigilância Dependente Automática – Contrato 
+AFIL 
+- Plano de Voo Apresentado em Voo 
+AIS 
+- Serviço de Informação Aeronáutica 
+ALTN 
+- Alternativa 
+APV 
+- Procedimento de Aproximação com Guia Vertical 
+ATFM 
+- Gerenciamento de Fluxo de Tráfego Aéreo 
+ATS 
+- Serviço de Tráfego Aéreo 
+CFM 
+- Confirmo 
+COM 
+- Comunicações 
+CPDLC 
+- Comunicação entre Controlador e Piloto por Enlace de Dados 
+DAT 
+- Aplicação ou capacidade de Dados / Declaração de Arrecadação Tarifária 
+DCT 
+- Direto 
+DEFC 
+- Defesa Civil 
+DEP 
+- Partida 
+DEST 
+- Destino 
+DLE 
+- Atraso em Rota 
+DME 
+- Equipamento Radiotelemétrico 
+DOF 
+- Data de Partida de Voo 
+EET 
+- Duração Prevista de Voo 
+EOBT 
+- Hora Estimada de Calços Fora 
+ELT 
+- Transmissor Localizador de Emergência  
+FANS 
+- Sistema de Navegação Aérea do Futuro 
+FIZ 
+- Zona de Informação de Voo 
+FIR 
+- Região de Informação de Voo 
+FPL 
+- Mensagem de Plano de Voo Apresentado 
+GBAS 
+- Sistema de Aumentação Baseado no Solo 
+GNSS 
+- Sistema Global de Navegação por Satélite 
+HF 
+- Frequência Alta 
+HFDL 
+- Enlace de Dados Utilizando Alta Frequência 
+IFR 
+- Regras de Voo por Instrumento 
+ILS 
+- Sistema de Pouso por Instrumentos 
+INMARSAT 
+- Sistema Internacional de Comunicações Móveis por Satélite 
+
+--- Fim da Página 11 ---
+
+10/49 
+MCA 100-11/2020 
+ 
+INS 
+- Sistema de Navegação Inercial 
+INSV 
+- Inspeção em Voo 
+LORAN 
+- Sistema de Navegação Aérea de Longo Alcance 
+LPV 
+- Desempenho do Localizador com Guia Vertical 
+MTSAT 
+- Satélite de Transporte Multifuncional 
+MNPS 
+- Especificações de Performance Mínimas de Navegação 
+MLS 
+- Microwave Landing System 
+MSL 
+- Nível Médio de Mar 
+MET 
+- Meteorologia 
+NAV 
+- Navegação 
+NDB 
+- Radiofarol Não Direcional 
+NM 
+- Milhas Náuticas 
+OACI 
+- Organização de Aviação Civil Internacional 
+ORGN 
+- Originador  
+OPR 
+- Operador (Explorador) 
+PANS 
+- Procedimentos dos Serviços de Navegação Aérea 
+PBC 
+- Comunicação Baseada em Performance 
+PBN 
+- Navegação Baseada em Performance 
+PBS 
+- Vigilância Baseada em Performance 
+PDC 
+- Carta de Estacionamento de Aeronave 
+PER 
+- Performance  
+PLN 
+- Plano de Voo 
+PVC 
+- Plano de Voo Completo 
+PVS 
+- Plano de Voo Simplificado 
+POB 
+- Pessoas a Bord...
+
+Por favor, forneça um resumo estruturado e bem organizado.

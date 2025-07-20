@@ -1,0 +1,302 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-10">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h3 class="card-title mb-0">
+                    <i class="fas fa-check-circle text-success"></i> Texto Extraído com Sucesso
+                </h3>
+                <div>
+                    <a href="{{ url_for('download_file', filename=filename) }}" class="btn btn-primary me-2">
+                        <i class="fas fa-download"></i> Baixar Arquivo
+                    </a>
+                    <button class="btn btn-info" onclick="mostrarOpcoesResumo()">
+                        <i class="fas fa-brain"></i> Gerar Resumo com Gemini
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <strong>Arquivo gerado:</strong> {{ filename }}
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label"><strong>Preview do texto extraído:</strong></label>
+                    <textarea class="form-control" rows="10" readonly>{{ texto }}</textarea>
+                </div>
+                
+                <!-- Seção de Seleção do Tipo de Resumo -->
+                <div class="card mt-4" id="selecaoResumo" style="display: none;">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-brain"></i> Escolha o Tipo de Resumo
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <div class="card h-100 resumo-option" data-tipo="estruturado">
+                                    <div class="card-body">
+                                        <h6 class="card-title text-primary">
+                                            <i class="fas fa-list"></i> Resumo Estruturado
+                                        </h6>
+                                        <p class="card-text small">
+                                            <strong>Para que serve:</strong> Organiza a informação de forma lógica e escaneável, permitindo encontrar rapidamente os dados procurados.
+                                        </p>
+                                        <p class="card-text small">
+                                            <strong>Ideal para:</strong> Visão geral detalhada e bem categorizada.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <div class="card h-100 resumo-option" data-tipo="indicativo">
+                                    <div class="card-body">
+                                        <h6 class="card-title text-success">
+                                            <i class="fas fa-tag"></i> Resumo Indicativo
+                                        </h6>
+                                        <p class="card-text small">
+                                            <strong>Para que serve:</strong> Aponta o conteúdo sem detalhes. Funciona como etiqueta ou "teaser".
+                                        </p>
+                                        <p class="card-text small">
+                                            <strong>Ideal para:</strong> Decidir se precisa ler o documento completo.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <div class="card h-100 resumo-option" data-tipo="informativo">
+                                    <div class="card-body">
+                                        <h6 class="card-title text-warning">
+                                            <i class="fas fa-info-circle"></i> Resumo Informativo
+                                        </h6>
+                                        <p class="card-text small">
+                                            <strong>Para que serve:</strong> Apresenta informações principais funcionando como substituto do original.
+                                        </p>
+                                        <p class="card-text small">
+                                            <strong>Ideal para:</strong> Absorver pontos-chave sem consultar a fonte.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <div class="card h-100 resumo-option" data-tipo="critico">
+                                    <div class="card-body">
+                                        <h6 class="card-title text-danger">
+                                            <i class="fas fa-search"></i> Resumo Crítico
+                                        </h6>
+                                        <p class="card-text small">
+                                            <strong>Para que serve:</strong> Vai além da descrição, incluindo análise e avaliação do material.
+                                        </p>
+                                        <p class="card-text small">
+                                            <strong>Ideal para:</strong> Tomar decisões baseadas no valor do documento.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Seção do Resumo com Gemini -->
+                <div class="card mt-4" id="resumoSection" style="display: none;">
+                    <div class="card-header bg-success text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-brain"></i> <span id="tipoResumoSelecionado">Resumo</span> com Google Gemini
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="alert alert-info">
+                            <i class="fas fa-info-circle"></i>
+                            <strong>Como usar:</strong>
+                            <ol class="mb-0 mt-2">
+                                <li>Clique no botão "Copiar Prompt" abaixo</li>
+                                <li>Abra o <a href="https://gemini.google.com/app" target="_blank" class="alert-link">Google Gemini</a> em uma nova aba</li>
+                                <li>Cole o prompt copiado no Gemini</li>
+                                <li>Aguarde o resumo ser gerado</li>
+                            </ol>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label class="form-label"><strong>Prompt para o Gemini:</strong></label>
+                            <textarea class="form-control" id="promptTextarea" rows="12" readonly></textarea>
+                        </div>
+                        
+                        <div class="text-center">
+                            <button class="btn btn-success me-2" onclick="copiarPrompt()">
+                                <i class="fas fa-copy"></i> Copiar Prompt
+                            </button>
+                            <a href="https://gemini.google.com/app" target="_blank" class="btn btn-primary">
+                                <i class="fas fa-external-link-alt"></i> Abrir Google Gemini
+                            </a>
+                            <button class="btn btn-secondary" onclick="voltarSelecao()">
+                                <i class="fas fa-arrow-left"></i> Escolher Outro Tipo
+                            </button>
+                        </div>
+                        
+                        <div id="statusMessage" class="mt-3" style="display: none;"></div>
+                    </div>
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="{{ url_for('index') }}" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Processar Outro Arquivo
+                    </a>
+                    <a href="{{ url_for('download_file', filename=filename) }}" class="btn btn-success">
+                        <i class="fas fa-download"></i> Baixar Texto Completo
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Texto completo oculto para JavaScript -->
+<script type="text/javascript">
+    // Usar uma abordagem mais segura para passar o texto
+    const textoCompleto = decodeURIComponent("{{ texto_completo|urlencode }}");
+</script>
+{% endblock %}
+
+{% block scripts %}
+<style>
+.resumo-option {
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.resumo-option:hover {
+    border-color: #007bff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.resumo-option.selected {
+    border-color: #28a745;
+    background-color: #f8f9fa;
+}
+</style>
+
+<script>
+function mostrarOpcoesResumo() {
+    const selecaoSection = document.getElementById('selecaoResumo');
+    selecaoSection.style.display = 'block';
+    selecaoSection.scrollIntoView({ behavior: 'smooth' });
+}
+
+function voltarSelecao() {
+    document.getElementById('resumoSection').style.display = 'none';
+    document.getElementById('selecaoResumo').style.display = 'block';
+    document.getElementById('selecaoResumo').scrollIntoView({ behavior: 'smooth' });
+}
+
+// Adicionar event listeners para as opções de resumo
+document.addEventListener('DOMContentLoaded', function() {
+    const opcoes = document.querySelectorAll('.resumo-option');
+    
+    opcoes.forEach(opcao => {
+        opcao.addEventListener('click', function() {
+            // Remover seleção anterior
+            opcoes.forEach(o => o.classList.remove('selected'));
+            
+            // Adicionar seleção atual
+            this.classList.add('selected');
+            
+            // Obter tipo selecionado
+            const tipoSelecionado = this.dataset.tipo;
+            
+            // Gerar resumo
+            gerarResumo(tipoSelecionado);
+        });
+    });
+});
+
+function gerarResumo(tipoResumo) {
+    const resumoSection = document.getElementById('resumoSection');
+    const selecaoSection = document.getElementById('selecaoResumo');
+    const tipoSpan = document.getElementById('tipoResumoSelecionado');
+    
+    // Atualizar título
+    const nomesTipos = {
+        'estruturado': 'Resumo Estruturado',
+        'indicativo': 'Resumo Indicativo', 
+        'informativo': 'Resumo Informativo',
+        'critico': 'Resumo Crítico'
+    };
+    
+    tipoSpan.textContent = nomesTipos[tipoResumo] || 'Resumo';
+    
+    // Mostrar loading
+    showMessage('Gerando prompt...', 'info');
+    
+    // Fazer requisição para gerar o prompt
+    fetch('/gerar-resumo', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ 
+            texto: textoCompleto,
+            tipo_resumo: tipoResumo 
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            document.getElementById('promptTextarea').value = data.prompt;
+            
+            // Esconder seleção e mostrar resumo
+            selecaoSection.style.display = 'none';
+            resumoSection.style.display = 'block';
+            resumoSection.scrollIntoView({ behavior: 'smooth' });
+            
+            showMessage('Prompt gerado com sucesso! Agora você pode copiá-lo e usar no Gemini.', 'success');
+        } else {
+            showMessage('Erro ao gerar prompt: ' + data.message, 'danger');
+        }
+    })
+    .catch(error => {
+        console.error('Erro:', error);
+        showMessage('Erro ao gerar prompt.', 'danger');
+    });
+}
+
+function copiarPrompt() {
+    const textarea = document.getElementById('promptTextarea');
+    textarea.select();
+    textarea.setSelectionRange(0, 99999); // Para dispositivos móveis
+    
+    try {
+        document.execCommand('copy');
+        showMessage('Prompt copiado para a área de transferência!', 'success');
+    } catch (err) {
+        // Fallback para navegadores mais antigos
+        navigator.clipboard.writeText(textarea.value).then(() => {
+            showMessage('Prompt copiado para a área de transferência!', 'success');
+        }).catch(() => {
+            showMessage('Erro ao copiar. Selecione o texto manualmente.', 'warning');
+        });
+    }
+}
+
+function showMessage(message, type) {
+    const statusDiv = document.getElementById('statusMessage');
+    statusDiv.innerHTML = `<div class="alert alert-${type} alert-dismissible fade show" role="alert">
+        ${message}
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>`;
+    statusDiv.style.display = 'block';
+    
+    // Auto-hide after 5 seconds
+    setTimeout(() => {
+        statusDiv.style.display = 'none';
+    }, 5000);
+}
+</script>
+{% endblock %}

@@ -1,0 +1,395 @@
+Por favor, analise o seguinte texto extraído de um PDF e crie um resumo estruturado seguindo este formato:
+
+## RESUMO EXECUTIVO
+[Resumo de 2-3 parágrafos dos pontos principais]
+
+## TÓPICOS PRINCIPAIS
+[Lista dos principais temas abordados]
+
+## PONTOS-CHAVE
+[Bullet points com as informações mais importantes]
+
+## CONCLUSÕES
+[Principais conclusões ou takeaways]
+
+## PALAVRAS-CHAVE
+[5-10 palavras-chave relevantes]
+
+Texto para análise:
+
+
+--- Fim da Página 1 ---
+
+
+--- Fim da Página 2 ---
+
+P O C K E T
+NOTEBOOK
+Pocket
+MEDICINE
+Fourth Edition
+Edited by
+MARC S. SABATINE, M.D., M.P.H.
+ASSOCIATE PROFESSOR OF MEDICINE
+HARVARD MEDICAL SCHOOL
+The Massachusetts General Hospital
+Handbook of Internal Medicine
+
+--- Fim da Página 3 ---
+
+Acquisitions Editor: Sonya Seigafuse
+Product Manager: Kerry Barrett
+Production Manager: Bridgett Dougherty
+Senior Manufacturing Manager: Benjamin Rivera
+Marketing Manager: Kim Schonberger
+Design Coordinator: Doug Smock
+Production Service: Aptara
+© 2011 by LIPPINCOTT WILLIAMS & WILKINS, a WOLTERS KLUWER
+business
+Two Commerce Square
+2001 Market Street
+Philadelphia, PA 19103 USA
+LWW.com
+All rights reserved.This book is protected by copyright. No part of this book may 
+be reproduced in any form by any means, including photocopying, or utilized by any
+information storage and retrieval system without written permission from the copyright
+owner, except for brief quotations embodied in critical articles and reviews. Materials
+appearing in this book prepared by individuals as part of their official duties as U.S.
+government employees are not covered by the above-mentioned copyright.
+Printed in China
+Library of Congress Cataloging-in-Publication Data
+Pocket medicine / edited by Marc S. Sabatine.–4th ed.
+p. ; cm.
+“The Massachusetts General Hospital Handbook of Internal Medicine.”
+Includes bibliographical references and index.
+ISBN-13: 978-1-60831-905-3 (domestic : alk. paper)
+ISBN-10: 1-60831-905-9 (domestic : alk. paper)
+ISBN-13: 978-1-4511-0335-9 (international : alk. paper)
+ISBN-10: 1-4511-0335-2 (international : alk. paper)
+1. Internal medicine–Handbooks, manuals, etc. I. Sabatine, Marc S.
+II. Massachusetts General Hospital.
+[DNLM: 1. Internal Medicine–Handbooks. 2. Clinical
+Medicine–Handbooks.
+WB 39 P7394 2011]
+RC55.P63 2011
+616–dc22
+2010024523
+DISCLAIMER Care has been taken to confirm the accuracy of the information presented
+and to describe generally accepted practices. However, the authors, editors, and publisher
+are not responsible for errors or omissions or for any consequences from application of the
+information in this book and make no warranty, expressed or implied, with respect to
+the currency, completeness, or accuracy of the contents of the publication. Application
+of the information in a particular situation remains the professional responsibility of the
+practitioner.
+The authors, editors, and publisher have exerted every effort to ensure that drug
+selection and dosage set forth in this text are in accordance with current recommenda-
+tions and practice at the time of publication.However,in view of ongoing research,changes
+in government regulations, and the constant flow of information relating to drug therapy
+and drug reactions, the reader is urged to check the package insert for each drug for any
+change in indications and dosage and for added warnings and precautions.This is particu-
+larly important when the recommended agent is a new or infrequently employed drug.
+Some drugs and medical devices presented in the publication have Food and Drug
+Administration (FDA) clearance for limited use in restricted research settings. It is the
+responsibility of the health care provider to ascertain the FDA status of each drug or
+device planned for use in their clinical practice.
+To purchase additional copies of this book, call our customer service department at
+(800) 638-3030 or fax orders to (301) 223-2320. International customers should call
+(301) 223-2300.
+Visit Lippincott Williams & Wilkins on the Internet: at LWW.com. Lippincott Williams
+& Wilkins customer service representatives are available from 8:30 am to 6 pm, EST.
+10 9 8 7 6 5 4 3 2 1
+
+--- Fim da Página 4 ---
+
+CONTENTS
+Contributing Authors
+vi
+Foreword
+ix
+Preface
+x
+CARDIOLOGY
+Rajat Gupta,Viviany R.Taqueti, David M. Dudzinski, Rory B.Weiner,
+Michelle O’Donoghue, Marc S. Sabatine
+Electrocardiography
+1-1
+Chest Pain
+1-3
+Noninvasive Evaluation of CAD
+1-4
+Coronary Angiography and Revascularization
+1-5
+Acute Coronary Syndromes
+1-6
+PA Catheter and Tailored Therapy
+1-12
+Heart Failure
+1-14
+Cardiomyopathies
+1-17
+Valvular Heart Disease
+1-20
+Pericardial Disease
+1-25
+Hypertension
+1-28
+Aortic Aneurysm
+1-30
+Acute Aortic Syndromes
+1-31
+Arrhythmias
+1-32
+Atrial Fibrillation
+1-35
+Syncope
+1-37
+Intracardiac Devices
+1-39
+Cardiac Risk Assessment for Noncardiac Surgery
+1-40
+PULMONARY
+Mary Berlik Rice, Kathryn A. Hibbert,Atul Malhotra
+Dyspnea
+2-1
+Pulmonary Function Tests (PFTs)
+2-1
+Asthma
+2-2
+Chronic Obstructive Pulmonary Disease
+2-5
+Hemoptysis
+2-7
+Solitary Pulmonary Nodule
+2-7
+Obstructive Sleep Apnea (OSA)
+2-8
+Interstitial Lung Disease
+2-9
+Pleural Effusion
+2-11
+Venous Thromboembolism (VTE)
+2-13
+Pulmonary Hypertension (PHT)
+2-16
+Respiratory Failure
+2-18
+Mechanical Ventilation
+2-19
+Acute Respiratory Distress Syndrome
+2-22
+Sepsis
+2-23
+GASTROENTEROLOGY
+Louis J. Cohen,Andrew S. de Lemos, Lawrence S. Friedman
+Esophageal and Gastric Disorders
+3-1
+Gastrointestinal Bleeding
+3-3
+Diarrhea, Constipation, and Ileus
+3-5
+Diverticular Disease
+3-9
+Inflammatory Bowel Disease
+3-10
+
+--- Fim da Página 5 ---
+
+Intestinal Ischemia
+3-12
+Pancreatitis
+3-13
+Abnormal Liver Tests
+3-15
+Hepatitis
+3-17
+Acute Liver Failure
+3-20
+Cirrhosis
+3-21
+Hepatic Vascular Disease
+3-25
+Ascites
+3-26
+Biliary Tract Disease
+3-27
+NEPHROLOGY
+Andrew L. Lundquist, Eugene P. Rhee, Hasan Bazari
+Acid-Base Disturbances
+4-1
+Sodium and Water Homeostasis
+4-6
+Potassium Homeostasis
+4-10
+Renal Failure
+4-12
+Glomerular Disease
+4-16
+Urinalysis
+4-18
+Nephrolithiasis
+4-19
+HEMATOLOGY-ONCOLOGY
+Andrew J. Aguirre, Franklin W. Huang, David B. Sykes, David T. Ting,
+Daniel J. DeAngelo, David P. Ryan
+Anemia
+5-1
+Disorders of Hemostasis
+5-6
+Platelet Disorders
+5-7
+Coagulopathies
+5-10
+Hypercoagulable States
+5-11
+Disorders of Leukocytes
+5-12
+Transfusion Therapy
+5-13
+Myelodysplastic Syndromes (MDS)
+5-14
+Myeloproliferative Neoplasms (MPN)
+5-15
+Leukemia
+5-17
+Lymphoma
+5-21
+Plasma Cell Dyscrasias
+5-24
+Hematopoietic Stem Cell Transplantation (HSCT)
+5-26
+Lung Cancer
+5-28
+Breast Cancer
+5-30
+Prostate Cancer
+5-32
+Colorectal Cancer (CRC)
+5-33
+Pancreatic Tumors
+5-35
+Oncologic Emergencies
+5-36
+Cancer of Unknown Primary Site
+5-37
+INFECTIOUS DISEASES
+Roby P. Bhattacharyya, Rachel P. Simmons, Nesli Basgoz
+Pneumonia
+6-1
+Fungal Infections
+6-3
+Infections in Susceptible Hosts
+6-4
+Urinary Tract Infections (UTI)
+6-5
+Soft Tissue and Bone Infections
+6-6
+Infections of the Nervous System
+6-9
+Bacterial Endocarditis
+6-12
+Tuberculosis
+6-15
+
+--- Fim da Página 6 ---
+
+HIV/AIDS
+6-17
+Tick-Borne Diseases
+6-21
+Fever of Unknown Origin (FUO)
+6-23
+ENDOCRINOLOGY
+Alaka Ray, Geoffrey A.Walford, Michael Mannstadt
+Pituitary Disorders
+7-1
+Disorders of Multiple Endocrine Systems
+7-2
+Thyroid Disorders
+7-3
+Adrenal Disorders
+7-7
+Calcium Disorders
+7-11
+Diabetes Mellitus
+7-13
+Lipid Disorders
+7-16
+RHEUMATOLOGY
+Gwen C. Crevensten, Katherine P. Liao, Robert P. Friday
+Arthritis—Overview
+8-1
+Rheumatoid Arthritis (RA)
+8-3
+Relapsing Polychondritis
+8-4
+Crystal Deposition Arthritides
+8-5
+Seronegative Spondyloarthritis
+8-7
+Infectious Arthritis & Bursitis
+8-9
+Connective Tissue Diseases
+8-11
+Systemic Lupus Erythematosus (SLE)
+8-15
+Vasculitis
+8-17
+Cryoglobulinemia
+8-21
+Amyloidosis
+8-22
+NEUROLOGY
+David Y. Hwang,Atul Maheshwari, Mikael L. Rinne, David M. Greer
+Change in Mental Status
+9-1
+Seizures
+9-3
+Alcohol Withdrawal
+9-5
+Stroke
+9-6
+Weakness & Neuromuscular Dysfunction
+9-8
+Headache
+9-10
+Back and Spinal Cord Disease
+9-11
+APPENDIX
+ACLS Algorithms
+10-1
+ICU Medications
+10-4
+Antibiotics
+10-6
+Formulae and Quick Reference
+10-7
+ABBREVIATIONS
+11-1
+INDEX
+I-1
+PHOTO INSERTS
+Radiology
+P-1
+Echocardiography
+P-9
+Coronary Angiography
+P-13
+Peripheral Blood Smears
+P-13
+Leukemias
+P-14
+Urinalysis
+P-15
+
+--- Fim da Página 7 ---
+
+CONTRIBUTING AUTHORS
+Andrew J. Aguirre, MD, PhD
+Internal Medicine Resident, Massachusetts General Hospital
+Nesli Basgoz, MD
+Associate Chief and Clinical Director, Infectious Disease Division,
+Massachusetts General Hospital
+Associate Professor of Medicine, Harvard Medical School
+...
+
+Por favor, forneça um resumo estruturado e bem organizado.

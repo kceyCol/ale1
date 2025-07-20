@@ -1,0 +1,6252 @@
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+TRÁFEGO AÉREO 
+ 
+MCA 100-11 
+PREENCHIMENTO DOS FORMULÁRIOS DE 
+PLANO DE VOO 
+2020 
+
+--- Fim da Página 1 ---
+
+
+--- Fim da Página 2 ---
+
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+TRÁFEGO AÉREO 
+ 
+MCA 100-11 
+PREENCHIMENTO DOS FORMULÁRIOS DE 
+PLANO DE VOO 
+2020 
+
+--- Fim da Página 3 ---
+
+
+--- Fim da Página 4 ---
+
+ 
+ 
+MINISTÉRIO DA DEFESA 
+COMANDO DA AERONÁUTICA 
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO 
+PORTARIA DECEA No 267/DGCEA, DE 13 DE NOVEMBRO DE 2020. 
+Aprova a reedição do MCA 100-11, 
+Manual 
+sobre 
+“Preenchimento 
+dos 
+Formulários de Plano de Voo”. 
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO 
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura 
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de 
+2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado 
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve: 
+Art  1o Aprovar a reedição do MCA 100-11, “Preenchimento dos Formulários 
+de Plano de Voo”, que com esta baixa. 
+Art.  2o Esta Portaria entra em vigor em 1º de dezembro de 2020. 
+Art.  3o Revoga-se a Portaria DECEA nº 80/DGCEA, de 6 de julho de 2017, 
+publicada no Boletim do Comando da Aeronáutica nº 125, de 24 de julho de 2017. 
+Ten Brig Ar HERALDO LUIZ RODRIGUES 
+Diretor-Geral do DECEA 
+ 
+(Publicado no BCA no 210, de 19 de Novembro de 2020)  
+
+--- Fim da Página 5 ---
+
+
+--- Fim da Página 6 ---
+
+MCA 100-11/2020 
+ 
+SUMÁRIO 
+1  DISPOSIÇÕES PRELIMINARES ..................................................................................... 9 
+1.1  FINALIDADE ..................................................................................................................... 9 
+1.2  ÂMBITO .............................................................................................................................. 9 
+1.3  ABREVIATURAS E SIGLAS ............................................................................................ 9 
+1.4  PROCEDIMENTOS GERAIS ........................................................................................... 11 
+1.5  CONCEITUAÇÕES .......................................................................................................... 11 
+2  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO COMPLETO ................................................................................................................. 13 
+2.1  GENERALIDADES .......................................................................................................... 13 
+2.2  PROCEDIMENTOS PARA INSERÇÃO DE DADOS ..................................................... 13 
+3  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO SIMPLIFICADO .......................................................................................................... 37 
+3.1  GENERALIDADES .......................................................................................................... 37 
+3.2  PROCEDIMENTOS PARA INSERÇÃO DOS DADOS .................................................. 37 
+4  INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO REPETITIVO ............................................................................................................... 38 
+4.1  GENERALIDADES .......................................................................................................... 38 
+4.2  PROCEDIMENTOS PARA INSERÇÃO DOS DADOS .................................................. 38 
+5  DISPOSIÇÕES FINAIS ..................................................................................................... 42 
+    REFERÊNCIAS ................................................................................................................. 43 
+    Anexo A - Formulário de Plano de Voo Completo .......................................................... 44 
+    Anexo B - Formulário de Plano de Voo Simplificado ..................................................... 45 
+    Anexo C - Formulário de Plano de Voo Repetitivo ......................................................... 46 
+    Anexo D - 1º Exemplo de Formulário de Plano de Voo Completo Preenchido ............ 47 
+    Anexo E - 2º Exemplo de Formulário de Plano de Voo Completo Preenchido ............ 48 
+    Anexo F - 3º Exemplo de Formulário de Plano de Voo Completo Preenchido ............. 49 
+
+--- Fim da Página 7 ---
+
+
+--- Fim da Página 8 ---
+
+MCA 100-11/2020 
+PREFÁCIO 
+Esta publicação foi reeditada com o objetivo de: 
+a) implementar a Emenda 9 ao Documento 4444 (PANS-ATM) da OACI 
+no que se refere à inserção da categoria SUPER (J) de aeronave em 
+termos de esteira de turbulência; 
+b) contemplar a informação da certeza de decolagem (RMK/DEP CFM) 
+para aeronave que decolar de aeródromo desprovido de órgão ATS com 
+destino a aeródromo provido de órgãos ATS, caso o piloto deseje 
+assegurar a prestação do Serviço de Alerta; e 
+c) possibilitar o tratamento especial por parte do Órgão ATS para 
+aeronaves que transportam radiofármacos.  
+ 
+
+--- Fim da Página 9 ---
+
+
+--- Fim da Página 10 ---
+
+MCA 100-11/2020 
+1 DISPOSIÇÕES PRELIMINARES 
+1.1 FINALIDADE 
+Este Manual tem por finalidade estabelecer os procedimentos referentes ao 
+preenchimento dos formulários de Plano de Voo, em complemento ao disposto na ICA 100-11 
+(Plano de Voo) e de acordo com as disposições da OACI.  
+1.2 ÂMBITO 
+O constante neste Manual, de observância obrigatória, aplica-se aos usuários do 
+espaço aéreo sob jurisdição do Brasil e aos Órgãos operacionais do SISCEAB. 
+1.3 ABREVIATURAS E SIGLAS  
+ACC 
+- Centro de Controle de Área 
+ACFT 
+- Aeronave 
+ADF 
+- Equipamento Radiogoniométrico Automático 
+ADS-B 
+- Vigilância Dependente Automática – Radiodifusão 
+ADS-C 
+- Vigilância Dependente Automática – Contrato 
+AFIL 
+- Plano de Voo Apresentado em Voo 
+AIS 
+- Serviço de Informação Aeronáutica 
+ALTN 
+- Alternativa 
+APV 
+- Procedimento de Aproximação com Guia Vertical 
+ATFM 
+- Gerenciamento de Fluxo de Tráfego Aéreo 
+ATS 
+- Serviço de Tráfego Aéreo 
+CFM 
+- Confirmo 
+COM 
+- Comunicações 
+CPDLC 
+- Comunicação entre Controlador e Piloto por Enlace de Dados 
+DAT 
+- Aplicação ou capacidade de Dados / Declaração de Arrecadação Tarifária 
+DCT 
+- Direto 
+DEFC 
+- Defesa Civil 
+DEP 
+- Partida 
+DEST 
+- Destino 
+DLE 
+- Atraso em Rota 
+DME 
+- Equipamento Radiotelemétrico 
+DOF 
+- Data de Partida de Voo 
+EET 
+- Duração Prevista de Voo 
+EOBT 
+- Hora Estimada de Calços Fora 
+ELT 
+- Transmissor Localizador de Emergência  
+FANS 
+- Sistema de Navegação Aérea do Futuro 
+FIZ 
+- Zona de Informação de Voo 
+FIR 
+- Região de Informação de Voo 
+FPL 
+- Mensagem de Plano de Voo Apresentado 
+GBAS 
+- Sistema de Aumentação Baseado no Solo 
+GNSS 
+- Sistema Global de Navegação por Satélite 
+HF 
+- Frequência Alta 
+HFDL 
+- Enlace de Dados Utilizando Alta Frequência 
+IFR 
+- Regras de Voo por Instrumento 
+ILS 
+- Sistema de Pouso por Instrumentos 
+INMARSAT 
+- Sistema Internacional de Comunicações Móveis por Satélite 
+
+--- Fim da Página 11 ---
+
+10/49 
+MCA 100-11/2020 
+ 
+INS 
+- Sistema de Navegação Inercial 
+INSV 
+- Inspeção em Voo 
+LORAN 
+- Sistema de Navegação Aérea de Longo Alcance 
+LPV 
+- Desempenho do Localizador com Guia Vertical 
+MTSAT 
+- Satélite de Transporte Multifuncional 
+MNPS 
+- Especificações de Performance Mínimas de Navegação 
+MLS 
+- Microwave Landing System 
+MSL 
+- Nível Médio de Mar 
+MET 
+- Meteorologia 
+NAV 
+- Navegação 
+NDB 
+- Radiofarol Não Direcional 
+NM 
+- Milhas Náuticas 
+OACI 
+- Organização de Aviação Civil Internacional 
+ORGN 
+- Originador  
+OPR 
+- Operador (Explorador) 
+PANS 
+- Procedimentos dos Serviços de Navegação Aérea 
+PBC 
+- Comunicação Baseada em Performance 
+PBN 
+- Navegação Baseada em Performance 
+PBS 
+- Vigilância Baseada em Performance 
+PDC 
+- Carta de Estacionamento de Aeronave 
+PER 
+- Performance  
+PLN 
+- Plano de Voo 
+PVC 
+- Plano de Voo Completo 
+PVS 
+- Plano de Voo Simplificado 
+POB 
+- Pessoas a Bordo 
+RALT 
+- Aeródromo de Alternativa em Rota 
+RBAC 
+- Regulamento Brasileiro de Aviação Civil  
+RCP 
+- Performance de Comunicação Requerida 
+RDO 
+- Rádio 
+REA 
+- Rota Especial para Aeronaves 
+REG  
+- Registro 
+REH  
+- Rota Especial para Helicópteros 
+RIF 
+- Renovação da Autorização em Voo 
+RMK 
+- Observação 
+RNAV 
+- Rota de Navegação de Área 
+RNP 
+- Performance de Navegação Requerida 
+RPL 
+- Plano de Voo Repetitivo 
+RSP 
+- Performance de Vigilância Requerida 
+RTF 
+- Radiotelefonia 
+RVSM 
+- Separação Vertical Mínima Reduzida 
+SATCOM 
+- Comunicação por Satélite 
+SBAS 
+- Sistema de Aumentação Baseado em Satélite 
+SAR 
+- Busca e Salvamento 
+SEGP 
+- Segurança Pública 
+SELCAL 
+- Sistema de Chamada Seletiva 
+SISCEAB 
+- Sistema de Controle do Espaço Aéreo Brasileiro 
+SSB 
+- Banda Lateral Única 
+SSR 
+- Código Transponder ou Radar Secundário 
+STS 
+- Tratamento Especial pelo ATS 
+SUR 
+- Capacidade de Vigilância 
+
+--- Fim da Página 12 ---
+
+MCA 100-11/2020 
+11/49 
+ 
+TACAN 
+- Auxílio à Navegação Aérea Tática em UHF 
+TAS 
+- Velocidade Verdadeira 
+TALT 
+- Aeródromo de Alternativa Pós-decolagem 
+TBN 
+- A Ser Notificado 
+TMA 
+- Área de Controle Terminal 
+TREN 
+- Transporte de Enfermo 
+TROV 
+- Transporte de Órgão Vital 
+TYP 
+- Tipo de Aeronave 
+UHF 
+- Frequência Ultra-Alta 
+UTC 
+- Tempo Universal Coordenado 
+Vat 
+- Velocidade de cruzamento sobre a cabeceira durante o pouso 
+VDL 
+- Enlace de dados utilizando a frequência muito alta 
+VFR 
+- Regras de Voo Visual 
+VHF 
+- Frequência Muito Alta 
+VMC 
+- Condições Meteorológicas de Voo Visual 
+VOR 
+- Radiofarol Onidirecional em VHF 
+1.4 PROCEDIMENTOS GERAIS 
+1.4.1 Ao apresentar pessoalmente o formulário de Plano de Voo em uma Sala AIS ou em um 
+Órgão ATS, o piloto ou o despachante operacional de voo poderá fazê-lo em duas vias, as quais 
+terão destino particular, a saber: 
+1ª via – Sala AIS ou Órgão dos serviços de tráfego aéreo; e 
+2ª via – Piloto ou o despachante operacional de voo (opcional). 
+1.4.2 No preenchimento dos formulários de Plano de Voo, deve-se observar os seguintes 
+procedimentos: 
+a) os dados devem ser inseridos no primeiro espaço e, quando houver espaços 
+em excesso, estes devem ser mantidos em branco, em conformidade com os 
+formatos previstos neste Manual; 
+b) os dados devem ser digitados ou preenchidos com caneta azul ou preta e sem 
+rasuras; 
+c) a hora utilizada será UTC; e 
+d) as durações previstas de voo devem ser preenchidas com 4 (quatro) 
+algarismos (horas e minutos). 
+1.5 CONCEITUAÇÕES 
+1.5.1 MARCA COMUM 
+Marca atribuída pela OACI para uma autoridade de registro de marca comum, 
+que registra aeronave de uma agência operadora internacional, com uma marca diferente de 
+uma base nacional. 
+NOTA: Isso ocorre quando, para um conjunto de países pequenos e vizinhos, é atribuída uma 
+marca única de matrícula, que será utilizada no registro das aeronaves desses países, 
+sem especificar exatamente em qual deles a aeronave foi registrada. 
+
+--- Fim da Página 13 ---
+
+12/49 
+MCA 100-11/2020 
+ 
+1.5.2 MARCA DE MATRÍCULA 
+Grupo de caracteres identificadores de uma aeronave civil, próprio de sua 
+nacionalidade e decorrente de seu registro. 
+1.5.3 MARCA DE NACIONALIDADE 
+Grupo de caracteres estabelecidos pela Organização de Aviação Civil 
+Internacional (OACI) para identificar a nacionalidade da aeronave civil. 
+1.5.4 PONTO SIGNIFICATIVO 
+Lugar geográfico específico que é usado para definir uma rota ATS ou a 
+trajetória de voo de uma aeronave, bem como para outros fins relacionados à navegação aérea 
+e aos Serviços de Tráfego Aéreo. 
+NOTA: Existem três categorias de pontos significativos: auxílio terrestre à navegação, 
+interseção e “waypoint”. No contexto desta definição, interseção é um ponto 
+significativo referenciado em radiais, proas e/ou distâncias com respeito aos auxílios 
+terrestres à navegação. 
+
+--- Fim da Página 14 ---
+
+MCA 100-11/2020 
+13/49 
+ 
+2 INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO COMPLETO 
+2.1 GENERALIDADES 
+2.1.1 O formulário deve ser apresentado com os itens de 7 a 19 devidamente preenchidos. 
+2.1.2 O espaço sombreado que precede o item 3 é para uso exclusivo dos Órgãos AIS e ATS. 
+PLANO DE VOO 
+  FLIGHT PLAN 
+ 
+ PRIORIDADE 
+ Priority 
+  DESTINATÁRIO (S) 
+  Addressee(s) 
+ 
+   FF → 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+HORA DE APRESENTAÇÃO 
+Filing Time 
+ 
+  REMETENTE 
+  Originator 
+ 
+    |   
+|           |            |            →   |       |       |        |        |         |         |    
+
+ 
+ 
+ IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S) E/OU REMETENTE 
+ Specific Identification of addressee(s) and/or originator 
+ 
+ 
+2.2 PROCEDIMENTOS PARA INSERÇÃO DE DADOS 
+2.2.1 ITEM 7: IDENTIFICAÇÃO DA AERONAVE 
+Inserir uma das seguintes identificações de aeronave, não excedendo 7 (sete) 
+caracteres alfanuméricos, sem hifens ou símbolos: 
+a) o designador telegráfico OACI da empresa seguido do número do voo (por 
+exemplo: NGA213, GLO1866); 
+Exemplo: 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+⎯ 
+ G | L | O | 1 | 8 | 6  | 6 
+ 
+ 
+⎯ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+b) a marca de nacionalidade (N, PR, PT) ou a marca comum (4YB) e a marca de 
+matrícula (256GA, ERR, RTT, CBD) da aeronave, por exemplo:  N256GA, 
+PR ERR, PT RBA, 4YBCBD, quando: 
+- o designador de chamada telefônico que for usado pela aeronave consistir 
+somente nesta identificação (exemplo: CGAJS); 
+- aeronave não equipada com rádio; e 
+Exemplo:  
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+⎯ 
+ P | T| R | B | A |     | 
+ 
+ 
+⎯ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+c) qualquer outro designador oficial de matrícula. 
+Exemplo: 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+⎯ 
+ F | A | B | 2 | 5 |  0  | 6 
+ 
+ 
+⎯ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+NOTA: Excepcionalmente, no caso em que o indicativo de chamada a ser utilizado em 
+radiotelefonia ultrapassar 7 (sete) caracteres, o piloto deve inserir a marca de 
+nacionalidade ou a marca comum e a marca de matrícula da aeronave ou outro 
+designador oficial de matrícula neste ITEM e no ITEM 18, o indicador RMK/ seguido 
+do indicativo de chamada a ser utilizado, conforme 2.2.8.1.21, letra “f”). 
+
+--- Fim da Página 15 ---
+
+14/49 
+MCA 100-11/2020 
+ 
+2.2.2 ITEM 8: REGRAS E TIPO DE VOO 
+2.2.2.1 Regras de voo (1 caractere) 
+Inserir uma das seguintes letras para indicar a regra de voo que o piloto se propõe 
+a observar: 
+I - para IFR, quando se pretende que o voo seja conduzido totalmente IFR; 
+V - para VFR, quando se pretende que o voo seja conduzido totalmente VFR; 
+Y - quando se pretende que o voo inicialmente seja conduzido IFR, seguido 
+por uma ou mais mudanças subsequentes das regras de voo; ou 
+Z - quando se pretende que o voo inicialmente seja conduzido VFR, seguido 
+por uma ou mais mudanças subsequentes das regras de voo. 
+Exemplo: 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+⎯ 
+  
+    |     |     |     |     |     |      
+ 
+ 
+⎯ 
+I  
+ 
+ 
+ 
+ 
+  
+NOTA: No caso de utilização de Y ou Z, o piloto deve inserir, no ITEM 15, os pontos de 
+mudança de regra de voo, observando o disposto em 2.2.6.3.5 e NOTA do 2.2.8.1.18. 
+2.2.2.2 Tipo de voo (1 caractere) 
+Inserir uma das seguintes letras para indicar o tipo de voo: 
+S - transporte aéreo regular; 
+N - transporte aéreo não regular; 
+G - aviação geral; 
+M - aeronave militar; ou 
+X - distinto dos indicados acima. 
+Exemplo: 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+⎯ 
+  
+    |     |     |     |     |     |      
+ 
+ 
+⎯ 
+ 
+ 
+ 
+ 
+ 
+S   
+2.2.3 ITEM 9: NÚMERO E TIPO DE AERONAVES E CATEGORIA DA ESTEIRA DE 
+TURBULÊNCIA 
+2.2.3.1 Número de aeronaves (1 ou 2 caracteres) 
+Inserir a quantidade de aeronaves quando se tratar de voo em formação. 
+Exemplo: 
+ 
+9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E CAPACIDADES 
+Equipment and Capabilities 
+ 
+⎯ 
+4|  
+ 
+ 
+       |        |        |         
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+                   /    
+  
+2.2.3.2 Tipo de aeronave (2 a 4 caracteres) 
+Inserir o designador apropriado, baseado no Doc. 8643 (Aircraft Type 
+Designators) 
+da 
+OACI, 
+disponível 
+no 
+seguinte 
+endereço 
+da 
+Internet 
+http://www.icao.int/publications/DOC8643/Pages/Search.aspx; ou  
+ 
+ 
+
+--- Fim da Página 16 ---
+
+MCA 100-11/2020 
+15/49 
+ 
+Exemplo 1: 
+ 
+9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E 
+CAPACIDADESErro! Indicador não 
+definido. 
+Equipment and Capabilities 
+ 
+⎯ 
+  
+     |  
+ 
+ 
+E | 1 | 1 | 0 
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+                   /    
+  
+ZZZZ, quando não houver designador estabelecido, bem como no caso de voo 
+em formação que compreenda mais de um tipo ou, ainda, se tratando de um designador 
+específico de aeronave militar. Exemplo: C130E, KC130, P95B. 
+Exemplo 2: 
+ 
+9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E 
+CAPACIDADESErro! Indicador não 
+definido. 
+E
+i
+t
+d C
+it
+ 
+⎯ 
+  
+     |  
+ 
+ 
+Z | Z | Z | Z 
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+                   /    
+  
+NOTA: Quando for registrado ZZZZ, indicar o tipo da aeronave no ITEM 18, precedido de 
+TYP/, conforme 2.2.8.1.13. 
+2.2.3.3 Categoria da esteira de turbulência (1 caractere) 
+Inserir a esteira de turbulência usando a codificação abaixo: 
+J – SUPER, para indicar um tipo especificado de aeronave conforme Documento 
+8643 (Aircraft Type Designators) da OACI;  
+H – PESADA, para indicar um tipo de aeronave de peso máximo de decolagem 
+certificado, de 136.000kg ou mais, com exceção dos tipos de aeronaves 
+listados no Documento 8643 da OACI como categoria SUPER (J); 
+M – MÉDIA, para indicar um tipo de aeronave de peso máximo de decolagem 
+certificado, inferior a 136.000kg e superior a 7.000kg; ou 
+L – LEVE, para indicar um tipo de aeronave de peso máximo de decolagem 
+certificado, de 7.000kg ou menos. 
+NOTA: O Documento. 8643 (Aircraft Type Designators) da OACI está disponível no seguinte 
+endereço da Internet http://www.icao.int/publications/DOC8643/Pages/Search.aspx. 
+Exemplo: 
+ 
+9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E 
+CAPACIDADESErro! Indicador não 
+definido. 
+E
+i
+d C
+bili i
+ 
+⎯ 
+  
+     |  
+ 
+ 
+ 
+      |     |         |    
+ 
+ 
+/ 
+M  
+ 
+ 
+⎯ 
+                   /    
+  
+2.2.4 ITEM 10: EQUIPAMENTO E CAPACIDADES 
+2.2.4.1 As capacidades abrangem os seguintes elementos: 
+a) a presença de equipamento pertinente em funcionamento a bordo da 
+aeronave; 
+b) equipamento e capacidades compatíveis com as qualificações da tripulação 
+de voo; e 
+c) a aprovação correspondente da autoridade competente, quando aplicável. 
+2.2.4.2 Equipamento e capacidades de radiocomunicações, de auxílios à navegação e à 
+aproximação. 
+2.2.4.2.1 Inserir, no lado esquerdo do campo, uma das seguintes letras: 
+a) N – se a aeronave não dispuser de equipamento de radiocomunicações, de 
+auxílio à navegação e à aproximação exigidos para a rota considerada 
+ou se estes não funcionarem; ou 
+ 
+
+--- Fim da Página 17 ---
+
+16/49 
+MCA 100-11/2020 
+ 
+b) S – se a aeronave dispuser dos equipamentos padronizados de 
+radiocomunicações, de auxílios à navegação e à aproximação exigidos 
+para a rota considerada e estes funcionarem. (Vide 2.2.4.2.5). 
+2.2.4.2.2 Inserir, em complemento ou substituição ao previsto em “b” anterior, uma ou mais 
+das seguintes letras, quando necessário, para indicar os equipamentos e as capacidades 
+COM/NAV e os auxílios à navegação e à aproximação disponíveis, em funcionamento. 
+A 
+Sistema de pouso GBAS  
+B 
+LPV (APV com SBAS) 
+C 
+LORAN C 
+D 
+DME 
+E1 
+FMC WPR ACARS  
+E2 
+D-FIS ACARS 
+E3 
+PDC ACARS  
+F 
+ADF 
+G 
+(GNSS) Se qualquer porção do voo 
+estiver planejado para ser conduzido sob 
+IFR, refere-se aos receptores GNSS que 
+atendem aos requisitos constantes em 
+legislação específica (vide 2.2.4.2.4) 
+H 
+HF RTF  
+I 
+Navegação inercial  
+J1 
+CPDLC ATN VDL  Modo 2 
+J2 
+CPDLC FANS 1/A HFDL 
+J3 
+CPDLC FANS 1/A VDLModo A 
+J4 
+CPDLC FANS 1/A VDL Modo 2 
+J5 
+CPDLC 
+FANS 
+1/A 
+SATCOM 
+(INMARSAT) 
+J6 
+CPDLC FANS 1/A SATCOM (MTSAT) 
+J7 
+CPDLC FANS 1/A SATCOM 
+(Iridium) 
+K 
+MLS 
+L  
+ ILS 
+M1 
+ATC SATVOICE  (INMARSAT) 
+M2  
+ATC SATVOICE (MTSAT) 
+M3 
+ATC SATVOICE (Iridium) 
+O 
+VOR  
+P1 
+CPDLC RCP 400 
+P2  
+CPDLC RCP 240 
+P3  
+SATVOICE RCP 400 
+P4-P9  Reserved for RCP 
+R 
+Aprovado PBN  (vide 2.2.4.2.6) 
+T 
+TACAN  
+U 
+UHF RTF 
+V 
+VHF RTF 
+W 
+Aprovado RVSM  
+X 
+Aprovado MNPS 
+Y 
+VHF 
+com 
+capacidade 
+de 
+separação de canais de 8,33 KHz 
+Z 
+Outro equipamento transportado 
+ou outras 
+capacidades 
+(vide 
+2.2.4.2.3) 
+Exemplo:  
+ 
+9  NÚMERO 
+Number 
+ 
+ TIPO DE AERONAVE 
+ Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E 
+CAPACIDADESErro! Indicador não 
+definido. 
+E
+i
+t
+d C
+biliti
+ 
+⎯   | 
+ 
+ 
+       |         |         |         
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+ DGIJ1RWXYZ /    
+  
+2.2.4.2.3 Se for utilizada a letra Z, devem ser especificados, no ITEM 18, quaisquer outros tipos 
+de equipamento transportados ou outras capacidades, precedido de COM/, NAV/ e/ou DAT/, 
+conforme o caso (ver 2.2.8.1.3, 2.2.8.1.4 e 2.2.8.1.5). 
+2.2.4.2.4 Se for usada a letra G, os tipos de aumentação GNSS externa, se houver, são indicados 
+no item 18 depois do indicador NAV/ e são separados por um espaço. 
+2.2.4.2.5 Se for usada a letra S, os equipamentos VHF RTF, VOR e ILS são considerados 
+padronizados, a menos que outra combinação seja prescrita pela autoridade ATS apropriada. 
+2.2.4.2.6 Se for usada a letra R, os níveis de navegação baseados na performance que podem 
+ser alcançados serão especificados no item 18 após o indicador PBN/. 
+ 
+
+--- Fim da Página 18 ---
+
+MCA 100-11/2020 
+17/49 
+ 
+NOTA: A informação sobre a capacidade de navegação é proporcionada ao ATC para efeito 
+de autorização e ordenamento de tráfego. 
+2.2.4.3 Equipamento e capacidades de vigilância  
+2.2.4.3.1 Equipamento SSR 
+2.2.4.3.1.1 Inserir, no lado direito do ITEM, um ou mais dos seguintes designadores, até um 
+máximo de 20 caracteres, para indicar o tipo de equipamento e/ou capacidades de vigilância em 
+funcionamento instalados na aeronave. 
+2.2.4.3.1.2 Inserir a letra N, se não houver equipamento de vigilância a bordo para a rota a ser 
+voada ou o equipamento estiver inoperante. 
+2.2.4.3.2 SSR nos Modos A e C 
+A – transponder Modo A (4 dígitos – 4096 códigos); 
+C – transponder Modo A (4 dígitos – 4096 códigos) e Modo C. 
+2.2.4.3.3 SSR em Modo S 
+E – transponder Modo S, compreendendo a identificação da aeronave, a altitude 
+pressão e a capacidade dos sinais espontâneos ampliados (ADS-B); 
+H – transponder Modo S, compreendendo a identificação da aeronave, a 
+altitude pressão e a capacidade de vigilância melhorada;  
+I – transponder Modo S, com a identificação da ACFT, porém sem a 
+capacidade de altitude pressão;  
+L – transponder Modo S, compreendendo a identificação da aeronave, a 
+altitude pressão, a capacidade dos sinais espontâneos ampliados (ADS-B) 
+e a capacidade de vigilância melhorada; 
+P – transponder Modo S, com a altitude pressão, porém sem a capacidade de 
+identificação da ACFT; 
+S – transponder Modo S, com a altitude pressão e a capacidade de 
+identificação da ACFT; ou 
+X – transponder Modo S, sem a identificação da ACFT e sem capacidade de 
+altitude pressão. 
+NOTA: A capacidade de vigilância melhorada é a capacidade que a aeronave possui para 
+transmitir certos dados do voo, por meio de enlace ar-terra, via transponder Modo S. 
+Exemplo: DGIJ1RWXYZ/S 
+ 
+ 9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E 
+CAPACIDADESErro! Indicador não 
+definido. 
+Equipment and Capabilities
+ 
+⎯ 
+   | 
+ 
+ 
+       |         |         |         
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+DGIJRWXYZ / S   
+     
+2.2.4.3.4 Equipamento ADS 
+2.2.4.3.4.1 ADS-B 
+B1 – ADS-B com capacidade especializada ADS-B “out” de 1090 MHz; 
+B2 – ADS-B com capacidade especializada ADS-B “out” e “in” de 1090 MHz; 
+U1 – Capacidade ADS-B “out” usando UAT; 
+ 
+
+--- Fim da Página 19 ---
+
+18/49 
+MCA 100-11/2020 
+ 
+U2 – Capacidade ADS-B “out” e “in” usando UAT; 
+V1 – Capacidade ADS-B “out” usando VDL, em modo 4; ou 
+V2 – Capacidade ADS-B “out” e “in” usando VDL, em modo 4. 
+2.2.4.3.4.2 ADS-C 
+D1 – ADS-C com capacidades FANS 1/A; ou 
+G1 – ADS-C com capacidades ATN. 
+NOTA: Os caracteres alfanuméricos que não estão indicados acima são reservados. 
+Exemplo 1: DGIJ1RWXYZ/SB2G1    
+ 
+ 9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E CAPACIDADES 
+Equipment and Capabilities 
+ 
+⎯ 
+   | 
+ 
+ 
+       |         |         |         
+ 
+ 
+/ 
+ 
+ 
+ 
+ 
+⎯ 
+DGIJ1RWXYZ/SB2G1 
+    
+Exemplo2: DE3RV/HB2G1 
+ 
+9  NÚMERO 
+Number 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO E CAPACIDADES 
+Equipment and Capabilities 
+ 
+⎯    | 
+ 
+ 
+       |         |         |          
+ 
+/ 
+ 
+ 
+ 
+ ⎯ 
+ DE3RV/HB2G1 
+      
+2.2.4.4 As especificações RSP, se aplicáveis, serão listados no Item 18, após o indicador SUR/. 
+2.2.4.5 Equipamentos ou capacidades de vigilância adicionais serão listados no item 18, após o 
+indicador SUR/, conforme previsto nas normas do DECEA. 
+2.2.5 ITEM 13: AERÓDROMO DE PARTIDA E HORA 
+2.2.5.1 Aeródromo de partida (4 caracteres)  
+Inserir o indicador de localidade do aeródromo de partida definido pela 
+autoridade competente, de quatro caracteres, ou, se não for atribuído indicador de localidade, 
+inserir ZZZZ e especificar, por meio do indicador DEP/ no Item 18, a localidade de partida. 
+Exemplo: 
+ 
+ 
+13 AERÓDROMO DE PARTIDA 
+Departure Aerodrome 
+ 
+HORA 
+Time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ 
+S | B| E | G 
+ 
+ 
+       |         |         |         
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.5.2 Hora (4 caracteres) 
+Inserir a hora estimada de calços fora (EOBT), para o Plano de Voo apresentado 
+antes da partida, ou a hora real de decolagem para o caso de AFIL. 
+Exemplo: 
+ 
+ 
+13 AERÓDROMO DE PARTIDA 
+Departure Aerodrome 
+ 
+HORA 
+Time 
+ 
+ 
+⎯ 
+       |         |         |         
+ 
+ 
+1 | 4 | 3 | 5 
+  
+ 
+ 
+ 
+
+--- Fim da Página 20 ---
+
+MCA 100-11/2020 
+19/49 
+ 
+2.2.6 ITEM 15: ROTA 
+2.2.6.1 Velocidade de Cruzeiro (máximo 5 caracteres) 
+Inserir a velocidade verdadeira de cruzeiro para a primeira parte ou a totalidade 
+do voo em função de: 
+a) quilômetros por hora: a letra K, seguida de 4 algarismos; 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+  NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ K|  0  | 6  | 5 |  0 
+ 
+   |     |     |     | 
+→  
+b) nós: a letra N, seguida de 4 algarismos; ou 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ N|  0  | 4  | 8 |  0 
+ 
+   |     |     |     | 
+→  
+c) número Mach: a letra M, seguida de 3 algarismos, arredondado aos 
+centésimos mais próximos. 
+Exemplo 3: (para o Mach 0.82) 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+⎯ M | 0 | 8 | 2 |    
+ 
+   |     |     |     | 
+→  
+2.2.6.2 Nível de Cruzeiro (máximo 4 caracteres) 
+2.2.6.2.1 Os procedimentos aqui descritos devem ser observados sem prejuízo do que 
+estabelece a ICA 100-12 sobre Níveis de Cruzeiro e sua aplicabilidade. 
+2.2.6.2.2 Devem ser utilizados os Níveis de Cruzeiro (nível ou altitude do voo) da Tabela de 
+Níveis de Cruzeiro constante da ICA 100-12, respeitando-se o rumo magnético da rota a ser 
+voada e a regra de voo. 
+2.2.6.2.3 Os Níveis de Cruzeiro devem ser expressos em NÍVEL para os voos planejados para 
+serem conduzidos em um nível igual ou superior ao nível de voo mais baixo utilizável ou, 
+quando aplicável, para os voos conduzidos acima da Altitude de Transição. 
+2.2.6.2.4 Os Níveis de Cruzeiro devem ser expressos em ALTITUDE para os voos planejados 
+para serem conduzidos abaixo do nível de voo mais baixo utilizável ou, quando aplicável, para 
+os voos conduzidos abaixo ou na Altitude de Transição. 
+Exemplos: 
+a) para um voo planejado para ser conduzido em NÍVEL: a letra F seguida de 3 
+algarismos; ou 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+ F  |  3 |  3 | 0 | 
+→  
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+ F  |  0 |  8 | 5 | 
+→  
+b) para um voo planejado para ser conduzido em ALTITUDE: a letra A seguida 
+de 3 algarismos. 
+ 
+
+--- Fim da Página 21 ---
+
+20/49 
+MCA 100-11/2020 
+ 
+Exemplo 3: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+ A |  0 | 4 | 0 | 
+→  
+2.2.6.2.5 O Nível de Cruzeiro planejado também deve ser expresso em ALTITUDE quando o 
+voo for realizado na Altitude de Transição (TA) publicada ou abaixo desta e inteiramente dentro 
+de uma FIZ, ATZ, CTR, TMA, incluindo as projeções de seus limites laterais até o solo/água 
+ou, na inexistência desses espaços aéreos, em um raio de 50 km (27NM) do aeródromo de 
+partida. 
+Exemplo:  
+Local de realização de voo: Terminal Belo Horizonte (SBWH) 
+Altitude de Transição: 8000 FT 
+Rumo Magnético do Voo: 260º 
+Regra de Voo: VFR 
+Altitude de voo possível: A065 
+2.2.6.2.6 Quando o voo VFR não for conduzido conforme a Tabela de Níveis de Cruzeiro 
+(Nível ou Altitude de Voo), o Item 15 deve ser preenchido com sigla VFR, especificando-se no 
+Item 18, por meio do indicador RMK/, a altura planejada para a realização do voo, conforme a 
+seguir: 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+ V |  F | R |    | 
+→  
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/500FT AGL 
+2.2.6.3 Rota (incluindo mudanças de velocidade, nível e/ou regras de voo) 
+2.2.6.3.1 Voos em rotas ATS designadas 
+a) inserir o designador da primeira rota ATS, se o aeródromo de partida estiver 
+situado na rota ATS ou conectado a ela ou, ainda, se o aeródromo de partida 
+não estiver na rota ATS nem conectado a ela, inserir as letras DCT seguidas 
+pelo ponto de junção com a primeira rota ATS e pelo designador dessa rota; 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ UW58 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ REA ou REH 
+Exemplo 3: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ DCT REC UW58  
+b) a seguir, inserir cada ponto em que seja planejado o início de uma mudança 
+de velocidade e/ou de nível ou, ainda, em que uma mudança de rota ATS e/ou 
+das regras de voo esteja prevista; ou 
+
+--- Fim da Página 22 ---
+
+MCA 100-11/2020 
+21/49 
+ 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→  DCT REC UW58 SVD/N0440F360 
+ 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ DCT REC UW58 SVD UZ10  
+NOTA: Quando for planejada uma transição entre uma rota ATS inferior e uma superior (e 
+vice-versa), e as rotas forem orientadas na mesma direção e sentido, não será 
+necessário inserir o ponto de transição. 
+Exemplo 1: (SEM PONTO DE TRANSIÇÃO) 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ W10 LAP/N0440F260 UW10  
+Exemplo 2: (COM PONTO DE TRANSIÇÃO) 
+15 VELOCIDADE DE CRUZEIRO 
+NÍVEL 
+ROTA 
+   |     |     |     |    
+   |     |     |     | 
+→G677 MSS/N0440F260 0500S03730W UW33 
+Exemplo 3: (COM PONTO DE TRANSIÇÃO) 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ 
+|     |     |     | 
+ 
+   |     |     |     | 
+→ G677 MSS/N0440F260 MSS342003 UW33 
+NOTA: Nos exemplos 2 e 3, o VOR MSS significa o ponto onde será iniciado o procedimento 
+para atingir a rota ATS superior. O próximo ponto define o ponto de transição entre o 
+espaço aéreo inferior e superior, seguido, em cada caso, pelo designador do próximo 
+segmento de rota ATS, inclusive se for o mesmo que o precedente, ou por DCT, se o 
+voo para o próximo ponto for efetuado fora de uma rota designada. 
+c) seguido, em cada caso, pelo designador do próximo segmento de rota ATS, 
+inclusive se for o mesmo que o precedente, ou por DCT, se o voo para o 
+próximo ponto for efetuado fora de uma rota designada. 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ UW58 SVD UW58 CNF 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ UW58 SVD DCT LAP 
+2.2.6.3.2 Voos fora de rota ATS designada 
+Inserir DCT entre pontos sucessivos, separando cada elemento por um espaço, a 
+não ser que ambos os pontos estejam definidos por coordenadas geográficas ou por marcação e 
+distância. 
+Exemplo 1: 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   |     |     |     |    
+ 
+   |     |     |     | 
+→ FOZ  DCT  URP  DCT 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ 2320S05107W 2336S05123W 
+
+--- Fim da Página 23 ---
+
+22/49 
+MCA 100-11/2020 
+ 
+2.2.6.3.3 Convenções Usadas na Composição de uma Rota 
+2.2.6.3.3.1 Rota ATS (2 a 7 caracteres) 
+O designador de código atribuído à rota ou a segmento de rota, incluindo, quando 
+apropriado, o designador de código atribuído à rota padrão de partida (SID) ou de chegada 
+(STAR). 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→  UW5 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ LIVE 1A NIMKI UZ38 MOXEP IBDIK 1A  
+2.2.6.3.3.2 Ponto Importante (2 a 11 caracteres) 
+Um designador codificado (2 a 5 caracteres) atribuído ao ponto; 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ FLZ ou NEBUS 
+Caso não possua este designador, através dos seguintes meios: 
+a) coordenadas geográficas em graus: 
+ 
+- 2 (dois) algarismos para indicar a latitude em graus, seguidos de N ou S, 
+seguida de 3 (três) algarismos para indicar a longitude em graus, seguidos 
+de E ou W. Quando necessário, completar o número correto de algarismos, 
+onde for preciso, pela inserção de zeros; 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ 16S005W  
+b) coordenadas geográficas em graus e minutos (11 caracteres): 
+ 
+- 4 (quatro) algarismos para indicar a latitude em graus e minutos, seguidos 
+de (N ou S), seguidos de 5 algarismos para indicar a longitude em graus e 
+minutos, seguidos de (E ou W). Quando necessário, completar o número 
+correto de algarismos, onde for preciso, pela inserção de zeros; ou 
+Exemplo 3: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ 0543S05437W  
+c)  marcação e distância a partir de um ponto significativo:  
+ 
+- a identificação de um ponto significativo, seguida de 3 (três) algarismos, 
+em graus magnéticos, e de 3 (três) algarismos correspondentes à distância, 
+em milhas náuticas, entre o ponto e o auxílio considerado, sem espaços. 
+
+--- Fim da Página 24 ---
+
+MCA 100-11/2020 
+23/49 
+ 
+Exemplo 4: (Ponto situado na radial 180 e à distância de 40NM do VOR CNF). 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+    |     |     |     | 
+→ CNF180040 
+2.2.6.3.4 Mudança de velocidade ou de nível de voo (máximo 21 caracteres) 
+O ponto no qual está prevista a mudança de velocidade e/ou de nível, seguido de 
+uma barra oblíqua, da velocidade de cruzeiro e do nível de cruzeiro que serão mantidos, mesmo 
+quando só se mudar um desses dados, sem espaços entre eles. 
+NOTA:  A mudança de velocidade será informada quando houver previsão de variação em 5% 
+da velocidade verdadeira (TAS) ou 0,01 Mach ou mais em relação à declarada no 
+ITEM 15. 
+Exemplo 1: Mudança de velocidade ou de nível de cruzeiro, ou de ambos, sobre o ponto de 
+notificação REPET. 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level
+ROTA 
+Route 
+   |     |     |     |    
+   |     |     |     | 
+REPET/N0410F330 
+Exemplo 2: Mudança de velocidade ou de nível de cruzeiro, ou de ambos, sobre o ponto de 
+coordenadas. 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ 1804S04136W/N0500F310  
+Exemplo 3: Mudança de velocidade ou de nível de cruzeiro, ou de ambos, sobre o ponto na 
+radial 180 e a 40NM do VOR SVD. 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ SVD180040/N0310F180  
+2.2.6.3.5 Mudança das regras de voo (máximo 3 caracteres) 
+O ponto onde está previsto mudar as regras de voo, seguido de um espaço e de 
+uma das indicações seguintes: 
+a) VFR, se for de IFR para VFR; ou 
+b) IFR, se for de VFR para IFR. 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ G677 MSS/N0230F065 VFR DCT  
+Exemplo 2: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ 
+   |     |     |     |    
+ 
+   |     |     |     | 
+→ DCT MSS/N0230F060 IFR G677 
+NOTA 1: No caso de utilização da letra Y ou Z no Item 8 e que o aeródromo de destino opere 
+apenas VFR, observar, também, o previsto na NOTA de 2.2.8.1.18. 
+NOTA 2: O ponto onde está prevista a mudança das regras de voo será considerado um ponto 
+de notificação compulsório. 
+2.2.6.3.6 Subida em cruzeiro (máximo 27 caracteres) 
+A letra C seguida de uma barra oblíqua, do ponto no qual está previsto iniciar a 
+subida em cruzeiro, de outra barra oblíqua, da velocidade a ser mantida durante a subida em 
+
+--- Fim da Página 25 ---
+
+24/49 
+MCA 100-11/2020 
+ 
+cruzeiro, dos dois níveis que definem a camada a ser ocupada durante a subida em cruzeiro, ou 
+do nível a partir do qual está planejada a subida em cruzeiro, seguido das letras PLUS, sem 
+espaços entre eles. 
+Exemplo 1: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ C/0548N05506W/N0485F290F350 
+Exemplo 2: 
+ 
+15 VELOCIDADE DE 
+CRUZEIRO 
+C
+i i
+d
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ C/0548N05506W/N0485F290PLUS 
+Exemplo 3: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯   |     |     |     |    
+ 
+   |     |     |     | 
+→ C/ATF/N0270F080F120 
+Exemplo 4: 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯    |     |     |     |    
+ 
+   |     |     |     | 
+→ C/ATF/N0270F080PLUS 
+2.2.7 ITEM 16: AERÓDROMO DE DESTINO E DURAÇÃO TOTAL PREVISTA DE VOO, 
+AERÓDROMO(S) DE ALTERNATIVA DE DESTINO 
+2.2.7.1 Aeródromo de destino e duração total prevista de voo (8 caracteres) 
+a) inserir o indicador de localidade do aeródromo de destino definido pela 
+autoridade competente, de quatro caracteres, seguido, sem espaço, da duração 
+total prevista de voo (4 caracteres); ou 
+Exemplo: 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+Destination aerodrome 
+ 
+ 
+ 
+HR           MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+⎯ 
+S | B|  B| E 
+ 
+ 
+ 
+0 | 2 
+4 | 5 
+ 
+ 
+→    |     |     |   
+ 
+ 
+→ 
+ 
+     |           |           | 
+   
+b) inserir ZZZZ, seguido, sem espaço, da duração prevista de voo, se não foi 
+atribuído indicador de localidade e especificar, por meio do indicador DEST/ 
+no Item 18, a localidade de destino.  
+NOTA: Para um plano de voo recebido de uma aeronave em voo, a duração total prevista é o 
+tempo calculado a partir do primeiro ponto da rota, à qual é aplicado o plano de voo, 
+até o ponto de término do plano de voo. 
+Exemplo: 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+Destination aerodrome 
+ 
+ 
+ 
+HR           MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+⎯ 
+Z | Z|  Z| Z 
+ 
+ 
+ 
+0 | 1 
+3 | 5 
+ 
+ 
+→    |     |     |   
+ 
+ 
+→ 
+ 
+     |           |           | 
+   
+2.2.7.2 Aeródromo(s) de alternativa de destino (4 ou 8 caracteres) 
+a) inserir o(s) indicador(es) de localidade(s) de não mais que dois aeródromos 
+de alternativa de destino ou pode ser deixado em branco, conforme 
+regulamentação da ANAC. 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+Destination aerodrome 
+ 
+ 
+ 
+HR           MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+⎯ 
+  
+    |     |     |   
+ 
+ 
+ 
+ 
+   |  
+ 
+    |  
+ 
+ 
+→ S | B | S |L 
+ 
+ 
+→ S |B |T |E 
+   
+
+--- Fim da Página 26 ---
+
+MCA 100-11/2020 
+25/49 
+ 
+b) inserir ZZZZ, se não foi atribuído nenhum indicador de localidade, e 
+especificar, por meio do indicador ALTN/ no Item 18, a(s) localidade(s) de 
+alternativa(s). 
+Exemplo: 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+Destination aerodrome 
+ 
+ 
+ 
+HR           MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+⎯ 
+  
+    |     |     |   
+ 
+ 
+ 
+ 
+   |  
+ 
+    |  
+ 
+ 
+→ Z | Z | Z |Z 
+ 
+ 
+→ Z | Z | Z |Z 
+   
+2.2.8 ITEM 18: OUTROS DADOS 
+2.2.8.1 Qualquer outra informação necessária, na forma do indicador apropriado e na sequência 
+mostrada abaixo (STS/, PBN/, RIF/, ... e RMK/), seguido de uma barra oblíqua e do indicador 
+ou designador a ser registrado. 
+NOTA 1: O uso de indicadores não incluídos neste item pode resultar na rejeição dos dados, 
+no seu processamento incorreto ou na sua perda. 
+NOTA 2: Os hifens ou barras oblíquas somente devem ser usados como prescrito nos itens a 
+seguir. 
+2.2.8.1.1 STS/ 
+O motivo do tratamento especial por parte do Órgão ATS deverá ser indicado 
+pelos designadores constantes na tabela abaixo: 
+ALTRV 
+Para um voo operado de acordo com uma reserva de altitude ou nível de voo 
+ATFMX 
+Para um voo não atingido pelas medidas ATFM, após coordenação e aprovação 
+pela autoridade ATS competente. 
+FFR 
+Voo de combate a incêndio 
+FLTCK 
+Voo de inspeção para calibração dos auxílios à navegação aérea 
+HAZMAT 
+Para um voo que transporta material perigoso a bordo (ver NOTA 1) 
+HEAD 
+Para um voo com status de Chefe de Estado a bordo 
+HOSP 
+Para um voo médico declarado por autoridades médicas 
+HUM 
+Para um voo operando em missão humanitária (ver NOTA 2) 
+MARSA 
+Para um voo para o qual uma entidade militar assume responsabilidade pela 
+separação de aeronaves militares  
+MEDEVAC 
+Voo para evacuação de emergência médica crítica para salvaguardar uma vida 
+ou do translado de equipe médica para atender essa necessidade (ver NOTA 3) 
+NONRVSM 
+Para um voo não aprovado RVSM que pretenda operar em espaço aéreo RVSM 
+SAR 
+Para um voo engajado em uma missão de busca e salvamento 
+STATE 
+Para um voo engajado em serviços militares, de alfândega ou policiais 
+NOTA 1: Adicionalmente, deverá ser inserido o termo RADIOFARMACO, precedida do 
+indicador RMK/, para voo que transporte radiofármacos, os quais são destinados à 
+realização de exames e tratamentos pelas áreas de medicina nuclear e radioterapia. 
+NOTA 2: Adicionalmente, deverá ser inserida a codificação SEGP ou DEFC, precedida do 
+indicador RMK/, para as operações aéreas, respectivamente, de segurança pública 
+ou de defesa civil, com o objetivo de socorrer ou salvaguardar a vida humana ou o 
+meio ambiente. 
+
+--- Fim da Página 27 ---
+
+26/49 
+MCA 100-11/2020 
+ 
+NOTA 3: Adicionalmente, deverá ser inserida a codificação TREN ou TROV, precedida do 
+indicador RMK/, caso o voo seja destinado, respectivamente, ao transporte de 
+enfermo ou de órgão vital. 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/SAR   
+Exemplo 2: 
+Exemplo 3: 
+Exemplo 4: 
+Exemplo 5: 
+NOTA: Outros motivos não listados no quadro acima deverão ser indicados sob a designação 
+RMK/. 
+2.2.8.1.2 PBN/ 
+Indicação das especificações RNAV e/ou RNP. Incluir a quantidade necessária 
+de designadores que figuram abaixo, aplicados ao voo, até o máximo de 8 inserções, isto é, um 
+total de até 16 caracteres. 
+DESIGNADORES 
+ESPECIFICAÇÕES RNAV 
+A1 
+RNAV 10 (RNP 10) 
+ 
+ 
+B1 
+RNAV 5 – Todos os sensores permitidos 
+B2 
+RNAV 5 GNSS 
+B3 
+RNAV 5 DME/DME 
+B4 
+RNAV 5 VOR/DME 
+B5 
+RNAV 5 INS ou IRS 
+B6 
+RNAV 5 LORAN C 
+ 
+ 
+C1 
+RNAV 2 – Todos os sensores permitidos 
+C2 
+RNAV 2 GNSS 
+C3 
+RNAV 2 DME/DME 
+C4 
+RNAV 2 DME/DME/IRU 
+ 
+ 
+D1 
+RNAV 1 – Todos os sensores permitidos 
+D2 
+RNAV 1 GNSS 
+D3 
+RNAV 1 DME/DME 
+D4 
+RNAV 1 DME/DME/IRU 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/FLTCK   
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/HUM  RMK/DEFC 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/MEDEVAC RMK/TREN ou RMK/TROV 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/HAZMAT RMK/RADIOFARMACO 
+
+--- Fim da Página 28 ---
+
+MCA 100-11/2020 
+27/49 
+ 
+ 
+DESIGNADORES 
+ESPECIFICAÇÕES RNP 
+L1 
+RNP 4 
+ 
+ 
+O1 
+RNP 1 básica – Todos os sensores permitidos 
+O2 
+RNP 1 GNSS básica 
+O3 
+RNP 1 DME/DME básica 
+O4 
+RNP 1 DME/DME/IRU básica 
+S1 
+RNP APCH 
+S2 
+RNP APCH com BARO-VNAV 
+ 
+ 
+T1 
+RNP AR APCH com RF (especial autorização requerida) 
+T2 
+RNP AR APCH sem RF (especial autorização requerida) 
+Exemplo: 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PBN/B2C3D3S1 
+NOTA:  As combinações de caracteres alfanuméricos não indicadas acima são reservadas. 
+2.2.8.1.3 NAV/ 
+Equipamento adicional de navegação, se indicada a letra Z no ITEM 10, e/ou de 
+aumentação GNSS externa, se indicada a letra G no ITEM 10. 
+Exemplo: 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAV/GBAS 
+2.2.8.1.4 COM/ 
+Indicar equipamentos e capacidades de comunicações, se indicada a letra Z no 
+ITEM 10.  
+Exemplo: 
+ 18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ COM/UHF ONLY 
+2.2.8.1.5 DAT/ 
+Indicar equipamentos e capacidades de dados não especificadas no ITEM 10.  
+2.2.8.1.6 SUR/  
+Indicar equipamentos e capacidades de vigilância não especificadas no ITEM 
+10. Indique o maior número de especificações RSP aplicáveis ao voo, usando o(s) 
+designador(es) sem espaço. Várias especificações RSP são separadas por um espaço.  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ SUR/RSP180 RSP400 
+2.2.8.1.7  DEP/  
+Coordenadas geográficas da localidade de partida ou, caso não seja possível, o 
+nome do município, seguido de um espaço, a Unidade da Federação (UF), seguido de um 
+espaço, e a localidade de partida, se indicado ZZZZ no ITEM 13. Neste último caso, o Plano 
+de Voo poderá não ser recebido se o nome de tal localidade não constar da base de dados.  
+
+--- Fim da Página 29 ---
+
+28/49 
+MCA 100-11/2020 
+ 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ DEP/POUSO ALEGRE MG FAZENDA ESTRELA AZUL 
+NOTA:  As coordenadas geográficas devem ser inseridas com 4 algarismos, que indiquem a 
+latitude em graus e dezenas e unidades de minutos, seguidos da letra “N” (Norte) ou 
+“S” (Sul), seguida de 5 algarismos, que indiquem a longitude em graus e dezenas e 
+unidades de minutos, seguida de “E” (Este) ou “W” (Oeste). Completar o número 
+correto de algarismos, quando necessário, inserindo-se zeros, por exemplo: 
+4620N07805W (11 caracteres).  
+2.2.8.1.8 DEST/  
+Coordenadas geográficas da localidade de destino ou, caso não seja possível, o 
+nome do município, a Unidade da Federação (UF) e a localidade de destino, se indicado ZZZZ 
+no ITEM 16. Neste último caso, o Plano de Voo poderá não ser recebido se o nome de tal 
+localidade não constar da base de dados. 
+NOTA:  As coordenadas geográficas devem ser inseridas com 4 algarismos, que indiquem a 
+latitude em graus e dezenas e unidades de minutos, seguidos da letra “N” (Norte) ou 
+“S” (Sul), seguida de 5 algarismos, que indiquem a longitude em graus e dezenas e 
+unidades de minutos, seguida de “E” (Este) ou “W” (Oeste). Completar o número 
+correto de algarismos, quando necessário, inserindo-se zeros, por exemplo: 
+4620N07805W (11 caracteres).  
+2.2.8.1.9 DOF/ 
+A data de partida do voo em formato de seis letras (YYMMDD), onde: YY é o 
+ano; MM, o mês; e DD, o dia, caso não esteja previsto para ocorrer no dia da apresentação do 
+Plano de Voo. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯DOF/121009 
+2.2.8.1.10 REG/ 
+A marca comum ou de nacionalidade e a marca de matrícula da aeronave, se 
+diferentes da identificação da aeronave que figura no Item 7. 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯REG/PPQLR 
+Registro das aeronaves em caso de voo de formação, separadas por um espaço. 
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯REG/FAB1308 FAB1309 FAB1310 FAB1311 
+
+--- Fim da Página 30 ---
+
+MCA 100-11/2020 
+29/49 
+ 
+Exemplo 3: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯REG/PTKRC PTLDQ 
+2.2.8.1.11 EET/ 
+Designadores de pontos significativos ou limites de FIR internacionais e duração 
+total prevista de voo, desde a decolagem até tais pontos ou limites de FIR, separadas por um 
+espaço. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ EET/GOOO0155 GCCC0245  
+2.2.8.1.12 SEL/ 
+Código SELCAL, para aeronaves com esse equipamento. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯SEL/FKLM 
+2.2.8.1.13 TYP/ 
+Tipo(s) de aeronave(s) precedido(s), caso necessário, sem espaço, pelo  número 
+de aeronaves e separados por um espaço, quando houver tipos diferentes de aeronaves, se 
+registrado ZZZZ no ITEM 9. 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ TYP/EMB123 
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ TYP/2C130 2C95C       
+ 
+2.2.8.1.14 DLE/ 
+Atraso ou espera em rota: inserir os pontos significativos da rota onde se tenha 
+previsto que ocorrerá o atraso, seguidos da duração do atraso, utilizando-se 4 algarismos para 
+o tempo em horas e minutos (hhmm). 
+Exemplo: 
+ 18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ DLE/RDE0030 
+ 
+2.2.8.1.15 OPR/ 
+Designador radiotelefônico ou nome do explorador da aeronave (para aeronaves 
+civis) ou a sigla da Unidade Aérea à qual pertence a aeronave (para aeronaves militares), se não 
+estiver evidente na identificação registrada no ITEM 7. 
+Exemplo: 
+
+--- Fim da Página 31 ---
+
+30/49 
+MCA 100-11/2020 
+ 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ OPR/GEIV 
+2.2.8.1.16 PER/ 
+Dado da performance da aeronave, relativo à velocidade de cruzamento sobre a 
+cabeceira durante o pouso (Vat), no peso máximo certificado de pouso, indicado por uma única 
+letra, conforme descrito abaixo. 
+VELOCIDADE DE CRUZAMENTO DE CABECEIRA (Vat) 
+Cat A 
+Menor que 169 km/h (91kt) IAS 
+Cat B 
+Igual ou maior que 169 km/h (91kt) a menor que 224 km/h (121 kt) IAS 
+Cat C 
+Igual ou maior que 224 km/h (121 kt) a menor que 261 km/h (141 kt) IAS 
+Cat D 
+Igual ou maior que 261 km/h (141 kt) a menor que 307 km/h (166 kt) IAS 
+Cat E 
+Igual ou maior que 307 km/h (166 kt) a menor que 391 km/h (211 kt) IAS 
+Cat H 
+Helicópteros 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯PER/C  
+2.2.8.1.17 ALTN/  
+Coordenadas geográficas da localidade de alternativa ou, caso não seja possível, 
+o nome do município, a Unidade da Federação (UF) e a localidade de alternativa de destino, se 
+indicado ZZZZ no ITEM 16.  Neste último caso, o Plano de Voo poderá não ser recebido se o 
+nome de tal localidade não constar da base de dados.  
+NOTA:  As coordenadas geográficas devem ser inseridas com 4 algarismos, que indiquem a 
+latitude em graus e dezenas e unidades de minutos, seguidos da letra “N” (Norte) ou 
+“S” (Sul), seguida de 5 algarismos, que indiquem a longitude em graus e dezenas e 
+unidades de minutos, seguida de “E” (Este) ou “W” (Oeste). Completar o número 
+correto de algarismos, quando necessário, inserindo-se zeros, por exemplo: 
+4620N07805W (11 caracteres).  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ ALTN/RIO LARGO AL USINA UTINGA LEÃO 
+2.2.8.1.18 RALT/ 
+Inserir o indicador de localidade definido pela autoridade competente, de quatro 
+caracteres, para aeródromos de alternativa em rota ou o nome e a localidade dos aeródromos de 
+alternativa em rota, se não for alocado nenhum indicador.  
+NOTA: No caso de utilização da letra Y ou Z no ITEM 8, e o aeródromo de destino opere 
+apenas VFR, indicar o nível de voo IFR, a rota e o indicador de localidade do 
+aeródromo de alternativa IFR. Adicionalmente, para aeródromos que não constem nas 
+Publicações de Informação Aeronáutica pertinentes, indicar a localidade, conforme 
+descrito em 2.2.8.1.7.1. 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯RALT/SBSM  
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯RALT/F080 G678 SBBH  
+
+--- Fim da Página 32 ---
+
+MCA 100-11/2020 
+31/49 
+ 
+2.2.8.1.19 TALT/ 
+Inserir o indicador de localidade definido pela autoridade competente, de quatro 
+caracteres, para aeródromos de alternativa pós-decolagem, ou o nome e a localidade dos 
+aeródromos de alternativa pós-decolagem, se não for alocado nenhum indicador. 
+Adicionalmente, para aeródromos que não constem nas Publicações de Informação Aeronáutica 
+pertinentes, indicar o local como descrito em 2.2.8.1.7.1. 
+NOTA 1: O TALT deverá ser utilizado sempre que a decolagem for efetuada de aeródromos 
+cujas condições meteorológicas estiverem no mínimo ou abaixo dos mínimos 
+regulares. 
+NOTA 2: O TALT poderá ser utilizado, também, em qualquer outra situação em que o piloto 
+julgue não ser possível regressar ao aeródromo de partida. 
+NOTA 3: O TALT poderá ser informado no momento do preenchimento do Plano de Voo ou, 
+oportunamente, via radiotelefonia para Órgão ATS do local de partida. 
+Exemplo: 
+ 
+18 OUTROS DADOS              
+Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯  TALT/SBGO 
+2.2.8.1.20 RIF/ 
+Os detalhes da rota que leva ao novo destino, seguidos do indicador de localidade 
+definido pela autoridade competente, de quatro caracteres, para tal aeródromo. A rota revisada 
+está sujeita a nova autorização em voo. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RIF/G677 SBNT 
+2.2.8.1.21 RMK/ 
+Outras informações, inseridas na ordem definida na sequência mostrada abaixo, 
+seguidas de uma barra oblíqua e dos dados a serem registrados: 
+a) informação de transporte de enfermo (TREN) ou transporte de órgão vital 
+(TROV), quando inserido STS/MEDEVAC no item 18, para esses fins; 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/TREN ou TROV 
+b) informação de operações aéreas de segurança pública (SEGP) ou de defesa 
+civil (DEFC), quando inserido STS/HUM no item 18, para esses fins; 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/SEGP ou DEFC 
+c) código alfanumérico precedido da sigla CLR, acrescida de duas letras do 
+indicador de localidade definido pela autoridade competente do aeroporto 
+coordenado, que está condicionado à obtenção de SLOT ATC para operações 
+de pouso e decolagem, seguido das letras “P” ou “A”, simbolizando pista 
+“Principal” ou “Auxiliar”, caso haja a necessidade dessa diferenciação, e de 
+“R” ou “G” para as aviações “Regular” ou “Geral”; ou, ainda, o SLOT ATC 
+de oportunidade para pouso ou decolagem precedido da sigla OPT; 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/CLR SPPG1486389 
+
+--- Fim da Página 33 ---
+
+32/49 
+MCA 100-11/2020 
+ 
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/OPT SBSP 
+d) número da respectiva autorização de sobrevoo (AVO), expedida pela 
+autoridade competente para as aeronaves autorizadas a sobrevoar e/ou pousar 
+no território nacional; 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/AVOEM 20512 
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/AVOMD 30712 
+NOTA:  No registro do número da AVOEM ou AVOMD não deve ser utilizado o caractere 
+especial “/”. Caso o número da autorização possua esse caractere (AVOEM 205/12), 
+este deve ser omitido (AVOEM 20512). 
+Exemplo 3: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/AVANAC 1234N12 ou RMK/AVANAC 1234C12 
+e) confirmação do acerto prévio quanto à disponibilidade dos Órgãos ATS, 
+auxílios à navegação aérea ou auxílios luminosos que implica, 
+necessariamente, na adequação dos horários previstos de funcionamento dos 
+mesmos para o referido voo;  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/AD CFM; ou RMK/SBMS CFM; ou RMK/SBLP SBQV CFM 
+ 
+f) Indicativo de chamada oficial, a ser utilizado em radiotelefonia, que 
+ultrapasse os 7 (sete) caracteres previstos para o ITEM 7.  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/INDICATIVO DE CHAMADA LOBO NEGRO 
+g) aeronaves militares, transportando altas autoridades, inserir os códigos de 
+“autoridade a bordo” e de “serviços solicitados”, de acordo com os quadros 
+seguintes:  
+- CÓDIGOS DE AUTORIDADES A BORDO 
+NÚMERO 
+CARGO OU PATENTE 
+1 
+Presidentes, Monarcas, Chefes de Estado ou de Governo 
+2 
+Vice-Presidentes, Governadores, Ministros 
+3 
+Tenentes-Brigadeiros e correspondentes 
+4 
+Majores-Brigadeiros e correspondentes 
+5 
+Brigadeiros e correspondentes 
+
+--- Fim da Página 34 ---
+
+MCA 100-11/2020 
+33/49 
+ 
+- CÓDIGOS DE SERVIÇOS SOLICITADOS 
+LETRA 
+TIPO 
+H 
+Honras previstas no cerimonial 
+V 
+Visita informal do Comandante 
+N 
+Não deseja honras 
+R 
+Reabastecimento 
+P 
+  Pernoite 
+NOTA: A função da autoridade, quando necessário, será informada em linguagem clara após 
+a codificação. 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/1H PRESIDENTE REPÚBLICA FRANCESA 
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/3V COMANDANTE DA AERONÁUTICA 
+Exemplo 3: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ RMK/3NR DIRETOR GERAL DO DECEA 
+h) registro da sigla AFIL, seguida do local (preferencialmente com telefone) ou 
+do Órgão ATS onde se poderá obter as informações suplementares, se o Plano 
+for apresentado em voo (Ver, também, o disposto em 2.2.9.1); 
+Exemplo 1: 
+ 
+18 OUTROS DADOS 
+⎯ RMK/AFIL AEROTEC SA XX 99999999  
+Exemplo 2: 
+ 
+18 OUTROS DADOS 
+⎯ RMK/AFIL RDO LAGOA SANTA 
+NOTA: Essa informação será inserida pelo Órgão ATS que recebeu o AFIL, de acordo com os 
+dados transmitidos pelo piloto.  
+i) indicador de localidade definido pela autoridade competente ou o nome do 
+aeródromo da última decolagem; 
+NOTA 1: Não se aplica às aeronaves militares brasileiras e de transporte aéreo 
+regular. 
+NOTA 2: Excepcionalmente, poderá ser inserido o aeródromo de partida, caso 
+o piloto desconheça o aeródromo da última decolagem, em função do 
+tempo que a aeronave permaneceu estacionada. 
+NOTA 3: Independentemente das demais informações prestadas no ITEM 18, 
+o “FROM” deverá ser, sempre, o último dado a ser inserido. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/FROM SBEG 
+j) designador NONRNAV5 para aeronaves de Estado, aeronaves em missão 
+SAR e aeronaves em missão humanitária que não sejam aprovadas para 
+operação RNAV5, mas que pretendam operar em rota RNAV5; 
+
+--- Fim da Página 35 ---
+
+34/49 
+MCA 100-11/2020 
+ 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/NONRNAV5 
+k) informação da certeza de decolagem para aeronave que decolar de aeródromo 
+desprovido de órgão ATS com destino a aeródromo provido de órgãos ATS, caso 
+o piloto deseje assegurar a prestação do Serviço de Alerta. 
+NOTA:  Frise-se que, caso o piloto opte em inserir tal informação e o voo não venha a ocorrer, 
+ele estará obrigado a informar o correspondente cancelamento a um órgão ATS, o mais 
+rápido possível, no máximo até o horário estimado de pouso no aeródromo de destino, 
+a partir da EOBT. O descumprimento dessa obrigação poderá resultar na 
+responsabilização judicial do piloto pelo acionamento indevido dos meios de busca e 
+salvamento.  
+Exemplo:  
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/DEP CFM 
+l) no caso de aeronave experimental, deverá ser declarado que o voo planejado 
+cumpre todos os requisitos estabelecidos no item 91.319 ou 91.321, conforme 
+aplicável, do RBAC 91, de acordo com o exemplo a seguir; 
+Exemplo:  
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/CUMPRE RBAC 91319 
+NOTA: Essa informação é de caráter obrigatório para a aceitação do Plano de Voo de aeronave 
+experimental pelos Órgãos AIS/ATS. 
+m) no caso de voo de aeronave estrangeira para aeródromo de destino ou 
+alternativa desprovido de Órgão ATS, deverá ser declarado que a tripulação 
+possui capacidade de realizar as coordenações ar-ar por radiotelefonia 
+utilizando o idioma português; 
+Exemplo:  
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/ COOR AR AR PORT 
+NOTA: Essa informação é de caráter obrigatório para a aceitação do Plano de Voo de aeronave 
+estrangeira para aeródromo de destino ou alternativa desprovido de Órgão ATS. 
+n) confirmação do preenchimento da Declaração Geral (General Declaration) 
+para voos com destino ao exterior, quando aplicável;  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/GEDEC CFM 
+o) número do pagamento de tarifa para aeronaves civis estrangeiras, se 
+aplicável; e/ou  
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+⎯ RMK/DAT SBKP2017040020 
+ 
+p) quaisquer outras observações em linguagem clara, separadas por um espaço. 
+2.2.9  ITEM 19: INFORMAÇÕES SUPLEMENTARES 
+
+--- Fim da Página 36 ---
+
+MCA 100-11/2020 
+35/49 
+ 
+2.2.9.1 No caso do AFIL, o ITEM 19 poderá ser omitido, com exceção do nome e código 
+ANAC do piloto em comando, pessoas a bordo e autonomia (Ver 2.2.8.1.21, letra “h”). 
+2.2.9.2 Autonomia 
+Inserir um grupo de 4 algarismos para indicar a autonomia em horas e minutos. 
+Exemplo: 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+ 
+19 
+AUTONOMIA 
+Endurance 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR      MIN 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E / 0 | 4 
+3 | 0 
+ → P / 
+   |     | 
+ 
+→ R / U  
+ 
+V  
+E  
+ 
+2.2.9.3 Pessoas a bordo 
+Inserir o número total de pessoas a bordo (passageiros e tripulantes) ou TBN 
+(para ser notificado), quando o número de pessoas a bordo for desconhecido no momento da 
+apresentação do FPL, o qual será transmitido aos Órgãos ATS envolvidos por radiotelefonia 
+até o momento da decolagem. 
+Exemplo: 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+19 
+ 
+AUTONOMIA 
+Endurance 
+ 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR          MIN 
+ 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E /   |  
+   |  
+ → P / 
+1  | 5 |  
+ 
+→ R / U  
+V  
+E  
+2.2.9.4 Equipamento de emergência e sobrevivência 
+Indicar conforme a seguir: 
+R/(RÁDIO) 
+- Riscar U, se a frequência UHF 243.0 MHz não estiver disponível; 
+- Riscar V, se a frequência VHF 121.5 MHz não estiver disponível; e 
+- Riscar E, se não dispuser de Transmissor Localizador de Emergência 
+(ELT) para localização de aeronave.  
+S/(EQUIPAMENTO 
+DE SOBREVIVÊNCIA) 
+- Riscar todas as letras, se não possuir equipamento de sobrevivência a bordo; ou 
+- Riscar uma ou mais letras indicadoras dos equipamentos que não possuir a bordo. 
+J/(COLETES) 
+- Riscar todas as letras, se não possuir coletes salva-vidas a bordo; 
+- Riscar L, se os coletes não estiverem equipados com luzes; 
+- Riscar F, se os coletes não estiverem equipados com fluorescência; 
+- Riscar U ou V, segundo assinalado em R/, para indicar o equipamento 
+rádio dos coletes; ou 
+- Riscar U e V, se os coletes não estiverem equipados com rádio. 
+D/BOTES 
+(NÚMERO) 
+(CAPACIDADE) 
+(ABRIGO) 
+- Riscar as letras D e C, se não possuir botes a bordo; 
+- Inserir o número de botes que possuir a bordo; 
+- Inserir a capacidade total de pessoas de todos os botes; 
+- Riscar a letra C, se os botes não dispuserem de abrigo; 
+- Inserir a cor dos botes. 
+A/(COR E 
+MARCAS DA 
+AERONAVE) 
+- Inserir a cor ou cores da aeronave e marcas importantes. 
+N/(OBSERVAÇÕES) 
+- Riscar a letra N, se não houver, ou indicar, após a barra oblíqua, outros 
+equipamentos de sobrevivência que possuir a bordo. 
+C/PILOTO 
+EM COMANDO 
+- Inserir o nome do piloto em comando, como se segue: 
+Piloto Militar – posto e nome de guerra, seguidos das iniciais dos outros nomes; 
+Piloto Civil – nome e código ANAC. 
+NOTA: Excepcionalmente, para atender a operações aéreas policiais e 
+
+--- Fim da Página 37 ---
+
+36/49 
+MCA 100-11/2020 
+ 
+de defesa civil, previstas em legislação específica, não serão 
+exigidos o nome e código ANAC do piloto em comando. 
+Exemplo: 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+19 
+ 
+AUTONOMIA 
+Endurance 
+ 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR      MIN 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E / 
+0 | 4 
+0 | 0 
+ 
+ 
+→ P / 
+1 |   5   | 
+ 
+→ R / U  
+ 
+V  
+E  
+ 
+EQUIPAMENTO DE SOBREVIVÊNCIA / Survival equipment 
+COLETES / Jackets 
+POLAR 
+Polar 
+DESERTO 
+Desert 
+MARÍTIMO 
+Maritime 
+ SELVA 
+ Jungle 
+LUZ 
+Light 
+FLUORES 
+Fluores 
+UHF 
+VHF 
+→ 
+ 
+S 
+/ 
+P  
+ 
+D  
+M  
+ 
+J  
+→ 
+J 
+/ 
+L  
+F  
+ 
+U  
+V  
+ 
+BOTES / Dinghies 
+NÚMERO 
+Number 
+ CAPACIDADE 
+ Capacity 
+ABRIGO 
+Cover 
+COR 
+Colour 
+→ D  
+2 |    → 2 |   0   | 
+→ C → LARANJA 
+  
+ 
+ 
+COR E MARCAS DA AERONAVE 
+Aircraft colour and markings 
+ 
+ A / 
+AZUL COM FAIXAS BRANCAS 
+OBSERVAÇÕES 
+Remarks 
+→ N / 
+PRIMEIROS SOCORROS 
+  
+PILOTO EM COMANDO 
+Pilot-in-command 
+ 
+C / 
+SOARES 778899 
+)   
+PREENCHIDO POR / Filled by 
+2.2.10 RESPONSÁVEL, CÓDIGO ANAC E ASSINATURA 
+NOTA: Deve, também, ser observado o disposto no RBAC 61 (Requisitos para Concessão de 
+Licenças de Pilotos e Instrutores de Voo) da ANAC. 
+2.2.10.1 Preenchido por 
+Inserir o nome do responsável pelo preenchimento do Plano de Voo, quando não 
+for o piloto em comando, e o número do telefone. 
+2.2.10.2 Código ANAC 
+Inserir o código ANAC do responsável pelo preenchimento do Plano de Voo, 
+quando não for o piloto em comando. 
+2.2.10.3 Assinatura 
+Assinatura do responsável pelo preenchimento. 
+Exemplo: 
+ 
+ 
+NOME / Name 
+ 
+ 
+ 
+ 
+CÓDIGO ANAC 
+ANAC CODE 
+ 
+ 
+ 
+ASSINATURA / Signature 
+ 
+ 
+ 
+ 
+DÁRIO/ (21) 999999999 
+9  | 2 |  1 | 4  |  1 | 0 
+ 
+
+--- Fim da Página 38 ---
+
+MCA 100-11/2020 
+37/49 
+ 
+3 INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO SIMPLIFICADO 
+3.1 GENERALIDADES 
+3.1.1 O formulário de plano de voo simplificado deverá ser apresentado com os campos, 
+constantes no anexo B, relativos à frente desse formulário devidamente preenchidos. 
+3.1.2 Os campos sombreados do formulário de plano de voo simplificado, constantes no Anexo 
+B, relativos ao verso desse formulário são para uso exclusivo dos Órgãos AIS e ATS. 
+3.1.3 Excepcionalmente, no caso de indisponibilidade do formulário de plano de voo 
+simplificado, poderá ser utilizado o formulário do plano de voo completo para apresentação do 
+plano de voo simplificado, preenchendo apenas os campos relativos à frente desse formulário, 
+constantes no Anexo B. 
+3.2 PROCEDIMENTOS PARA INSERÇÃO DOS DADOS 
+3.2.1 A inserção dos dados no formulário de plano de voo simplificado deverá ser feita 
+conforme disposto no item 2.2, no que for aplicável. 
+3.2.2 Poderão ser incluídas no ITEM 18 outras informações relativas ao voo, complementares 
+às do ITEM 15. 
+Exemplo: 
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ 
+RMK/500FT AGL ou RMK/ SECT LITORAL    
+ 
+
+--- Fim da Página 39 ---
+
+38/49 
+MCA 100-11/2020 
+ 
+4 INSTRUÇÕES PARA O PREENCHIMENTO DO FORMULÁRIO DE PLANO DE 
+VOO REPETITIVO 
+4.1 GENERALIDADES 
+4.1.1 Os planos de voo repetitivos devem ser listados em ordem alfabética, segundo o indicador 
+de localidade do aeródromo de partida, na ordem cronológica, de acordo com as EOBT e em 
+conformidade com o disposto em 4.2, abaixo. 
+4.1.2 O cancelamento de um voo deve ser efetuado da seguinte forma: 
+a) anotar um sinal de menos ( – ), no Item H, e a data do último voo, no Item J, 
+seguidos de todos os outros dados do voo cancelado; e 
+b) em seguida, inserir os demais itens cancelados do voo. 
+4.1.3 As modificações de um voo devem ser realizadas da seguinte forma: 
+a) efetuar o cancelamento, conforme indicado em 4.1.2; e 
+b) inserir um segundo registro com o(s) novo(s) Plano(s) de Voo, preenchendo 
+todos os dados referentes ao voo. 
+4.2 PROCEDIMENTOS PARA INSERÇÃO DOS DADOS 
+4.2.1 ITEM A: EXPLORADOR 
+Inserir o nome do explorador. 
+A 
+EXPLORADOR 
+TAM – Linhas Aéreas S.A. 
+4.2.2 ITEM B: DESTINATÁRIO(S) 
+Inserir o nome do Órgão de acordo com o quadro abaixo. 
+B 
+DESTINATÁRIO(S) 
+CENTRAL DE PLANOS DE VOO 
+REPETITIVOS – CGNA 
+Av. General Justo nº 160 – Centro 
+Rio de Janeiro – RJ 
+CEP – 20021-130 
+4.2.3 ITEM C: AERÓDROMO(S) DE PARTIDA 
+Inserir o indicador ou indicadores de lugar do(s) aeródromo(s) de partida. 
+C 
+AERÓDROMO(S) DE PARTIDA 
+SBGL 
+ 
+
+--- Fim da Página 40 ---
+
+MCA 100-11/2020 
+39/49 
+ 
+4.2.4 ITEM D: DATA 
+Inserir dia, mês e ano correspondentes à data de apresentação. 
+D 
+DATA 
+010210 
+4.2.5 ITEM E: NÚMERO DE SÉRIE 
+Inserir o número sequencial da empresa correspondente à ordem da emissão, 
+seguido do ano, separados por uma barra oblíqua. 
+E 
+NÚMERO DE SÉRIE 
+03/10 
+4.2.6 ITEM F: PÁGINA 
+Inserir o número da página e o número total de páginas apresentadas, separados 
+por uma barra oblíqua. 
+F 
+PÁGINA 
+1/2 
+4.2.7 ITEM G: INFORMAÇÕES SUPLEMENTARES  
+4.2.7.1 Inserir nome e detalhes de contato apropriados da entidade onde as informações 
+normalmente fornecidas no ITEM 19 do plano de voo são mantidas disponíveis e podem ser 
+obtidas sem demora. 
+G 
+INFORMAÇÕES SUPLEMENTARES  
+(ITEM 19) EM: 
+OPERAÇÕES TAM 
+4.2.8 ITEM H: TIPO DE INSERÇÃO 
+Inserir um sinal de mais ( + ) para cada inserção inicial; ou  
+Inserir um sinal de menos ( – ) para cada Plano de Voo que deva ser suprimido 
+da lista. 
+H 
+ 
++ 
+- 
+
+--- Fim da Página 41 ---
+
+40/49 
+MCA 100-11/2020 
+ 
+4.2.9 ITEM I: VÁLIDO DE 
+Inserir a data (dia, mês e ano) do primeiro voo regular. 
+I 
+VÁLIDO 
+DE 
+150310 
+4.2.10 ITEM J: VÁLIDO ATÉ 
+Inserir a data (dia, mês e ano) do último voo regular ou UFN, se não houver 
+prazo. 
+J 
+VÁLIDO 
+ATÉ 
+UFN 
+4.2.11 ITEM K: DIAS DE OPERAÇÃO 
+Inserir o número correspondente ao dia da semana em que se realizarão os voos 
+(1 –  segunda-feira até 7 – domingo); e inserir 0 (zero) na coluna correspondente, para cada dia 
+em que não houver previsão para o voo. 
+K 
+DIAS DE OPERAÇÃO 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+1 
+0 
+3 
+0 
+5 
+0 
+7 
+4.2.12 ITEM L: IDENTIFICAÇÃO DA AERONAVE 
+Inserir a identificação da aeronave a ser utilizada como indicativo de chamada 
+em voo, conforme se segue: 
+L 
+IDENTIFICAÇÃO 
+DA AERONAVE 
+(ITEM 7) 
+TAM 3506 
+4.2.13 ITEM M: TIPO DE AERONAVE E CATEGORIA DA ESTEIRA DE TURBULÊNCIA 
+Inserir o tipo da aeronave e a categoria da esteira de turbulência, de acordo com 
+o item 2.2.3. 
+M 
+ 
+TIPO DE 
+AERONAVE 
+E CATEGORIA 
+DA ESTEIRA 
+DE TURBULÊNCIA 
+(ITEM 9) 
+B727 
+M 
+4.2.14 ITEM N: AERÓDROMO DE PARTIDA E HORA 
+Inserir o indicador de lugar do aeródromo de partida. 
+
+--- Fim da Página 42 ---
+
+MCA 100-11/2020 
+41/49 
+ 
+N 
+AERÓDROMO 
+DE PARTIDA 
+E HORA 
+(ITEM 13) 
+SBGL 
+1400 
+4.2.15 ITEM O: ROTA 
+4.2.15.1 Velocidade de Cruzeiro 
+Inserir a velocidade de cruzeiro, de acordo com o 2.2.6. 
+4.2.15.2  Nível de Cruzeiro 
+Inserir o nível de cruzeiro, de acordo com o 2.2.6. 
+4.2.15.3  Rota 
+Inserir a rota completa, de acordo com o 2.2.6. 
+O 
+ROTA (ITEM 15) 
+ 
+VELOCIDADE 
+DE 
+CRUZEIRO 
+ 
+ 
+NÍVEL 
+ 
+ 
+ROTA 
+N0450 
+F350 
+UZ43 CNF UZ4 
+4.2.16 ITEM P: AERÓDROMO DE DESTINO E DURAÇÃO TOTAL PREVISTA 
+Inserir o indicador de localidade do aeródromo de destino e a duração total 
+prevista de voo. 
+P 
+AERÓDROMO 
+DE DESTINO 
+E DURAÇÃO 
+TOTAL 
+PREVISTA 
+(ITEM 16) 
+SBBR 
+0135 
+4.2.17 ITEM Q: OBSERVAÇÕES 
+4.2.17.1 Inserir qualquer informação necessária de acordo com o 2.2.4, precedido de EQPT/, 
+conforme exemplos a seguir: 
+a) para informar o status de aprovação RVSM, por meio da inserção da letra “W”: EQPT/W;  
+b) para informar o status de aprovação PBN, por meio da inserção da letra “R”: EQPT/R; e  
+c) para o emprego do GNSS, por meio da inserção da letra “G”: EQPT/G. 
+4.2.17.2  Inserir qualquer informação necessária de acordo com o 2.2.8, conforme exemplos a 
+seguir: 
+a) PBN/D1O1; 
+b) RMK/ARR SP2200. 
+ 
+
+--- Fim da Página 43 ---
+
+42/49 
+MCA 100-11/2020 
+ 
+5 DISPOSIÇÕES FINAIS 
+5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas 
+acessando o “link” específico da publicação, por intermédio dos endereços eletrônicos 
+http://publicacoes.decea.intraer/ ou http://publicacoes.decea.gov.br/. 
+5.2 Os casos não previstos nesta Instrução serão submetidos ao Exmo. Sr. Diretor-Geral do 
+DECEA. 
+
+--- Fim da Página 44 ---
+
+MCA 100-11/2020 
+43/49 
+ 
+REFERÊNCIAS 
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e 
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. [Rio de Janeiro], 
+2011. 
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Regras do 
+Ar. ICA 100-12. [Rio de Janeiro], 2016. 
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Serviços de 
+Tráfego Aéreo. ICA 100-37. [Rio de Janeiro], 2018. 
+ICAO. Annex 2 to the Convention on International Civil Aviation: Rules of the Air. [Montreal]: 
+10th ed., July 2005. 
+ICAO. Annex 11 to the Convention on International Civil Aviation: Air Traffic Services: Flight 
+Information Service, Alerting Service. [Montreal]: 15th ed. July 2018. 
+ICAO. Doc.4444/ATM/501: Air Traffic Management: Procedures for Air Navigation Services. 
+[Montreal]: 16th ed., 2016. 
+
+--- Fim da Página 45 ---
+
+44/49 
+MCA 100-11/2020 
+ 
+Anexo A - Formulário de Plano de Voo Completo 
+  PLANO DE VOO 
+  FLIGHT PLAN 
+ 
+ PRIORIDADE 
+ Priority 
+  DESTINATÁRIO(S) 
+  Addressee(s) 
+   FF → 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+HORA DE APRESENTAÇÃO 
+Filing Time 
+ 
+ 
+  REMETENTE 
+  Originator 
+       |   
+       |            |            |   
+→      |          |          |          |          |           |           |    
+  
+ 
+ 
+ IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S)  E/ OU REMETENTE 
+ Specific Identification of addressee(s) and/or originator 
+ 
+ 
+ 
+ 3  TIPO DE MENSAGEM 
+  Message type 
+ 
+ 
+ 
+ 7  IDENTIFICAÇÃO DA AERONAVE 
+  Aircraft identification 
+ 
+  8 REGRAS DE VOO 
+     Flight rules 
+ 
+ 
+  TIPO DE VOO 
+  Type of Flight 
+ 
+   ( FPL 
+ 
+⎯ 
+          |          |          |           |         |          |    
+ 
+⎯ 
+ 
+ 
+ 
+  
+ 
+9  NÚMERO 
+Number 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ CAT. DA ESTEIRA DE TURBULÊNCIA 
+ Wake turbulance Cat 
+ 
+ 10 EQUIPAMENTO  E CAPACIDADES 
+Equipment and Capabilities 
+ 
+⎯ 
+ 
+      | 
+ 
+      |          |           |   
+ 
+     / 
+ 
+⎯ 
+                               /          
+  
+ 
+ 
+ 13 AERÓDROMO DE PARTIDA 
+  Departure Aerodrome 
+ 
+HORA 
+Time 
+ 
+ 
+⎯ 
+     |          |           |  
+ 
+       |          |          |   
+  
+ 
+ 
+  15 VELOCIDADE DE CRUZEIRO 
+  Cruising speed 
+ 
+ NÍVEL 
+ Level 
+ 
+ 
+ ROTA 
+ Route 
+ 
+⎯ 
+      |         |          |          |   
+ 
+      |          |         |          | 
+→ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ EET TOTAL 
+  Total EET 
+ 
+  16 AERÓDROMO DE DESTINO 
+       Destination aerodrome 
+ 
+  HR                MIN 
+  AERÓDROMO ALTN 
+  Altn aerodrome 
+ 
+ 
+  2º AERÓDROMO ALTN 
+  2nd Altn aerodrome 
+ 
+ 
+⎯ 
+      |         |         |   
+ 
+     |   
+      |   
+ 
+→ 
+       |         |          |   
+ 
+→ 
+ 
+     |           |           | 
+   
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+⎯ 
+ 
+ 
+ 
+ 
+)   
+ 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+ 
+19 
+ AUTONOMIA 
+  Endurance 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+  HR              MIN 
+      PESSOAS A BORDO 
+      Persons on board 
+ 
+ 
+ UHF 
+ 
+        VHF 
+ 
+ 
+ELT 
+ 
+ 
+⎯ E / 
+| 
+| 
+ 
+ 
+→ P / 
+       |         | 
+ 
+→R / U  
+ 
+V  
+E 
+ 
+EQUIPAMENTO DE SOBREVIVÊNCIA / Survival equipment 
+ COLETES / Jackets 
+ POLAR 
+ Polar 
+ DESERTO 
+ Desert 
+ MARÍTIMO 
+ Maritime 
+ SELVA 
+ Jungle 
+ LUZ 
+ Light 
+ FLUOR  
+ Fluores 
+ UHF 
+ VHF 
+→ 
+ 
+S / 
+P  
+D  
+M  
+ 
+J 
+ 
+→ 
+J / 
+L  
+F  
+U 
+ 
+V 
+ 
+ BOTES / Dinghies
+ NÚMERO 
+ Number 
+ CAPACIDADE 
+ Capacity 
+ ABRIGO 
+ Cover 
+ COR 
+ Colour 
+→ D / 
+ 
+     | 
+→ 
+ 
+      |          | 
+→ C → 
+ 
+   
+ 
+ 
+ COR E MARCAS DA AERONAVE 
+ Aircraft colour and markings 
+ 
+ 
+A / 
+ 
+ OBSERVAÇÕES 
+ Remarks 
+→ N / 
+ 
+  
+ PILOTO EM COMANDO 
+ Pilot-in-command 
+ 
+C  / 
+ 
+)    
+ PREENCHIDO POR / Filled by 
+ 
+NOME / Name 
+ 
+CÓDIGO ANAC 
+ANAC CODE 
+ 
+ASSINATURA / Signature 
+|
+|
+|
+|
+|
+ 
+
+--- Fim da Página 46 ---
+
+MCA 100-11/2020 
+45/49 
+ 
+Anexo B - Formulário de Plano de Voo Simplificado 
+FRENTE 
+ 
+ 
+PLANO DE VOO SIMPLIFICADO 
+ 
+ABBREVIATED FLIGHT PLAN
+ 
+7 - IDENTIFICAÇÃO DA AERONAVE 
+  
+AIRCRAFT IDENTIFICATION 
+ 
+ 
+ 
+ 
+          |          |          |           |         |          |    
+ 
+ 
+9 - NÚMERO 
+                       TIPO  DE AERONAVE 
+                    TYPE OF AIRCRAFT 
+ 
+ 10 – EQUIPAMENTO E CAPACIDADES 
+     Equipment and Capabilities 
+ 
+ 
+        | 
+ 
+|
+|
+|
+ 
+                     / 
+ 
+13 - AERÓDROMO DE PARTIDA 
+      DEPARTURE AERODROME 
+ 
+    HORA 
+    TIME 
+ 
+ 
+  |         |    |  
+ 
+  |    |    |   
+ 
+ 
+15 - VELOCIDADE DE CRUZEIRO     
+    CRUISING SPEED 
+ NÍVEL 
+     LEVEL 
+ROTA 
+ ROUTE 
+     |    |    |    |   
+ 
+  |       |     |     | 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+TOTAL EET 
+ 
+     16 - AERÓDROMO DE DESTINO 
+           DESTINATION AERODROME 
+ 
+   HR               MIN 
+  AERÓDROMO ALTN 
+  ALTN AERODROME 
+ 
+       |     |     |    
+  |   
+   |   
+     |     |    |   
+ 
+                18 - OUTROS DADOS 
+                             OTHER INFORMATION 
+ 
+  
+ 
+ 
+       19  - AUTONOMIA                                                         INFORMAÇÕES SUPLEMENTARES / SUPPLEMENTARY INFORMATION 
+ENDURANCE                                                            
+ 
+ 
+   HR             MIN 
+          PESSOAS A BORDO 
+           PERSONS ON BOARD 
+ 
+ 
+   E / 
+     |  
+      |   
+ 
+     P /   |        | 
+ 
+ 
+ 
+ COR E MARCAS DA AERONAVE 
+ AIRCRAFT COLOUR AND MARKINGS 
+ 
+         A/   
+  PILOTO EM COMANDO 
+  PILOT-IN-COMMAND 
+C/ 
+ 
+  
+         PREENCHIDO POR / FILLED BY 
+         NOME / NAME 
+ 
+CÓDIGO ANAC 
+ANAC CODE 
+ASSINATURA / SIGNATURE 
+ 
+      |         |         |         |         |   
+ 
+ 
+VERSO 
+  PLANO DE VOO SIMPLIFICADO 
+  ABBREVIATED FLIGHT PLAN 
+ 
+  DESTINATÁRIO(S) 
+  ADDRESSEE(S) 
+ 
+FF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+HORA DE APRESENTAÇÃO 
+FILING TIME 
+ 
+ 
+  REMETENTE 
+  ORIGINATOR 
+ 
+   |  
+   |          |         |   
+  |       |       |        |       |         |       |    
+ 
+ 
+ 
+  IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S) E/OU REMETENTE 
+  SPECIFIC IDENTIFICATION OF ADDRESSEE(S) AND/OR ORIGINATOR 
+ 
+ 
+
+--- Fim da Página 47 ---
+
+46/49 
+MCA 100-11/2017 
+ 
+Anexo C - Formulário de Plano de Voo Repetitivo 
+ 
+PLANO DE VOO REPETITIVO 
+     
+A   EXPLORADOR 
+ 
+B   DESTINATÁRIO (S) 
+  
+C   AERÓDROMO(S) DE PARTIDA 
+ 
+D 
+DATA 
+ 
+E 
+NÚM. DE 
+SÉRIE 
+ 
+F 
+PÁGINA 
+G  INFORMAÇÕES SUPLEMENTARES 
+(ITEM 19) EM: 
+H 
+ 
+ 
+ 
+ 
+ 
++ 
+- 
+I 
+ 
+ 
+ 
+ 
+ 
+VÁLIDO 
+DE 
+J  
+ 
+ 
+ 
+ 
+ 
+VÁLIDO 
+ATÉ 
+K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIAS DE OPERAÇÃO 
+L 
+ 
+ 
+ 
+ 
+ 
+IDENTIFICAÇÃO 
+DA AERONAVE  
+(ITEM 7) 
+M 
+ 
+ 
+TIPO DE 
+AERONAVE E 
+CATEGORIA DA 
+ESTEIRA DE 
+TURBULÊNCIA 
+(ITEM 9) 
+N  
+ 
+ 
+ 
+ 
+AERÓDROMO 
+DE PARTIDA  
+E HORA  
+(ITEM 13) 
+O 
+ROTA (ITEM 15) 
+P 
+ 
+ 
+AERÓDROMO 
+DE DESTINO E 
+DURAÇÃO 
+TOTAL 
+PREVISTA 
+(ITEM 16) 
+Q 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBSERVAÇÕES 
+ 
+ 
+ 
+ 
+VELOCIDADE 
+DE 
+CRUZEIRO 
+ 
+ 
+ 
+ 
+ 
+ 
+NÍVEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ROTA 
+ 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Fim da Página 48 ---
+
+MCA 100-11/2017 
+ 
+Anexo D - 1º Exemplo de Formulário de Plano de Voo Completo Preenchido 
+PLANO DE VOO 
+FLIGHT PLAN 
+ 
+PRIORIDADE 
+Priority 
+DESTINATÁRIO(S) 
+Addressee(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   FF → 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+HORA DE APRESENTAÇÃO 
+Filing Time 
+ 
+ 
+REMETENTE 
+Originator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+|     
+  
+     |         |          |   
+→ 
+ 
+     |          |           |          |           |         |         |   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S)  E/OU REMETENTE 
+Specific Identification of addressee(s) and/or originator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+ 
+⎯ 
+F | A | B | 7 |  3 |   0    |  0    
+ 
+ 
+ 
+⎯ 
+Y  
+ 
+ 
+ 
+M   
+ 
+9  NÚMERO 
+Number 
+ 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO 
+E CAPACIDADES 
+Equipment and Capabilities 
+ 
+ 
+ 
+      | 
+ 
+ 
+ 
+Z | Z | Z | Z 
+ 
+ 
+ 
+/ 
+L  
+ 
+ 
+⎯ 
+SDHGJ1W/SB2G1 
+  
+ 
+ 
+13 AERÓDROMO DE PARTIDA 
+Departure Aerodrome 
+ 
+ 
+HORA 
+Time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ 
+S | B | B|  H 
+ 
+ 
+ 
+0 | 1 | 0 | 0 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ N|  0  | 2  | 0 |  0 
+ 
+F | 1  | 0 |  0 | 
+→ G678 EGBAR/N0200F065 VFR DCT 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+      Destination aerodrome 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+ 
+⎯ 
+S | B|  J | F 
+ 
+ 
+ 
+0 | 1 
+1 | 0 
+ 
+ 
+→ S    | B |  M|  E      
+ 
+→ S    | B |   A|   F        
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ TYP/P95B OPR/1º 7º GAV RALT/F090 DCT SBME  
+    RMK/INDICATIVO DE CHAMADA OLYMPUS 01 
+ 
+ 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+AUTONOMIA 
+Endurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+ 
+ 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E / 
+0 | 4 
+0 | 0 
+ 
+ 
+→ P / 
+T | B |  N 
+ 
+ 
+ 
+ 
+ 
+→ R / U  
+ 
+V  
+E  
+ 
+EQUIPAMENTO DE SOBREVIVÊNCIA / Survival equipment 
+COLETES / Jackets 
+POLAR 
+Polar 
+DESERTO 
+Desert 
+MARÍTIMO 
+Maritime 
+SELVA 
+Jungle 
+LUZ 
+Light 
+FLUORES 
+Fluores 
+UHF 
+VHF 
+→ 
+ 
+S 
+/ 
+P  
+ 
+D  
+M  
+ 
+J  
+→ 
+J 
+/ 
+L  
+F  
+ 
+U  
+V  
+ 
+BOTES / Dinghies 
+NÚMERO 
+Number 
+CAPACIDADE 
+Capacity 
+ABRIGO 
+Cover 
+COR 
+Colour 
+→ D / 
+ 
+| 
+→ 
+ 
+      |          | 
+→ C →  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COR E MARCAS DA AERONAVE 
+Aircraft colour and markings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A / 
+CINZA 
+OBSERVAÇÕES 
+Remarks 
+→ N / 
+PRIMEIROS SOCORROS 
+  
+PILOTO EM COMANDO 
+Pilot-in-command 
+ 
+C / 
+TEN CEL TAVARES X Y 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+PREENCHIDO POR / Filled by 
+ 
+ 
+NOME / Name 
+ 
+ 
+ 
+ 
+CÓDIGO  ANAC 
+ANAC CODE 
+ 
+ 
+ 
+ 
+ASSINATURA / Signature 
+ 
+ 
+ 
+PINHEIRO Cap Av 
+ 
+      |         |         |         |         |   
+ 
+ 
+
+--- Fim da Página 49 ---
+
+48/49 
+MCA 100-11/2020 
+ 
+Anexo E - 2º Exemplo de Formulário de Plano de Voo Completo Preenchido 
+PLANO DE VOO 
+FLIGHT PLAN 
+ 
+PRIORIDADE 
+Priority 
+DESTINATÁRIO (S) 
+Addressee(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   FF → 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+HORA DE APRESENTAÇÃO 
+Filing Time 
+ 
+ 
+REMETENTE 
+Originator 
+ 
+ 
+    |  
+  
+      |        |          |   
+→ 
+  
+     |          |          |         |          |           |          |   
+
+ 
+ 
+IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S)  E/OU REMETENTE 
+Specific Identification of addressee(s) and/or originator 
+ 
+ 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+ 
+⎯ 
+T | A | M  | 3 | 3 | 6   |7 
+ 
+ 
+ 
+⎯ 
+I  
+ 
+ 
+ 
+S   
+ 
+9  NÚMERO 
+Number 
+ 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO 
+E CAPACIDADES 
+Equipment and Capabilities 
+ 
+ 
+ 
+      | 
+ 
+ 
+ 
+B | 7 | 3 | 1 
+ 
+ 
+ 
+/ 
+M  
+ 
+ 
+⎯ 
+SDHGRJ1W/SD   
+ 
+ 
+13 AERÓDROMO DE PARTIDA 
+Departure Aerodrome 
+ 
+ 
+HORA 
+Time 
+ 
+ 
+⎯ 
+S | B | S |  V 
+ 
+ 
+ 
+1 | 8 |  4 |  5 
+  
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+⎯ N|  0  | 3  | 8 |  0 
+ 
+F | 2 |  7  |  0 | 
+→ UW58 ACJ/N0380F290 ARACAJU B  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+      Destination aerodrome 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+ 
+⎯ 
+S | B|  R | F 
+ 
+ 
+ 
+0 | 1 
+1 | 5 
+ 
+ 
+→ S| B | N|  T 
+ 
+ 
+→ S  | B |  M  | O 
+   
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ PBN/B2C3D3S1 REG/PTMVC  PER/D RMK/CLR RFR 6583212 /FROM SBGL 
+     
+ 
+ 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+AUTONOMIA 
+Endurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+ 
+ 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E / 
+0 | 4 
+0 | 0 
+ 
+ 
+→ P / 
+6 |   1  | 
+ 
+ 
+ 
+ 
+ 
+→ R / U  
+ 
+V  
+E  
+ 
+EQUIPAMENTO DE SOBREVIVÊNCIA / Survival equipment 
+COLETES / Jackets 
+POLAR 
+Polar 
+DESERTO 
+Desert 
+MARÍTIMO 
+Maritime 
+ SELVA 
+ Jungle 
+LUZ 
+Light 
+FLUORES 
+Fluores 
+UHF 
+VHF 
+→ 
+ 
+S 
+/ 
+P  
+ 
+D  
+M  
+ 
+J  
+→ 
+J 
+/ 
+L  
+F  
+ 
+U  
+V  
+ 
+BOTES / Dinghies 
+NÚMERO 
+Number 
+CAPACIDADE 
+Capacity 
+ABRIGO 
+ Cover 
+COR 
+Colour 
+→ D / 
+1 | 0 → 1  |0  |0 
+→ C →  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COR E MARCAS DA AERONAVE 
+Aircraft colour and markings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A / 
+BRANCA 
+OBSERVAÇÕES 
+Remarks 
+→ N / 
+PRIMEIROS SOCORROS 
+  
+PILOTO EM COMANDO 
+Pilot-in-command 
+ 
+C / 
+FELICIANO 112233 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+PREENCHIDO POR / Filled by 
+ 
+ 
+NOME / Name 
+ 
+ 
+ 
+ 
+CÓDIGO ANAC 
+ANAC CODE 
+ 
+ 
+ 
+ 
+ASSINATURA / Signature 
+ 
+ 
+ 
+LOURENÇO 
+2    | 4 | 6 | 9  | 2 |  4 
+ 
+ 
+
+--- Fim da Página 50 ---
+
+MCA 100-11/2020 
+49/49 
+ 
+Anexo F - 3º Exemplo de Formulário de Plano de Voo Completo Preenchido 
+PLANO DE VOO 
+FLIGHT PLAN 
+ 
+PRIORIDADE 
+Priority 
+DESTINATÁRIO (S) 
+Addressee (s) 
+   FF → 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+HORA DE APRESENTAÇÃO 
+Filing Time 
+ 
+ 
+REMETENTE 
+Originator 
+   
+|  
+ 
+    |           |          |   
+→ 
+ 
+     |          |         |          |           |          |           |   
+ 
+ 
+ 
+IDENTIFICAÇÃO COMPLEMENTAR DE DESTINATÁRIO(S)  E/OU REMETENTE 
+Specific Identification of addressee(s) and/or originator 
+ 
+ 
+ 
+3  TIPO DE MENSAGEM 
+Message type 
+ 
+ 
+ 
+7  IDENTIFICAÇÃO DA AERONAVE 
+Aircraft identification 
+ 
+ 
+ 
+8 REGRAS DE VOO 
+   Flight rules 
+ 
+ 
+TIPO DE VOO 
+Type of Flight 
+ 
+   ( FPL 
+ 
+⎯ 
+P |  T | B | U | G |         | 
+ 
+ 
+ 
+⎯ 
+Z  
+ 
+ 
+ 
+G   
+ 
+9  NÚMERO 
+Number 
+ 
+ 
+TIPO DE AERONAVE 
+Type of aircraft 
+ 
+ 
+ 
+CAT. DA ESTEIRA DE TURBULÊNCIA 
+Wake turbulance Cat 
+ 
+10 EQUIPAMENTO 
+E CAPACIDADES 
+Equipment and Capabilities 
+ 
+ 
+ 
+      | 
+ 
+ 
+ 
+E | 1 | 2 | 1 
+ 
+ 
+ 
+/ 
+L  
+ 
+ 
+⎯ 
+S D /C   
+ 
+ 
+13 AERÓDROMO DE PARTIDA 
+Departure Aerodrome 
+ 
+ 
+HORA 
+Time 
+ 
+ 
+⎯ 
+S | D| T | P 
+ 
+ 
+ 
+1 | 5  | 4  | 0 
+  
+ 
+15 VELOCIDADE DE CRUZEIRO 
+ Cruising speed 
+ 
+NÍVEL 
+Level 
+ 
+ 
+ROTA 
+Route 
+ 
+⎯ N|  0  | 2  | 1 |  0 
+ 
+F | 0 |  7 |  5 | 
+→ DCT ASS DCT JAVAN/N0210F090 IFR W26 CTB/N0200F080 G449  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EET TOTAL 
+Total EET 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 AERÓDROMO DE DESTINO 
+      Destination aerodrome 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+AERÓDROMO ALTN 
+Altn aerodrome 
+ 
+ 
+2º AERÓDROMO ALTN 
+2nd Altn aerodrome 
+ 
+ 
+⎯ 
+S | B|  L | J 
+ 
+ 
+ 
+0 | 1 
+3 | 0 
+ 
+ 
+→ S | B | F |  L 
+ 
+ 
+→ 
+ 
+     |           |           | 
+   
+ 
+18 OUTROS DADOS 
+ Other information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+⎯ STS/MEDEVAC DOF/120703 OPR/DOUTOCOR LTDA  RMK/TREN /AFIL DOUTOCOR 0XX118899777  
+/FROM SBRJ 
+ 
+ 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMAÇÕES SUPLEMENTARES (NÃO SERÁ TRANSMITIDO NA MENSAGEM FPL) 
+Supplementary information (Not to be transmitted in FPL messages) 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+AUTONOMIA 
+Endurance 
+EQUIPAMENTO RÁDIO DE EMERGÊNCIA 
+Emergency radio 
+ 
+ 
+ 
+HR      MIN 
+ 
+ 
+ 
+PESSOAS A BORDO 
+Persons on board 
+ 
+ 
+ 
+ 
+ 
+ 
+UHF 
+ 
+VHF  
+ 
+ELT 
+ 
+ ⎯ E / 
+0 | 2 
+3 | 0 
+ 
+ 
+→ P / 
+5 |       | 
+ 
+ 
+ 
+ 
+ 
+→ R / U  
+ 
+V  
+E  
+ 
+EQUIPAMENTO DE SOBREVIVÊNCIA / Survival equipment 
+COLETES / Jackets 
+POLAR 
+Polar 
+DESERTO 
+Desert 
+MARÍTIMO 
+Maritime 
+SELVA 
+Jungle 
+LUZ 
+Light 
+FLUORES 
+Fluores 
+UHF 
+VHF 
+→ 
+ 
+S 
+/ 
+P  
+ 
+D  
+M  
+ 
+J  
+→ 
+J 
+/ 
+L  
+F  
+ 
+U  
+V  
+ 
+BOTES / Dinghies 
+NÚMERO 
+Number 
+CAPACIDADE 
+Capacity 
+ABRIGO 
+Cover 
+COR 
+Colour 
+→ D / 
+ 
+| 
+→ 
+ 
+      |          | 
+→ C →  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COR E MARCAS DA AERONAVE 
+Aircraft colour and markings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A / 
+BRANCA 
+OBSERVAÇÕES 
+Remarks 
+→ N / 
+PRIMEIROS SOCORROS 
+  
+PILOTO EM COMANDO 
+Pilot-in-command 
+ 
+C / 
+RODRIGO 244872 
+)   
+ 
+ 
+ 
+ 
+ 
+ 
+PREENCHIDO POR / Filled by 
+ 
+                            NOME / Name 
+ 
+CÓDIGO ANAC 
+ANAC CODE 
+ 
+ASSINATURA / Signature 
+JOÃO FERNANDO 
+4  | 7 | 9 | 3  | 2 |  2 
+ 
+
+--- Fim da Página 51 ---
+
