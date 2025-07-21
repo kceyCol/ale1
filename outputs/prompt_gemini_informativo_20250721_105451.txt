@@ -1,0 +1,216 @@
+Por favor, analise o seguinte texto extraído de um PDF e crie um RESUMO INFORMATIVO.
+
+O resumo informativo deve:
+- Apresentar as informações principais do texto original
+- Funcionar como um substituto do documento original
+- Permitir que quem lê absorva os pontos-chave sem precisar consultar a fonte
+- Incluir fatos essenciais, dados importantes e conclusões principais
+- Ser mais detalhado que um resumo indicativo, mas mais conciso que o texto original
+
+Este tipo de resumo é útil para quem precisa dos fatos essenciais de forma rápida e condensada.
+
+Texto para análise:
+
+P O C K E T
+NOTEBOOK
+Pocket
+MEDICINE
+Fourth Edition
+Edited by
+MARC S. SABATINE, M.D., M.P.H.
+ASSOCIATE PROFESSOR OF MEDICINE
+HARVARD MEDICAL SCHOOL
+The Massachusetts General Hospital
+Handbook of Internal Medicine
+
+--- Fim da Página 1 ---
+
+ELECTROCARDIOGRAPHY
+Approach (a systematic approach is vital) 
+• Rate (? tachy, brady) and rhythm (? relationship between P and QRS)
+• Intervals (PR, QRS, QT) and axis (? LAD or RAD)
+• Chamber abnormality (? LAA and/or RAA, ? LVH and/or RVH)
+• QRST changes (? Q waves, poor R-wave progression V1–V6, ST c/T, or T-wave s)
+Left axis deviation (LAD)
+• Definition: axis beyond –30 (S  R in lead II)
+• Etiologies: LVH, LBBB, inferior MI,WPW
+• Left anterior fascicular block: LAD (–45 to
+–90) and qR in aVL and QRS 120 msec and
+no other cause of LAD (eg, IMI)
+Right axis deviation (RAD)
+• Definition: axis beyond 90 (S  R in lead I)
+• Etiologies: RVH, PE, COPD (usually not 110),
+septal defects, lateral MI,WPW
+• Left posterior fascicular block: RAD (90–180)
+and rS in I & aVL and qR in III & aVF and
+QRS 120 msec and no other cause of RAD
+Bundle Branch Blocks (Circ 2009;119:e235)
+Initial depol. is left-to-right across septum (r in V1 & q in V6;
+Normal
+nb, absent in LBBB) followed by LV & RV free wall, with LV
+dominating (nb, RV depol. later and visible in RBBB).
+RBBB
+1. QRS 120 msec (110–119  incomplete)
+2. rSR’ in R precordial leads (V1,V2)
+3. Wide S wave in I and V6
+4.
+	 STT or TWI in R precordial leads
+LBBB
+1. QRS 120 msec (110–119  incomplete)
+2. Broad, slurred, monophasic R in I, aVL,V5–V6 (	 RS in 
+V5–V6 if cardiomegaly)
+3. Absence of Q in I,V5, and V6 (may have narrow q in aVL)
+4. Displacement of ST & Tw opposite major QRS deflection
+5.
+	 PRWP, LAD, Qw’s in inferior leads
+Bifascicular block: RBBB  LAFB/LPFB
+Prolonged QT interval (JAMA 2003;289:2120; NEJM 2004;350:1013; www.torsades.org)
+• QT measured from beginning of QRS complex to end of T wave (measure longest QT)
+• QT varies w/ HR S correct w/ Bazett formula: QTc  QT/
+(in sec),
+formula inaccurate at very high and low HR (nl QTc 450 msec  and 460 msec )
+• Etiologies:
+Antiarrhythmics: class Ia (procainamide, disopyramide), class III (amiodarone, sotalol)
+Psych drugs: antipsychotics (phenothiazines, haloperidol, atypicals), Li, ? SSRI,TCA
+Antimicrobials: macrolides, quinolones, voriconazole, pentamidine, atovaquone,
+chloroquine, amantadine, foscarnet, atazanavir, ? TMP-SMX
+Other: antiemetics (droperidol, 5-HT3 antagonists), alfuzosin, methadone, ranolazine
+Electrolyte disturbances: hypoCa, ? hypoK, ? hypoMg
+Autonomic dysfxn: ICH (deep TWI), stroke, carotid endarterectomy, neck dissection
+Congenital (long QT syndrome): K, Na, Ca channelopathies (Lancet 2008;372:750)
+Misc: CAD, CMP, bradycardia, high-grade AVB, hypothyroidism, hypothermia
+Left Atrial Abnormality (LAA)
+Right Atrial Abnormality (RAA)
+ECG
+P wave
+Criteria
+Left ventricular hypertrophy (LVH) (Circ 2009;119:e251)
+• Etiologies: HTN,AS/AI, HCMP, coarctation of aorta
+• Criteria (all w/ Se 50%, Sp 85%)
+Romhilt-Estes point-score system: 4 points  probable, 5 points  definite
+cAmplitude (any of the following):largest R or S in limb leads 20 mm or S in V1 or V2
+30 mm or R in V5 or V6 30 mm (3 points)
+1RR
+V
+V
+I  0°
+II
++60°
+III
++120°
+aVL
+−30°
+aVF
++90°
+aVR
+−150°
+−90°
+±180°
+LAD
+RAD
+normal
+axis
+Figure 1-1 QRS axis
+>120 msec
+>40 msec
+II
+V
+or
+>1 mm
+II
+V1
+or
+>1.5 mm
+>2.5 mm
+ECG
+1-1
+
+--- Fim da Página 2 ---
+
+ST displacement opposite to QRS deflection: w/o dig (3 points); w/ dig (1 point)
+LAA (3 points); LAD (2 points); QRS duration 90 msec (1 point)
+Intrinsicoid deflection (QRS onset to peak of R) in V5 or V6 50 msec (1 point)
+Sokolow-Lyon: S in V1  R in V5 or V6 35 mm
+Cornell: R in aVL  S in V3 28 mm in men or 20 mm in women
+Other: R in aVL 11 mm (or, if LAD/LAFB, 13 mm and S in III 15 mm)
+Right ventricular hypertrophy (RVH) (Circ 2009;119:e251)
+• Etiologies: cor pulmonale, congenital (tetralogy,TGA, PS,ASD,VSD), MS,TR
+• Criteria (all tend to be insensitive, but highly specific, except in COPD)
+R  S in V1 or R in V1 7 mm, S in V5 or V6 7 mm, drop in R/S ratio across precordium
+RAD 110 (LVH  RAD or prominent S in V5 or V6 S biventricular hypertrophy)
+Ddx of dominant R wave in V1 or V2
+• Ventricular enlargement: RVH (RAD, RAA, deep S waves in I,V5,V6); HCMP
+• Myocardial injury: true posterior MI (often IMI); Duchenne muscular dystrophy
+• Abnormal depolarization: RBBB (QRS 120 msec, rSR’);WPW (T PR, 
+ wave, c QRS)
+• Other: dextroversion; lead misplacement; normal variant
+Poor R-wave progression (PRWP) (Archives 1982;142:1145)
+• Definition: loss of anterior forces w/o frank Q waves (V1–V3); R wave in V3 3 mm
+• Etiologies:
+old anteroseptal MI (usually R wave V3 1.5 mm, 	 persistent ST c or TWI V2 & V3)
+cardiomyopathy 
+LVH (delayed RWP with prominent left precordial voltage)
+RVH/COPD (small R wave and prominent S wave in lead I)
+LBBB;WPW; clockwise rotation of the heart; lead misplacement
+Pathologic Q waves
+• Definition: 30 msec or 25% height of the R wave in that complex
+• Small (septal) q waves in I, aVL,V5 & V6 are normal, as can be isolated Qw in III, aVR,V1
+• “Pseudoinfarct” pattern may be seen in LBBB, infiltrative disease, HCMP, COPD, PTX,WPW
+ST elevation (STE) (NEJM 2003;349:2128; Circ 2009;119:e241, e262)
+• Acute MI (upward convexity 	 TWI) or prior MI with persistent STE
+• Coronary spasm (Prinzmetal’s angina; transient STE in a coronary distribution)
+• Myopericarditis (diffuse, upward concavity STE; a/w PR T;Tw usually upright)
+• HCMP, Takotsubo CMP, ventricular aneurysm, cardiac contusion 
+• Pulmonary embolism (occ. STE V1–V3; typically associated TWI V1–V4, RAD, RBBB)
+• Repolarization abnormalities
+LBBB (c QRS duration, STE discordant from QRS complex)
+dx of STEMI in setting of LBBB: 1 mm STE concordant w/ QRS (Se 73%, Sp 92%)
+or 5 mm discordant (Se 31%, Sp 92%) (“Sgarbossa criteria,” NEJM 1996;334:481)
+LVH (c QRS amplitude); Brugada syndrome (rSR’, downsloping STE V1–V2)
+Hyperkalemia (c QRS duration, tall Ts, no Ps)
+• Early repolarization: most often seen in leads V2–V5 and in young adults 
+J point c 1–4 mm; notch in downstroke of R wave; upward concavity of ST; large Tw;
+ratio of STE / T wave amplitude 25%; pattern may disappear with exercise
+early repol in inf leads may be a/w c risk of VF, but absolute risk low (NEJM 2009;361:2529)
+ST depression (STD)
+• Myocardial ischemia (	 Tw abnl) or acute true posterior MI (V1–V3)
+• Digitalis effect (downsloping ST 	 Tw abnl, does not correlate w/ dig levels)
+• Hypokalemia (	 U wave)
+• Repolarization abnl in a/w LBBB or LVH (usually in leads V5,V6, I, aVL)
+T wave inversion (TWI; generally 1 mm; deep if 5 mm) (Circ 2009;119:e241)
+• Ischemia or infarct;Wellens’ sign (deep early precordial TWI) S proximal LCA lesion
+• Myopericarditis; CMP (incl Takotsubo & ARVD); MVP; PE (especially if TWI V1–V4)
+• Repolarization abnl in a/w LVH/RVH (“strain pattern”), BBB
+• Post-tachycardia or post-pacing
+• Electrolyte, digoxin, PaO2, PaCO2, pH, or core temperature disturbances
+• Intracranial bleed (“cerebral T waves,” usually w/ c QT)
+• Normal variant in children (V1–V4) and leads in which QRS complex predominantly ;
+profound TWI in young athletes may predict future risk of CMP (NEJM 2008;358:152)
+Low voltage
+• QRS amplitude (R  S) 5 mm in all limb leads & 10 mm in all precordial leads
+• Etiologies: COPD (precordial leads only), pericardial effusion, myxedema, obesity,
+pleural effusion, restrictive or infiltrative CMP, diffuse CAD
+ECG
+1-2
+
+--- Fim da Página 3 ---
+
+CHEST PAIN
+1-3
+CHEST PAIN
+Cardiac Causes
+Disorder
+Typical Characteristics & Diagnostic Studies
+Unstable 
+Substernal pressure S neck, jaw, L arm; 30. 	 Dyspnea, diaphoresis,
+angina
+N/V. c w/ exertion; T w/ NTG or rest; however, relief by NTG in ED not 
+reliable indicator of angina (Annals EM 2005;45:581). 	 ECG s (ST T/c,TWI).
+MI
+Same as angina but c intensity & duration.  troponin or CK-MB.
+Pericarditis
+Sharp pain S trapezius, c w/ respiration, T w/ sitting forward. 	 Pericardial
+& Myo-
+friction rub. ECG s (diffuse STE & PR T). 	 Pericardi...
+
+Por favor, forneça um resumo informativo completo.
